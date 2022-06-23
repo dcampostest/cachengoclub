@@ -1,7 +1,6 @@
 {
   "name": "cachengoclub",
   "version": "0.1.0",
-  "homepage": "www.cachengoclub.com/",
   "private": true,
   "dependencies": {
     "@emotion/core": "^10.0.0",
