@@ -1,16 +1,19 @@
-# Stage 0, "build-stage", based on Node.js, to build and compile the frontend
-FROM greenaj/node-frontend:12 as build-stage
+# pull official base image
+FROM node:16
 
+# set working directory
 WORKDIR /app
 
-COPY package*.json /app/
+# add `/app/node_modules/.bin` to $PATH
+ENV PATH /app/node_modules/.bin:$PATH
 
+# install app dependencies
+COPY package.json ./
+COPY package-lock.json ./
 RUN npm install
-COPY ./ /app/
-RUN npm run build
-# Stage 1, based on Nginx, to have only the compiled app, ready for production with Nginx
-FROM nginx:1.16
 
-COPY --from=build-stage /app/build/ /usr/share/nginx/html
+# add app
+COPY . ./
 
-COPY --from=build-stage /default.conf /etc/nginx/conf.d/default.conf
+# start app
+CMD ["npm", "start"] 
