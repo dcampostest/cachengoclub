@@ -16,10 +16,14 @@
 .mains-name {
   margin: 0;
   flex-grow: 1;
+  color: #055342;
 }
 
 .mains-description {
   flex: 1 1 100%;
   margin: 0.75rem 0 0;
-  color: var(--secondary);
+  color: #4f3e32;
+}
+.mains-price {
+  color: #b82f0de3;
 }
