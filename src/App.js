@@ -39,7 +39,7 @@ function App() {
           <Inicio />
           <Products />
           <Nosotros />
-          <Contacto /> 
+          <Contacto />
         </>
       }
     </div>

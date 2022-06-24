@@ -1,3 +1,25 @@
 .App {
   text-align: center;
 }
+
+.menu-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+.mains {
+  grid-column: 1 / 2;
+}
+
+.mains-name {
+  margin: 0;
+  flex-grow: 1;
+}
+
+.mains-description {
+  flex: 1 1 100%;
+  margin: 0.75rem 0 0;
+  color: var(--secondary);
+}

@@ -1,0 +1,449 @@
+{
+    "gintoneria": [
+        {
+        "name": "Gin Tonic",
+        "description": "Gin Flipa, Agua Tónica",
+        "price": "500"
+        },
+        {
+            "name": "Bombay Frutos Rojos",
+            "description": "Gin Bombay frutos rojos y maracuyá, Agua Tónica",
+            "price": "850"
+        },
+        {
+            "name": "Bombay Tonic",
+            "description": "Gin Bombay, Agua Tónica",
+            "price": "700"
+        },
+        {
+            "name": "Gin Malaria",
+            "description": "Gin Malaria, Agua Tónica",
+            "price": "1000"
+        }
+    ],
+    "birras": [
+        {
+            "name": "APA Cat",
+            "description": "Cerveza frutada, aromática con leve amargor",
+            "price": "250"
+        },
+        {
+            "name": "IPA Cat ",
+            "description": "cerveza de alta graduación alcohólica, con una elevada cantidad de lúpulo y por lo tanto un elevado nivel de amargor",
+            "price": "250"
+        },
+        {
+            "name": "Minino Red IPA",
+            "description": "Cerveza roja, de malta tostada, mas amarga",
+            "price": "250"
+        },
+        {
+            "name": "Gato IRISH",
+            "description": "Cerveza roja, con sabor a caramelo, cerveza dulce y suave",
+            "price": "250"
+        },
+        {
+            "name": "Bigote PILSEN",
+            "description": "Cerveza Rubia, de color palido y sabor fresco",
+            "price": "250"
+        },
+        {
+            "name": "Variedad Premium",
+            "description": "Consultar Disponibilidad",
+            "price": "300"
+        }
+    ],
+    "burguers": [
+        {
+            "name": "CACHENGO BBQ",
+            "description": "Pan de papa, medallón de 110 g, cheddar, panceta ahumada, barbacoa y papas fritas",
+            "price": "800"
+        },
+        {
+            "name": "BIG CAT",
+            "description": "Pan de papa, medallón de 110 g, lechuga, cebolla, cheddar, salsa big cat, pepinillos y papas fritas.",
+            "price": "800"
+        },
+        {
+            "name": "AMERICANA",
+            "description": "Pan de papa, medallón de 110 g, lechuga, cebolla, cheddar, tomate, ketchup y papas fritas.",
+            "price": "800"
+        }
+    ],
+    "pizzas": [
+        {
+            "name": "PIZZA MUZZA",
+            "description": "Pizza con salsa de tomate (receta especial), muzza, chimi y aceituna.",
+            "price": "700"
+        },
+        {
+            "name": "PIZZA SÚPER ESPECIAL",
+            "description": "Pizza con salsa de tomate (receta especial), muzza, jamón cocido, chimi, morrón y aceituna.",
+            "price": "800"
+        },
+        {
+            "name": "PIZZA JAMÓN Y RÚCULA",
+            "description": "Pizza con salsa de tomate (receta especial), muzza, jamón crudo, rúcula, chimi y aceituna.",
+            "price": "850"
+        }
+    ],
+    "entradas": [
+        {
+            "name": "PAPA MIAU",
+            "description": "Papas y lactonesa.",
+            "price": "500"
+        },
+        {
+            "name": "PAPACHENGO",
+            "description": "Papas, cheddar, panceta ahumada y verdeo.",
+            "price": "650"
+        },
+        {
+            "name": "RABAS CACHENGO",
+            "description": "Rabas a la Romana, limónes, mayonesa de ajo.",
+            "price": "1000"
+        }
+    ],
+    "bebidasfresh": [
+        {
+            "name": "LIMONADA DETOX",
+            "description": "Limón, menta, jengibre, agua mineral y almibar.",
+            "price": "400"
+        },
+        {
+            "name": "JUGO DE NARANJA ",
+            "description": "Jugo de naranja, rodaja introducida.",
+            "price": "300"
+        },
+        {
+            "name": "LICUADO CACHENGO",
+            "description": "Ananá o Frutilla, manzana verde, jugo de limón y almibar simple.",
+            "price": "500"
+        },
+        {
+            "name": "MOCKTAIL ORANGE",
+            "description": "Jugo de limón, jugo de naranja, granadina y agua tónica.",
+            "price": "400"
+        },
+        {
+            "name": "CARIBEAN FRESH",
+            "description": "Pulpa de mangoi, pulpa de maracuyá, energizante speed.",
+            "price": "400"
+        }
+    ],
+    "bebidassinalcohol": [
+        {
+            "name": "Pepsi",
+            "description": "Gaseosa Cola, línea común y zero de 500 ml.",
+            "price": "200"
+        },
+        {
+            "name": "Mirinda",
+            "description": "Gaseosa Naranja línea, común de 500 ml.",
+            "price": "200"
+        },
+        {
+            "name": "7up",
+            "description": "Gaseosa Lima limón, línea común de 500 ml.",
+            "price": "200"
+        },
+        {
+            "name": "Pasos de los toros",
+            "description": "Gaseosa pomelo, línea común de 500 ml.",
+            "price": "200"
+        },
+        {
+            "name": "Agua Saborizada",
+            "description": "Pomelo/Naranja/Manzana",
+            "price": "200"
+        },
+        {
+            "name": "Agua sin Gas",
+            "description": "Agua mineral de 500 ml.",
+            "price": "200"
+        }
+    ],
+    "champagnes": [
+        {
+            "name": "RENNA",
+            "description": "Champagne Renna extra brut.",
+            "price": "800"
+        },
+        {
+            "name": "LOS HAROLDOS",
+            "description": "Champagne los Haroldos extra brut.",
+            "price": "1100"
+        }
+    ],
+    "franui": [
+        {
+            "name": "FRANUI CHOCO AMARGO",
+            "description": "Franui chocolate amargo y chocolate blanco.",
+            "price": "550"
+        },
+        {
+            "name": "FRANUI CHOCO CON LECHE",
+            "description": "Franui chocolate con leche y chocolate blanco.",
+            "price": "550"
+        }
+    ],    
+    "vinos": [
+        {
+            "name": "VINOS LOS HAROLDOS",
+            "description": "Botella de vino Los Haroldos state.",
+            "price": "1000"
+        },
+        {
+            "name": "COPA VINOS LOS HAROLDOS",
+            "description": "Copa de vino Los Haroldos state.",
+            "price": "400"
+        }
+    ],
+    "combos": [
+        {
+            "name": "COMBO DE FERNET",
+            "description": "Fernet Branca + Coca cola 2,5L.",
+            "price": "2500"
+        },
+        {
+            "name": "COMBO DE GIN",
+            "description": "Gin Gordons + Rónica Pasos/ 1,5L.",
+            "price": "3000"
+        },
+        {
+            "name": "COMBO DE VODKA",
+            "description": "Vodka smirnoff/sky + Gaseosa 2,5L.",
+            "price": "2500"
+        },
+        {
+            "name": "COMBO DE CHAMPAGNE",
+            "description": "Champange Renna + 2 speed.",
+            "price": "1100"
+        }
+    ],
+    "cocktails": [
+        {
+            "name": "FERNET BRANCA",
+            "description": "Vaso de fernet branca y coca cola.",
+            "price": "300"
+        },
+        {
+            "name": "GARIBALDI",
+            "description": "Campari, jugo de naranja, naranja.",
+            "price": "300"
+        },
+        {
+            "name": "NEGRONI",
+            "description": "Cóctel de origen italiano, preparado a base de gin, campari y vermut rosso.",
+            "price": "500"
+        },
+        {
+            "name": "CUBA LIBRE",
+            "description": "Ron havana club dorado, jugo de limón y coca cola.",
+            "price": "400"
+        },
+        {
+            "name": "JAMESON LEMON",
+            "description": "Coctel fresco y ligero, compuesto por jameson irish wiskhy, almirbar, jugo de limón y un dash de gaseosa lima limón.",
+            "price": "700"
+        },
+        {
+            "name": "PISCO PUNCH",
+            "description": "Base alcoholica de pisco seguido de jugo de anana, jugo de limón, almmibar simple y un dash de bitter aromático.",
+            "price": "600"
+        },
+        {
+            "name": "APEROL SPRITZ",
+            "description": "Aperol, agua con gas, champagne y naranja.",
+            "price": "500"
+        },
+        {
+            "name": "GANCI",
+            "description": "Gancia, jugo de limón y gaseosa lima limón.",
+            "price": "300"
+        },
+        {
+            "name": "CYNAR JULEP",
+            "description": "Coctel fresco, mentolado y con un ligero toque amargo. Compuesto por Cynar, pomelo, almibar, menta freca y jugo de pomelo.",
+            "price": "600"
+        },
+        {
+            "name": "MANHATTAN",
+            "description": "Coctel clásico elaborado con wisky bourbon wild turkey 101, vermu rosso y dash de bitter angostura.",
+            "price": "900"
+        },
+        {
+            "name": "OLD FASHIONED",
+            "description": "Coctel clasico y fuerte elaborado con wisky bourbon wild turkey 101, azucar y bitter angostura.",
+            "price": "900"
+        },
+        {
+            "name": "BAILEYS",
+            "description": "Vaso decorado con chocolate aguila líquido, hielo picado y baileys cream.",
+            "price": "900"
+        },
+        {
+            "name": "JAGGER TONIC",
+            "description": "Jagermeifter, agua tónica.",
+            "price": "800"
+        },
+        {
+            "name": "SMIRNOFF TIME",
+            "description": "Smirnoff clásica/saborizado con speed/gaseosa.",
+            "price": "300"
+        },
+        {
+            "name": "JAMESON BOMB",
+            "description": "3/4 cerveza negra acompañado de shot de wisky Jameson.",
+            "price": "600"
+        },
+        {
+            "name": "CAIPIROSKA",
+            "description": "Elaborado con vodka clásico, almibar, jugo de limón, limón/saborizado de frutos rojos y maracuyá.",
+            "price": "600"
+        },
+        {
+            "name": "MARTINI DRY",
+            "description": "Aperitivo clásico elaborado con martini extra dry, gin y aceituna como garmitura.",
+            "price": "500"
+        },
+        {
+            "name": "CAIPIRINHA",
+            "description": "Clasico refrescante elaborado con cachaza, almibar, jugo de limón y limón.",
+            "price": "600"
+        },
+        {
+            "name": "JAGGER RED",
+            "description": "Coctel tropical cítrico elaborado con jaggermeifter, jugo de límon, zumo de frutos rojos, almibar , como garnitura menta fresca y mix de frutos rojos.",
+            "price": "900"
+        },
+        {
+            "name": "TEQUILA SUNRISE",
+            "description": "Coctel dulce y cítrico elaborado con un fondo de granadina, seguido por tequila Jose Cuervo silver y completado con jugo de naranja.",
+            "price": "700"
+        },
+        {
+            "name": "WHITE RUSSIAN",
+            "description": "Coctel ideal para el frío, elaborado con vodka, licor de café y un sutil toque de crema de leche.",
+            "price": "600"
+        },
+        {
+            "name": "TALON DE AQUILES",
+            "description": "Coctel elaborado con Gin, vodka, fruto rojos, jugo de cítricos, almibar y crema de leche.",
+            "price": "700"
+        },
+        {
+            "name": "MOJITO CUBANO",
+            "description": "Coctel fresco, ligero y mentolado. Elaborado con havanna 3 años, menta, jugo de limón, almibar. Opcional:Gaseosa lima limón/soda.",
+            "price": "500"
+        },
+        {
+            "name": "SHOT TEQUILA JC",
+            "description": "Shot de tequila Jose Cuervo.",
+            "price": "400"
+        },
+        {
+            "name": "MOJITO MALIBU",
+            "description": "Coctel fresco, ligero con sabor a coco. Elaborado con Havanna 3 años, ron de coco malibu, menta, jugo de limón, almibar. Opcional: Gaseosa de lima limón o soda.",
+            "price": "600"
+        },
+        {
+            "name": "SHOT DE TEQUILA N",
+            "description": "Shot de tequila Nacional.",
+            "price": "250"
+        },
+        {
+            "name": "DAIKIRI DE FRUTILLA",
+            "description": "Ron havanna 3 años, almibar, frutillas frescas, jugo de limón y hielo picado(Licuado).",
+            "price": "800"
+        },
+        {
+            "name": "DAIKIRI DE ANANA",
+            "description": "Ron havanna 3 años, almibar, Anana frescos, jugo de limón y hielo picado(Licuado).",
+            "price": "600"
+        },
+        {
+            "name": "VERMUT A ELECCIÓN",
+            "description": "Bianco u Rosso, agua tónica o Pomelo, Cítricos y botánicos de estación.",
+            "price": "500"
+        },
+        {
+            "name": "CACHENGO BAILEYS",
+            "description": "Baileys cream, amaretto, licor de café y chocolate rallado como garnitura.",
+            "price": "900"
+        },
+        {
+            "name": "CACHENGO PINK",
+            "description": "Coctel elaborado con base de gin, jugo de limón, frutillas, almibar simple y agua tónica.",
+            "price": "800"
+        },
+        {
+            "name": "CAIPI IPA",
+            "description": "Coctel pensado para amantes de cocteles refrescantes y de la cerveza ipa. Está elaborado con cachaza, jugo de limón, almibar y completado con cerveza artesanal estilo indian pale ale.",
+            "price": "600"
+        },
+        {
+            "name": "CUCARACHA",
+            "description": "Shot fuerte y épico en capas de textura, elaborado con licor de café y JC silver.",
+            "price": "400"
+        },
+        {
+            "name": "BLUE LADY",
+            "description": "Cóctel compuesto por gin flipa, triple sec azul y crema de leche.",
+            "price": "600"
+        },
+        {
+            "name": "MEDIDA DE JW RED",
+            "description": "Medida wisky Johnnie Walker RED.",
+            "price": "700"
+        },
+        {
+            "name": "MEDIDA DE JW BLACK",
+            "description": "Medida wisky Johnnie Walker BLACK.",
+            "price": "900"
+        },
+        {
+            "name": "MEDIDA DE JAMESON",
+            "description": "Medida wisky Jameson.",
+            "price": "600"
+        },
+        {
+            "name": "CORONA MARGARITA",
+            "description": "Ideal para pasar el calor y compartir noche de verano. Elaborado con JC Silver, jugo de limón, triple sec, dash de granadina con una gran garnitura compuesta por copa ancha ribeteada en sal, citricos y corona 330cc invertida en la copa.",
+            "price": "1100"
+        }
+    ],
+    "sours": [
+        {
+            "name": "RON SOUR",
+            "description": "Ron blanco, ron dorado, jugo de limón, jugo de pomelo rosa, almmibar, clara, coctel finalizado con bitter aromático y piel de cítrico.",
+            "price": "600"
+        },
+        {
+            "name": "VODKA SOURS CITRUS",
+            "description": "Vodka clásico, jugo de pomelo rosa, jugo de naranja, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
+            "price": "600"
+        },
+        {
+            "name": "AMARETTO SOUR",
+            "description": "Amaretto, jugo de limón, almibar, clara. Coctel finalizado con bitter aromático y canela en rama.",
+            "price": "600"
+        },
+        {
+            "name": "WISKY SOUR",
+            "description": "Wisky, jugo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
+            "price": "700"
+        },
+        {
+            "name": "PISCO SOUR",
+            "description": "Pisco, jugo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
+            "price": "600"
+        },
+        {
+            "name": "TEQUILA SOUR",
+            "description": "Tequila, jugo de limón, jugo de naranja, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
+            "price": "700"
+        }
+    ]
+}
+  

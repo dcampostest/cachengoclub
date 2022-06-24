@@ -29,7 +29,7 @@ function Products(){
                 <Productbox image={vinos} title="Vinos"/>
                 <Productbox image={franui} title="Franui"/>
                 <Productbox image={branca} title="Cachengo Combos"/>
-                <Productbox image={cocktails} title="Cockatils"/>
+                <Productbox image={cocktails} title="Cocktails"/>
                 <Productbox image={gintonic} title="Gintoneria"/>
                 <Productbox image={sour} title="Cachengo Sours"/>
 
