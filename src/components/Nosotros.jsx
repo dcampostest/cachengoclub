@@ -6,7 +6,7 @@ function Nosotros(){
         <div id='about'>
             <div className='about-text'>
                 <h1>Sobre nosotros...</h1>
-                <p>Descripcion de proyectos socio culturales mas los proyectos de medio ambiente</p>
+                <p>Somos una empresa que llego para quedarse. Uno de nuestros principales objetivos es certificar como empresa B, Apoyándonos en los 3 pilares fundamentales: el impacto socio ambiental, nivel alto de estandarización y la calidad de nuestros productos.</p>
                 <button>Leer más</button>
             </div>
             <div className='about-image'>

@@ -456,11 +456,11 @@ nav .menu-btn,
     display:block;}
         nav{
             justify-content: space-between;
-            height: 65px;
+            height: 80px;
             padding: 0px 30px;
         }
         .logo img{
-            width:120px;
+            width:90px;
         }
         .header-btns{
             margin: 0;
