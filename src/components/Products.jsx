@@ -1,6 +1,6 @@
 import React from "react";
 import Productbox from "./Productbox";
-import pimage1 from '../images/s1.png'
+import burguer from '../images/burguer.png'
 import papas from '../images/papas.png'
 import birras from '../images/birra.png'
 import gintonic from '../images/gintonic.png'
@@ -19,7 +19,7 @@ function Products(){
             <h1>Elije & Disfruta</h1>
             <p></p>
             <div className='a-container'>
-                <Productbox image={pimage1} title="Burguers"/>
+                <Productbox image={burguer} title="Burguers"/>
                 <Productbox image={pizza} title="Pizzas"/>
                 <Productbox image={papas} title="Entradas"/>
                 <Productbox image={daiquiri} title="Bebidas Fresh"/>
