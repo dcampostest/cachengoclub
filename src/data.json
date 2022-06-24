@@ -1,9 +1,9 @@
 {
     "gintoneria": [
         {
-        "name": "Gin Tonic",
-        "description": "Gin Flipa, Agua Tónica",
-        "price": "500"
+            "name": "Gin Tonic",
+            "description": "Gin Flipa, Agua Tónica",
+            "price": "500"
         },
         {
             "name": "Bombay Frutos Rojos",
@@ -18,7 +18,17 @@
         {
             "name": "Gin Malaria",
             "description": "Gin Malaria, Agua Tónica",
-            "price": "1000"
+            "price": "1200"
+        },
+        {
+            "name": "Gin Aconcagua",
+            "description": "Gin Aconcagua, Agua Tónica",
+            "price": "600"
+        },
+        {
+            "name": "Gin Tanqueray",
+            "description": "Gin tanqueray, Agua Tónica",
+            "price": "700"
         }
     ],
     "birras": [
@@ -51,6 +61,16 @@
             "name": "Variedad Premium",
             "description": "Consultar Disponibilidad",
             "price": "300"
+        },
+        {
+            "name": "Budweiser",
+            "description": "Cerveza rubia industrial 710cc",
+            "price": "400"
+        },
+        {
+            "name": "Corona",
+            "description": "Cerveza Rubia industrial 330cc",
+            "price": "300"
         }
     ],
     "burguers": [
@@ -67,6 +87,21 @@
         {
             "name": "AMERICANA",
             "description": "Pan de papa, medallón de 110 g, lechuga, cebolla, cheddar, tomate, ketchup y papas fritas.",
+            "price": "800"
+        },
+        {
+            "name": "NOT CACHENGO BBQ(vegetariano)",
+            "description": "Pan de papa, medallón vegetariano not burguer, cheddar, barbacoa y papas fritas",
+            "price": "800"
+        },
+        {
+            "name": "NOT BIG CAT(vegetariano)",
+            "description": "Pan de papa, medallón vegetariano not burguer, lechuga, cebolla, cheddar, salsa big cat, pepinillos y papas fritas.",
+            "price": "800"
+        },
+        {
+            "name": "NOT AMERICANA(vegetariano)",
+            "description": "Pan de papa, medallón vegetariano not burguer, lechuga, cebolla, cheddar, tomate, ketchup y papas fritas.",
             "price": "800"
         }
     ],
@@ -161,12 +196,27 @@
             "name": "Agua sin Gas",
             "description": "Agua mineral de 500 ml.",
             "price": "200"
+        },
+        {
+            "name": "RedBull",
+            "description": "Energizante RED BULL 250ml.",
+            "price": "300"
+        },
+        {
+            "name": "Speed",
+            "description": "Energizante Speed 250ml.",
+            "price": "200"
         }
     ],
     "champagnes": [
         {
             "name": "RENNA",
             "description": "Champagne Renna extra brut.",
+            "price": "800"
+        },
+        {
+            "name": "Novecento",
+            "description": "Champagne Novecento extra brut.",
             "price": "800"
         },
         {
@@ -191,6 +241,26 @@
         {
             "name": "VINOS LOS HAROLDOS",
             "description": "Botella de vino Los Haroldos state.",
+            "price": "1000"
+        },
+        {
+            "name": "CHACABUCO",
+            "description": "Botella de vino Chacabuco.",
+            "price": "1000"
+        },
+        {
+            "name": "CHENIN DULCE",
+            "description": "Botella de vino.",
+            "price": "1200"
+        },
+        {
+            "name": "LATITUD 33",
+            "description": "Botella de vino Latitud 33.",
+            "price": "1300"
+        },
+        {
+            "name": "PORTILLO",
+            "description": "Botella de vino Portillo.",
             "price": "1000"
         },
         {
