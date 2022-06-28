@@ -8,7 +8,7 @@ function Inicio(){
             <div className='header-heading'>
                 <h3>Bienvenidos al club</h3>
                 <h1><span>CACHENGO</span> FOR<br/>EVER</h1>
-                <p className='details'>Te esperamos de Viernes a Domingo</p>
+                <p className='details'>Viernes, sábados y domingos a partir de las 20 hs.</p>
             </div>
         </div>
     )
