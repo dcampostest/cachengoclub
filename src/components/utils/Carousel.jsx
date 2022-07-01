@@ -15,8 +15,8 @@ export default function Promotions() {
             />
             <Carousel.Caption>
                 <div className="carousel-content">
-                    <h1 style={{ color: '#FFFFFF' }}>Happy Hour</h1>
-                    <h3 style={{ color: '#B82E00'}}>Stop 23hs</h3>
+                    <h3>Happy Hour</h3>
+                    <h5>Stop 23hs</h5>
                     <p>2 Birras $500</p>
                 </div>
             </Carousel.Caption>
@@ -29,8 +29,8 @@ export default function Promotions() {
             />
             <Carousel.Caption>
                 <div className="carousel-content">
-                    <h1 style={{ color: '#FFFFFF' }}>Somos especialistas en Gin</h1>
-                    <h3 style={{ color: '#B82E00'}}>Vení a probar nuevas experencias.</h3>
+                    <h3>Somos especialistas en Gin</h3>
+                    <h5>Vení a probar nuevas experencias.</h5>
                     <p>@mandujano_nicolas</p>
                 </div>
             </Carousel.Caption>

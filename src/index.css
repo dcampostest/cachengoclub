@@ -41,10 +41,10 @@ input{
     border-radius: 20px;
     background: linear-gradient(90deg, rgba(2, 0, 36, 0.457) 0%, rgba(1, 63, 52, 0.348) 35%, rgba(1, 63, 52, 0.327) 100%);
 }
-.carousel-content h1 {
+.carousel-content h3 {
     color:#fff;
 }
-.carousel-content h3{
+.carousel-content h5{
     color: #B82E00;
 }
 nav{
