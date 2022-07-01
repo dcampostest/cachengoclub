@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function BebidasSinAlc({ meals }) {
+export default function Categorie({ meals }) {
   return (
     <section className="mains">
       {meals.map((meal, index) => (

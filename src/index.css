@@ -33,8 +33,19 @@ input{
     height:768px;
     position: relative;
     background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url('./images/banner.png');
+}
+.carousel-principal {
+    box-shadow: 5px 5px 15px 5px #013f34;
+}
+.carousel-content{
+    border-radius: 20px;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 0.457) 0%, rgba(1, 63, 52, 0.348) 35%, rgba(1, 63, 52, 0.327) 100%);
+}
+.carousel-content h1 {
+    color:#fff;
+}
+.carousel-content h3{
+    color: #B82E00;
 }
 nav{
 	display: flex;
@@ -82,7 +93,7 @@ nav .menu-btn,
 	}
 .header-heading{
 	font-family: 'Montserrat';
-	width: 900px;
+	width: 800px;
 	position: absolute;
     left: 25%;
     top: 55%;

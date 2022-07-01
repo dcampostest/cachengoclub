@@ -5,19 +5,7 @@ import {
 } from "reactstrap"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { gintoneria, birras, burguers, pizzas, entradas, bebidasfresh, bebidassinalcohol, champagnes, franui, vinos, combos, cocktails, sours} from ".././data.json";
-import Gintoneria from "./categories/Gintoneria";
-import Birras from "./categories/Birras";
-import Burguers from "./categories/Birras";
-import Entradas from "./categories/Entradas";
-import Pizzas from "./categories/Pizzas";
-import Vinos from "./categories/Vinos";
-import Cocktails from "./categories/Cocktails";
-import BebidasFresh from "./categories/BebidasFresh";
-import BebidasSinAlc from "./categories/BebidasSinAlc";
-import Franui from "./categories/Franui";
-import Sours from "./categories/Sours";
-import Champagnes from "./categories/Champagnes";
-import Combos from "./categories/Combos";
+import Categorie from "./utils/Categorie";
 
 
 function Productbox(props) {
@@ -42,43 +30,43 @@ function Productbox(props) {
                             toggle={toggle}>{props.title}</ModalHeader>
                         <ModalBody>
                             {props.title === "Gintoneria" && 
-                                <Gintoneria meals={gintoneria} />
+                                <Categorie meals={gintoneria} />
                             }
                             {props.title === "Birras" && 
-                               <Birras meals={birras} />
+                               <Categorie meals={birras} />
                             }
                             {props.title === "Burguers" && 
-                               <Burguers meals={burguers} />
+                               <Categorie meals={burguers} />
                             }
                             {props.title === "Pizzas" && 
-                               <Pizzas meals={pizzas} />
+                               <Categorie meals={pizzas} />
                             }
                             {props.title === "Entradas" && 
-                               <Entradas meals={entradas} />
+                               <Categorie meals={entradas} />
                             }
                             {props.title === "Vinos" && 
-                               <Vinos meals={vinos} />
+                               <Categorie meals={vinos} />
                             }
                             {props.title === "Franui" && 
-                               <Franui meals={franui} />
+                               <Categorie meals={franui} />
                             }
                             {props.title === "Bebidas Fresh" && 
-                               <BebidasFresh meals={bebidasfresh} />
+                               <Categorie meals={bebidasfresh} />
                             }
                             {props.title === "Bebidas Sin Alcohol" && 
-                               <BebidasSinAlc meals={bebidassinalcohol} />
+                               <Categorie meals={bebidassinalcohol} />
                             }
                             {props.title === "Champagnes" && 
-                               <Champagnes meals={champagnes} />
+                               <Categorie meals={champagnes} />
                             }
                             {props.title === "Cachengo Combos" && 
-                               <Champagnes meals={combos} />
+                               <Categorie meals={combos} />
                             }
                             {props.title === "Cocktails" && 
-                               <Cocktails meals={cocktails} />
+                               <Categorie meals={cocktails} />
                             }
                             {props.title === "Cachengo Sours" && 
-                               <Sours meals={sours} />
+                               <Categorie meals={sours} />
                             }
 
                         </ModalBody>

@@ -35,27 +35,27 @@
         {
             "name": "APA Cat",
             "description": "Cerveza frutada, aromática con leve amargor",
-            "price": "250"
+            "price": "300"
         },
         {
             "name": "IPA Cat ",
             "description": "cerveza de alta graduación alcohólica, con una elevada cantidad de lúpulo y por lo tanto un elevado nivel de amargor",
-            "price": "250"
+            "price": "300"
         },
         {
             "name": "Minino Red IPA",
             "description": "Cerveza roja, de malta tostada, mas amarga",
-            "price": "250"
+            "price": "300"
         },
         {
             "name": "Gato IRISH",
             "description": "Cerveza roja, con sabor a caramelo, cerveza dulce y suave",
-            "price": "250"
+            "price": "300"
         },
         {
             "name": "Bigote PILSEN",
             "description": "Cerveza Rubia, de color palido y sabor fresco",
-            "price": "250"
+            "price": "300"
         },
         {
             "name": "Variedad Premium",
