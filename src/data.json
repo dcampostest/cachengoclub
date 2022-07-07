@@ -229,12 +229,12 @@
         {
             "name": "FRANUI CHOCO AMARGO",
             "description": "Franui chocolate amargo y chocolate blanco.",
-            "price": "550"
+            "price": "650"
         },
         {
             "name": "FRANUI CHOCO CON LECHE",
             "description": "Franui chocolate con leche y chocolate blanco.",
-            "price": "550"
+            "price": "650"
         }
     ],    
     "vinos": [

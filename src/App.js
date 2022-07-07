@@ -8,6 +8,7 @@ import Contacto from './components/Contacto';
 import {css} from "@emotion/core"
 import PropagateLoader from 'react-spinners/PropagateLoader';
 import Promotions from "./components/utils/Carousel";
+import Publicidad from './components/utils/Publicidad';
 
 
 function App() {
@@ -39,7 +40,7 @@ function App() {
         <>
           <Navbar />
           <Inicio />
-          <Promotions />
+          <Publicidad />
           <Products />
           <Nosotros />
           <Contacto />

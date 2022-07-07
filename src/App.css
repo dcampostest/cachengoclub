@@ -27,3 +27,37 @@
 .mains-price {
   color: #b82f0de3;
 }
+@keyframes slide {
+  from { left: 0 }
+  to { left: -980px }
+}
+
+.slider {
+  width: 100%;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  position: relative;
+  animation-name: slide;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.container div {
+  padding: 20px;
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+}
+
+div img {
+  height: auto;
+  width: 100%;
+}
