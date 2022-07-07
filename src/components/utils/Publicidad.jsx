@@ -29,6 +29,7 @@ export default function Publicidad() {
             <div><img src={sherlock} /></div>
             <div><img src={franui} /></div>
             <div><img src={eugedesign} /></div>
+            <div><img src={cachengo} /></div>
             <div><img src={tecnicavidal} /></div>
             <div><img src={budweiser} /></div>
             <div><img src={grupopanella} /></div>
