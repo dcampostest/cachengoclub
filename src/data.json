@@ -90,17 +90,17 @@
             "price": "800"
         },
         {
-            "name": "NOT CACHENGO BBQ(vegetariano)",
+            "name": "NOT CACHENGO BBQ(veg.)",
             "description": "Pan de papa, medallón vegetariano not burguer, cheddar, barbacoa y papas fritas",
             "price": "800"
         },
         {
-            "name": "NOT BIG CAT(vegetariano)",
+            "name": "NOT BIG CAT(veg.)",
             "description": "Pan de papa, medallón vegetariano not burguer, lechuga, cebolla, cheddar, salsa big cat, pepinillos y papas fritas.",
             "price": "800"
         },
         {
-            "name": "NOT AMERICANA(vegetariano)",
+            "name": "NOT AMERICANA(veg.)",
             "description": "Pan de papa, medallón vegetariano not burguer, lechuga, cebolla, cheddar, tomate, ketchup y papas fritas.",
             "price": "800"
         }
