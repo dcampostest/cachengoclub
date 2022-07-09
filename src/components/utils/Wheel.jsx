@@ -7,13 +7,13 @@ function uno_a_tres() {
     var n100 = Math.floor(Math.random()*1000+1);
     console.log(n100)
     var win = ''
-    if(n100<=3) {
+    if(n100<=1) {
         win = '1xBirrita';
-    } else if (n100<=6) {
+    } else if (n100<=2) {
         win = '1xFernecito';  
-    }else if (n100<=50) {
+    }else if (n100<=20) {
         win = '1xHappy Birrita';  
-    } else if (n100<=60) {
+    } else if (n100<=30) {
         win = '1xHappy Gin';  
     } else {
         win = 'Seguí Particip.';

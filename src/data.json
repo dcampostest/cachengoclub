@@ -295,7 +295,7 @@
         {
             "name": "FERNET BRANCA",
             "description": "Vaso de fernet branca y coca cola.",
-            "price": "300"
+            "price": "400"
         },
         {
             "name": "GARIBALDI",
@@ -360,7 +360,7 @@
         {
             "name": "SMIRNOFF TIME",
             "description": "Smirnoff clásica/saborizado con speed/gaseosa.",
-            "price": "300"
+            "price": "400"
         },
         {
             "name": "JAMESON BOMB",
