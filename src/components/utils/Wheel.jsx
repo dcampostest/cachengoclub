@@ -7,7 +7,7 @@ function uno_a_tres() {
     var n100 = Math.floor(Math.random()*1000+1);
     console.log(n100)
     var win = ''
-    if(n100<=2) {
+    if(n100<=1) {
         win = '1xBirrita';
     } else {
         win = 'Seguí Particip.';
