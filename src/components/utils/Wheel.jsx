@@ -7,14 +7,12 @@ function uno_a_tres() {
     var n100 = Math.floor(Math.random()*1000+1);
     console.log(n100)
     var win = ''
-    if(n100<=1) {
+    if(n100<=2) {
         win = '1xBirrita';
-    } else if (n100<=2) {
+    } else if (n100<=4) {
         win = '1xFernecito';  
-    }else if (n100<=20) {
-        win = '1xHappy Birrita';  
-    } else if (n100<=30) {
-        win = '1xHappy Gin';  
+    } else if (n100<=6) {
+        win = '1xVodka';  
     } else {
         win = 'Seguí Particip.';
     }
@@ -24,14 +22,14 @@ function uno_a_tres() {
 export default function Wheel() {
     const segments = [
         'Seguí Particip.',
-        '1xHappy Birrita',
-        '1xHappy Gin',
+        '1xVodka',
+        '1xFernecito',
         'Seguí Particip.',
         '1xBirrita',
         '1xFernecito',
         'Seguí Particip.',
-        '1xHappy Birrita',
-        '1xHappy Gin',
+        '1xBirrita',
+        '1xVodka',
         'Seguí Particip.',
         '1xBirrita',
 
