@@ -9,10 +9,6 @@ function uno_a_tres() {
     var win = ''
     if(n100<=2) {
         win = '1xBirrita';
-    } else if (n100<=4) {
-        win = '1xFernecito';  
-    } else if (n100<=6) {
-        win = '1xVodka';  
     } else {
         win = 'Seguí Particip.';
     }
