@@ -13,7 +13,7 @@
         {
             "name": "Bombay Tonic",
             "description": "Gin Bombay, Agua Tónica",
-            "price": "700"
+            "price": "850"
         },
         {
             "name": "Gin Malaria",
@@ -229,12 +229,12 @@
         {
             "name": "FRANUI CHOCO AMARGO",
             "description": "Franui chocolate amargo y chocolate blanco.",
-            "price": "650"
+            "price": "700"
         },
         {
             "name": "FRANUI CHOCO CON LECHE",
             "description": "Franui chocolate con leche y chocolate blanco.",
-            "price": "650"
+            "price": "700"
         }
     ],    
     "vinos": [
@@ -295,22 +295,22 @@
         {
             "name": "FERNET BRANCA",
             "description": "Vaso de fernet branca y coca cola.",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "GARIBALDI",
             "description": "Campari, jugo de naranja, naranja.",
-            "price": "300"
+            "price": "400"
         },
         {
             "name": "NEGRONI",
             "description": "Cóctel de origen italiano, preparado a base de gin, campari y vermut rosso.",
-            "price": "500"
+            "price": "600"
         },
         {
             "name": "CUBA LIBRE",
             "description": "Ron havana club dorado, jugo de limón y coca cola.",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "JAMESON LEMON",
@@ -320,7 +320,7 @@
         {
             "name": "PISCO PUNCH",
             "description": "Base alcoholica de pisco seguido de jugo de anana, jugo de limón, almmibar simple y un dash de bitter aromático.",
-            "price": "600"
+            "price": "700"
         },
         {
             "name": "APEROL SPRITZ",
@@ -355,7 +355,7 @@
         {
             "name": "JAGGER TONIC",
             "description": "Jagermeifter, agua tónica.",
-            "price": "800"
+            "price": "900"
         },
         {
             "name": "SMIRNOFF TIME",
@@ -365,7 +365,7 @@
         {
             "name": "JAMESON BOMB",
             "description": "3/4 cerveza negra acompañado de shot de wisky Jameson.",
-            "price": "600"
+            "price": "700"
         },
         {
             "name": "CAIPIROSKA",
@@ -390,7 +390,7 @@
         {
             "name": "TEQUILA SUNRISE",
             "description": "Coctel dulce y cítrico elaborado con un fondo de granadina, seguido por tequila Jose Cuervo silver y completado con jugo de naranja.",
-            "price": "700"
+            "price": "750"
         },
         {
             "name": "WHITE RUSSIAN",
@@ -400,12 +400,12 @@
         {
             "name": "TALON DE AQUILES",
             "description": "Coctel elaborado con Gin, vodka, fruto rojos, jugo de cítricos, almibar y crema de leche.",
-            "price": "700"
+            "price": "800"
         },
         {
             "name": "MOJITO CUBANO",
             "description": "Coctel fresco, ligero y mentolado. Elaborado con havanna 3 años, menta, jugo de limón, almibar. Opcional:Gaseosa lima limón/soda.",
-            "price": "500"
+            "price": "600"
         },
         {
             "name": "SHOT TEQUILA JC",
@@ -435,7 +435,7 @@
         {
             "name": "VERMUT A ELECCIÓN",
             "description": "Bianco u Rosso, agua tónica o Pomelo, Cítricos y botánicos de estación.",
-            "price": "500"
+            "price": "600"
         },
         {
             "name": "CACHENGO BAILEYS",
