@@ -132,11 +132,6 @@
             "name": "PAPACHENGO",
             "description": "Papas, cheddar, panceta ahumada y verdeo.",
             "price": "650"
-        },
-        {
-            "name": "RABAS CACHENGO",
-            "description": "Rabas a la Romana, limónes, mayonesa de ajo.",
-            "price": "1000"
         }
     ],
     "bebidasfresh": [
