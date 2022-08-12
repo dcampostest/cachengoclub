@@ -90,6 +90,21 @@
             "price": "800"
         },
         {
+            "name": "DOBLE CACHENGO BBQ",
+            "description": "Pan de papa, medallón de 110 g x2, cheddar x2, panceta ahumada x2, barbacoa y papas fritas",
+            "price": "1100"
+        },
+        {
+            "name": "DOBLE BIG CAT",
+            "description": "Pan de papa, medallón de 110 g x2, lechuga, cebolla, cheddar x2, salsa big cat, pepinillos y papas fritas.",
+            "price": "1100"
+        },
+        {
+            "name": "DOBLE AMERICANA",
+            "description": "Pan de papa, medallón de 110 g x2, lechuga, cebolla, cheddar x2, tomate, ketchup y papas fritas.",
+            "price": "1100"
+        },
+        {
             "name": "NOT CACHENGO BBQ(veg.)",
             "description": "Pan de papa, medallón vegetariano not burguer, cheddar, barbacoa y papas fritas",
             "price": "800"
@@ -120,6 +135,13 @@
             "name": "PIZZA JAMÓN Y RÚCULA",
             "description": "Pizza con salsa de tomate (receta especial), muzza, jamón crudo, rúcula, chimi y aceituna.",
             "price": "850"
+        }
+    ],
+    "lomito": [
+        {
+            "name": "Lomito Cachengo",
+            "description": "Lechuga, Jamon Cocido, Bola de lomo, huevo, muzza y un chimi cachengo.",
+            "price": "1200"
         }
     ],
     "entradas": [
