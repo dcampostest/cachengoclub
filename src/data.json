@@ -8,7 +8,7 @@
         {
             "name": "Bombay Frutos Rojos",
             "description": "Gin Bombay frutos rojos y maracuyá, Agua Tónica",
-            "price": "850"
+            "price": "1000"
         },
         {
             "name": "Bombay Tonic",
@@ -29,6 +29,11 @@
             "name": "Gin Tanqueray",
             "description": "Gin tanqueray, Agua Tónica",
             "price": "700"
+        },
+        {
+            "name": "Gin beefeater",
+            "description": "Gin beefeater, Agua Tónica",
+            "price": "800"
         }
     ],
     "birras": [
@@ -246,12 +251,12 @@
         {
             "name": "FRANUI CHOCO AMARGO",
             "description": "Franui chocolate amargo y chocolate blanco.",
-            "price": "700"
+            "price": "800"
         },
         {
             "name": "FRANUI CHOCO CON LECHE",
             "description": "Franui chocolate con leche y chocolate blanco.",
-            "price": "700"
+            "price": "800"
         }
     ],    
     "vinos": [
@@ -295,7 +300,7 @@
         {
             "name": "COMBO DE GIN",
             "description": "Gin Gordons + Rónica Pasos/ 1,5L.",
-            "price": "3000"
+            "price": "3500"
         },
         {
             "name": "COMBO DE VODKA",
@@ -315,6 +320,11 @@
             "price": "500"
         },
         {
+            "name": "Medida Absolut",
+            "description": "Vaso de vodka absolut",
+            "price": "750"
+        },
+        {
             "name": "GARIBALDI",
             "description": "Campari, jugo de naranja, naranja.",
             "price": "400"
@@ -331,7 +341,7 @@
         },
         {
             "name": "JAMESON LEMON",
-            "description": "Coctel fresco y ligero, compuesto por jameson irish wiskhy, almirbar, jugo de limón y un dash de gaseosa lima limón.",
+            "description": "Coctel fresco y ligero, compuesto por jameson irish whisky, almirbar, jugo de limón y un dash de gaseosa lima limón.",
             "price": "700"
         },
         {
@@ -356,7 +366,7 @@
         },
         {
             "name": "MANHATTAN",
-            "description": "Coctel clásico elaborado con wisky bourbon wild turkey 101, vermu rosso y dash de bitter angostura.",
+            "description": "Coctel clásico elaborado con whisky bourbon wild turkey 101, vermu rosso y dash de bitter angostura.",
             "price": "900"
         },
         {
@@ -367,7 +377,7 @@
         {
             "name": "BAILEYS",
             "description": "Vaso decorado con chocolate aguila líquido, hielo picado y baileys cream.",
-            "price": "900"
+            "price": "950"
         },
         {
             "name": "JAGGER TONIC",
@@ -388,6 +398,11 @@
             "name": "CAIPIROSKA",
             "description": "Elaborado con vodka clásico, almibar, jugo de limón, limón/saborizado de frutos rojos y maracuyá.",
             "price": "600"
+        },
+        {
+            "name": "CAIPI FRUTOS ROJOS",
+            "description": "Elaborado con vodka clásico, almibar, jugo de limón, saborizado de frutos rojos.",
+            "price": "750"
         },
         {
             "name": "MARTINI DRY",
@@ -457,7 +472,7 @@
         {
             "name": "CACHENGO BAILEYS",
             "description": "Baileys cream, amaretto, licor de café y chocolate rallado como garnitura.",
-            "price": "900"
+            "price": "950"
         },
         {
             "name": "CACHENGO PINK",
@@ -481,18 +496,18 @@
         },
         {
             "name": "MEDIDA DE JW RED",
-            "description": "Medida wisky Johnnie Walker RED.",
+            "description": "Medida whisky Johnnie Walker RED.",
             "price": "700"
         },
         {
             "name": "MEDIDA DE JW BLACK",
-            "description": "Medida wisky Johnnie Walker BLACK.",
-            "price": "900"
+            "description": "Medida whisky Johnnie Walker BLACK.",
+            "price": "1000"
         },
         {
             "name": "MEDIDA DE JAMESON",
-            "description": "Medida wisky Jameson.",
-            "price": "600"
+            "description": "Medida whisky Jameson.",
+            "price": "800"
         },
         {
             "name": "CORONA MARGARITA",
@@ -505,6 +520,11 @@
             "name": "RON SOUR",
             "description": "Ron blanco, ron dorado, jugo de limón, jugo de pomelo rosa, almmibar, clara, coctel finalizado con bitter aromático y piel de cítrico.",
             "price": "600"
+        },
+        {
+            "name": "VODKA SOURS(Absolut)",
+            "description": "Vodka Absolut, jugo de pomelo rosa, jugo de naranja, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
+            "price": "700"
         },
         {
             "name": "VODKA SOURS CITRUS",
