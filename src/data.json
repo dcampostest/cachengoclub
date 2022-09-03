@@ -28,7 +28,7 @@
         {
             "name": "Gin Tanqueray",
             "description": "Gin tanqueray, Agua Tónica",
-            "price": "700"
+            "price": "900"
         },
         {
             "name": "Gin beefeater",
@@ -325,6 +325,11 @@
             "price": "750"
         },
         {
+            "name": "Medida Amarula",
+            "description": "crema de licor a base de azúcar, crema y fruto de marula fermentada 17% alc",
+            "price": "1000"
+        },
+        {
             "name": "GARIBALDI",
             "description": "Campari, jugo de naranja, naranja.",
             "price": "400"
@@ -338,6 +343,11 @@
             "name": "CUBA LIBRE",
             "description": "Ron havana club dorado, jugo de limón y coca cola.",
             "price": "500"
+        },
+        {
+            "name": "CUBA LIBRE Premium",
+            "description": "Ron havana club 7 añejo o flor de caña, jugo de limón y coca cola.",
+            "price": "800"
         },
         {
             "name": "JAMESON LEMON",
@@ -371,7 +381,7 @@
         },
         {
             "name": "OLD FASHIONED",
-            "description": "Coctel clasico y fuerte elaborado con wisky bourbon wild turkey 101, azucar y bitter angostura.",
+            "description": "Coctel clasico y fuerte elaborado con whisky bourbon wild turkey 101, azucar y bitter angostura.",
             "price": "900"
         },
         {
@@ -391,7 +401,7 @@
         },
         {
             "name": "JAMESON BOMB",
-            "description": "3/4 cerveza negra acompañado de shot de wisky Jameson.",
+            "description": "3/4 cerveza negra acompañado de shot de whisky Jameson.",
             "price": "700"
         },
         {
@@ -510,9 +520,19 @@
             "price": "800"
         },
         {
+            "name": "MEDIDA The Famous Grouse",
+            "description": "Medida whisky The Famous Grouse, whisky escocés mezclado.",
+            "price": "700"
+        },
+        {
             "name": "CORONA MARGARITA",
             "description": "Ideal para pasar el calor y compartir noche de verano. Elaborado con JC Silver, jugo de limón, triple sec, dash de granadina con una gran garnitura compuesta por copa ancha ribeteada en sal, citricos y corona 330cc invertida en la copa.",
             "price": "1100"
+        },
+        {
+            "name": "De Autor",
+            "description": "Un cóctel de autor es una bebida que no solo lleva tu marca y estilo, sino que también va más allá del paso del tiempo y se convierte en un nuevo clásico. Más que un cóctel, es una experiencia que buscan los consumidores.",
+            "price": "1000"
         }
     ],
     "sours": [
@@ -537,8 +557,8 @@
             "price": "600"
         },
         {
-            "name": "WISKY SOUR",
-            "description": "Wisky, jugo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
+            "name": "WHISKY SOUR",
+            "description": "Whisky, jugo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
             "price": "700"
         },
         {
