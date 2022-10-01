@@ -320,6 +320,11 @@
     ],
     "cocktails": [
         {
+            "name": "CAPRICHO",
+            "description": "Un cóctel que va de lo dulce de la primavera hasta la frescura de las noches Mendocinas.",
+            "price": "800"
+        },
+        {
             "name": "FERNET BRANCA",
             "description": "Vaso de fernet branca y coca cola.",
             "price": "500"
