@@ -70,12 +70,17 @@
         {
             "name": "Budweiser",
             "description": "Cerveza rubia industrial 710cc",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "Corona",
             "description": "Cerveza Rubia industrial 330cc",
-            "price": "300"
+            "price": "400"
+        },
+        {
+            "name": "Corona",
+            "description": "Cerveza Rubia industrial 710cc",
+            "price": "700"
         }
     ],
     "burguers": [
