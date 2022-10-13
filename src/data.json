@@ -2,38 +2,48 @@
     "gintoneria": [
         {
             "name": "Gin Tonic",
-            "description": "Gin Flipa, Agua Tónica",
+            "description": "Gin, Agua Tónica",
             "price": "500"
         },
         {
-            "name": "Bombay Frutos Rojos",
-            "description": "Gin Bombay frutos rojos y maracuyá, Agua Tónica",
-            "price": "1000"
+            "name": "Gin Bulldog",
+            "description": "Gin Bulldog(elaborada en Inglaterra y compuesta de ingredientes exóticos, 12 botánicos de 9 países distintos, entre ellos los exclusivos amapola y el ojo de dragón), Agua Tónica",
+            "price": "900"
         },
         {
             "name": "Bombay Tonic",
-            "description": "Gin Bombay, Agua Tónica",
-            "price": "850"
+            "description": "Gin Bombay(Por su sabor único, como a nuez y miel, las almendras han gozado de mucha popularidad en todo el mundo desde hace años y son un elemento botánico esencial en la destilación), Agua Tónica",
+            "price": "900"
         },
         {
             "name": "Gin Malaria",
-            "description": "Gin Malaria, Agua Tónica",
+            "description": "Gin Malaria(infusionado con características contemporáneas muy evidentes, con un marcado carácter sin ser invasivo, es amable y muy fácil de beber), Agua Tónica",
             "price": "1200"
         },
         {
             "name": "Gin Aconcagua",
-            "description": "Gin Aconcagua, Agua Tónica",
-            "price": "600"
+            "description": "Gin Aconcagua(La esencia de este Gin es extraída a partir de 7 botánicos: Bayas de Enebro, Semillas de Coriandro, Raíz de Angelica, Raíz de Regaliz, Almendra, Cassia, Cáscara de Limon), Agua Tónica",
+            "price": "700"
         },
         {
             "name": "Gin Tanqueray",
-            "description": "Gin tanqueray, Agua Tónica",
+            "description": "Gin tanqueray(enebro con aroma a pino, cilantro especiado, angélica aromática y regaliz dulce), Agua Tónica",
             "price": "900"
         },
         {
-            "name": "Gin beefeater",
-            "description": "Gin beefeater, Agua Tónica",
-            "price": "800"
+            "name": "Gin Beefeater",
+            "description": "Gin beefeater(Formado por 9 ingredientes aromáticos. Además de enebro, encontramos: raíz y semillas de angélica, semillas de cilantro y regaliz. También almendra y polvo de raíz de lírio. Por último dos cítricos: naranjas de Sevilla y limón. Ambos en forma de piel seca), Agua Tónica",
+            "price": "900"
+        },
+        {
+            "name": "Gin Principe de los Apostoles",
+            "description": "Gin Principe de los Apostoles(Sus botánicos principales son las hojas frescas de yerba mate, pieles de pomelo rosado, eucalipto y menta peperina), Agua Tónica",
+            "price": "700"
+        },
+        {
+            "name": "Adicional de frutos",
+            "description": "Puedes agregar adicional de frutos y botánicos",
+            "price": "100"
         }
     ],
     "birras": [
@@ -271,24 +281,24 @@
             "price": "1000"
         },
         {
-            "name": "CHACABUCO",
+            "name": "CHACABUCO BLANCO",
             "description": "Botella de vino Chacabuco.",
             "price": "1000"
         },
         {
             "name": "CHENIN DULCE",
             "description": "Botella de vino.",
-            "price": "1200"
-        },
-        {
-            "name": "LATITUD 33",
-            "description": "Botella de vino Latitud 33.",
             "price": "1300"
         },
         {
-            "name": "PORTILLO",
-            "description": "Botella de vino Portillo.",
-            "price": "1000"
+            "name": "Santa Julia",
+            "description": "Botella de vino.",
+            "price": "1200"
+        },
+        {
+            "name": "Casillero del Diablo",
+            "description": "persistente, suave y aterciopelado. Su clara elegancia y notas frutales son perfectas para maridar un buen corte de res, como plus intenta con una salsa de pimienta..",
+            "price": "1500"
         },
         {
             "name": "COPA VINOS LOS HAROLDOS",
@@ -305,17 +315,17 @@
         {
             "name": "COMBO DE GIN",
             "description": "Gin Gordons + Rónica Pasos/ 1,5L.",
-            "price": "3500"
+            "price": "3000"
         },
         {
             "name": "COMBO DE VODKA",
             "description": "Vodka smirnoff/sky + Gaseosa 2,5L.",
-            "price": "2500"
+            "price": "3000"
         },
         {
             "name": "COMBO DE CHAMPAGNE",
             "description": "Champange Renna + 2 speed.",
-            "price": "1100"
+            "price": "1500"
         }
     ],
     "cocktails": [
