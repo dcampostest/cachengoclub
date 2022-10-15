@@ -254,17 +254,17 @@
         {
             "name": "RENNA",
             "description": "Champagne Renna extra brut.",
-            "price": "800"
+            "price": "1000"
         },
         {
             "name": "Novecento",
             "description": "Champagne Novecento extra brut.",
-            "price": "800"
+            "price": "1000"
         },
         {
             "name": "LOS HAROLDOS",
             "description": "Champagne los Haroldos extra brut.",
-            "price": "1100"
+            "price": "1500"
         },
         {
             "name": "Las Perdices Extra Brut Champagne",
@@ -344,7 +344,7 @@
         },
         {
             "name": "COMBO DE CHAMPAGNE",
-            "description": "Champange Renna + 2 speed.",
+            "description": "Champange Renna/Novecento + 2 speed.",
             "price": "1500"
         },
         {
