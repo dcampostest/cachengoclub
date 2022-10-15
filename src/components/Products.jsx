@@ -21,7 +21,6 @@ function Products(){
             <p></p>
             <div className='a-container'>
                 <Productbox image={burguer} title="Burguers"/>
-                <Productbox image={lomo} title="Lomito"/>
                 <Productbox image={pizza} title="Pizzas"/>
                 <Productbox image={papas} title="Entradas"/>
                 <Productbox image={daiquiri} title="Bebidas Fresh"/>
