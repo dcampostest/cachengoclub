@@ -265,6 +265,11 @@
             "name": "LOS HAROLDOS",
             "description": "Champagne los Haroldos extra brut.",
             "price": "1100"
+        },
+        {
+            "name": "Las Perdices Extra Brut Champagne",
+            "description": "Acidez, elegancia y persistencia de notas de fruta. Buena frescura y complejidad.",
+            "price": "2000"
         }
     ],
     "franui": [
