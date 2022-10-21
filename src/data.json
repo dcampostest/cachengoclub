@@ -3,7 +3,7 @@
         {
             "name": "Gin Tonic",
             "description": "Gin, Agua Tónica",
-            "price": "500"
+            "price": "650"
         },
         {
             "name": "Gin Bulldog",
@@ -13,12 +13,12 @@
         {
             "name": "Bombay Tonic",
             "description": "Gin Bombay(Por su sabor único, como a nuez y miel, las almendras han gozado de mucha popularidad en todo el mundo desde hace años y son un elemento botánico esencial en la destilación), Agua Tónica",
-            "price": "900"
+            "price": "1100"
         },
         {
             "name": "Gin Malaria",
             "description": "Gin Malaria(infusionado con características contemporáneas muy evidentes, con un marcado carácter sin ser invasivo, es amable y muy fácil de beber), Agua Tónica",
-            "price": "1200"
+            "price": "1100"
         },
         {
             "name": "Gin Aconcagua",
@@ -26,9 +26,9 @@
             "price": "700"
         },
         {
-            "name": "Gin Tanqueray",
+            "name": "Gin Tanqueray Sevilla",
             "description": "Gin tanqueray(enebro con aroma a pino, cilantro especiado, angélica aromática y regaliz dulce), Agua Tónica",
-            "price": "900"
+            "price": "1000"
         },
         {
             "name": "Gin Beefeater",
@@ -38,7 +38,7 @@
         {
             "name": "Gin Principe de los Apostoles",
             "description": "Gin Principe de los Apostoles(Sus botánicos principales son las hojas frescas de yerba mate, pieles de pomelo rosado, eucalipto y menta peperina), Agua Tónica",
-            "price": "700"
+            "price": "800"
         },
         {
             "name": "Adicional de frutos",
@@ -50,32 +50,32 @@
         {
             "name": "APA Cat",
             "description": "Cerveza frutada, aromática con leve amargor",
-            "price": "300"
+            "price": "350"
         },
         {
             "name": "IPA Cat ",
             "description": "cerveza de alta graduación alcohólica, con una elevada cantidad de lúpulo y por lo tanto un elevado nivel de amargor",
-            "price": "300"
+            "price": "350"
         },
         {
             "name": "Minino Red IPA",
             "description": "Cerveza roja, de malta tostada, mas amarga",
-            "price": "300"
+            "price": "350"
         },
         {
             "name": "Gato IRISH",
             "description": "Cerveza roja, con sabor a caramelo, cerveza dulce y suave",
-            "price": "300"
+            "price": "350"
         },
         {
             "name": "Bigote PILSEN",
             "description": "Cerveza Rubia, de color palido y sabor fresco",
-            "price": "300"
+            "price": "350"
         },
         {
             "name": "Variedad Premium",
             "description": "Consultar Disponibilidad",
-            "price": "300"
+            "price": "350"
         },
         {
             "name": "Budweiser",
@@ -212,27 +212,27 @@
         {
             "name": "Pepsi",
             "description": "Gaseosa Cola, línea común y zero de 500 ml.",
-            "price": "200"
+            "price": "250"
         },
         {
             "name": "Mirinda",
             "description": "Gaseosa Naranja línea, común de 500 ml.",
-            "price": "200"
+            "price": "250"
         },
         {
             "name": "7up",
             "description": "Gaseosa Lima limón, línea común de 500 ml.",
-            "price": "200"
+            "price": "250"
         },
         {
             "name": "Pasos de los toros",
             "description": "Gaseosa pomelo, línea común de 500 ml.",
-            "price": "200"
+            "price": "250"
         },
         {
             "name": "Agua Saborizada",
             "description": "Pomelo/Naranja/Manzana",
-            "price": "200"
+            "price": "250"
         },
         {
             "name": "Agua sin Gas",
@@ -367,7 +367,7 @@
         {
             "name": "Medida Absolut",
             "description": "Vaso de vodka absolut",
-            "price": "750"
+            "price": "900"
         },
         {
             "name": "Medida Amarula",
@@ -387,27 +387,27 @@
         {
             "name": "GARIBALDI",
             "description": "Campari, jugo de naranja, naranja.",
-            "price": "400"
+            "price": "600"
         },
         {
             "name": "NEGRONI",
             "description": "Cóctel de origen italiano, preparado a base de gin, campari y vermut rosso.",
-            "price": "600"
+            "price": "800"
         },
         {
             "name": "CUBA LIBRE",
             "description": "Ron havana club dorado, jugo de limón y coca cola.",
-            "price": "500"
+            "price": "650"
         },
         {
             "name": "CUBA LIBRE Premium",
             "description": "Ron havana club 7 añejo o flor de caña, jugo de limón y coca cola.",
-            "price": "800"
+            "price": "900"
         },
         {
             "name": "JAMESON LEMON",
             "description": "Coctel fresco y ligero, compuesto por jameson irish whisky, almirbar, jugo de limón y un dash de gaseosa lima limón.",
-            "price": "700"
+            "price": "800"
         },
         {
             "name": "PISCO PUNCH",
@@ -417,12 +417,12 @@
         {
             "name": "APEROL SPRITZ",
             "description": "Aperol, agua con gas, champagne y naranja.",
-            "price": "500"
+            "price": "600"
         },
         {
             "name": "GANCIA",
             "description": "Gancia, jugo de limón y gaseosa lima limón.",
-            "price": "300"
+            "price": "500"
         },
         {
             "name": "CYNAR JULEP",
@@ -432,27 +432,27 @@
         {
             "name": "MANHATTAN",
             "description": "Coctel clásico elaborado con whisky bourbon wild turkey 101, vermu rosso y dash de bitter angostura.",
-            "price": "900"
+            "price": "1000"
         },
         {
             "name": "OLD FASHIONED",
             "description": "Coctel clasico y fuerte elaborado con whisky bourbon wild turkey 101, azucar y bitter angostura.",
-            "price": "900"
+            "price": "1000"
         },
         {
             "name": "BAILEYS",
             "description": "Vaso decorado con chocolate aguila líquido, hielo picado y baileys cream.",
-            "price": "950"
+            "price": "1200"
         },
         {
             "name": "JAGGER TONIC",
             "description": "Jagermeifter, agua tónica.",
-            "price": "900"
+            "price": "1300"
         },
         {
             "name": "SMIRNOFF TIME",
             "description": "Smirnoff clásica/saborizado con speed/gaseosa.",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "JAMESON BOMB",
@@ -482,7 +482,7 @@
         {
             "name": "JAGGER RED",
             "description": "Coctel tropical cítrico elaborado con jaggermeifter, jugo de límon, zumo de frutos rojos, almibar , como garnitura menta fresca y mix de frutos rojos.",
-            "price": "900"
+            "price": "1500"
         },
         {
             "name": "TEQUILA SUNRISE",
@@ -492,7 +492,7 @@
         {
             "name": "WHITE RUSSIAN",
             "description": "Coctel ideal para el frío, elaborado con vodka, licor de café y un sutil toque de crema de leche.",
-            "price": "600"
+            "price": "900"
         },
         {
             "name": "TALON DE AQUILES",
@@ -512,7 +512,7 @@
         {
             "name": "MOJITO MALIBU",
             "description": "Coctel fresco, ligero con sabor a coco. Elaborado con Havanna 3 años, ron de coco malibu, menta, jugo de limón, almibar. Opcional: Gaseosa de lima limón o soda.",
-            "price": "600"
+            "price": "750"
         },
         {
             "name": "SHOT DE TEQUILA N",
@@ -537,12 +537,12 @@
         {
             "name": "CACHENGO BAILEYS",
             "description": "Baileys cream, amaretto, licor de café y chocolate rallado como garnitura.",
-            "price": "950"
+            "price": "1400"
         },
         {
             "name": "CACHENGO PINK",
             "description": "Coctel elaborado con base de gin, jugo de limón, frutillas, almibar simple y agua tónica.",
-            "price": "800"
+            "price": "900"
         },
         {
             "name": "CAIPI IPA",
@@ -587,7 +587,7 @@
         {
             "name": "De Autor",
             "description": "Un cóctel de autor es una bebida que no solo lleva tu marca y estilo, sino que también va más allá del paso del tiempo y se convierte en un nuevo clásico. Más que un cóctel, es una experiencia que buscan los consumidores.",
-            "price": "1000"
+            "price": "1200"
         }
     ],
     "sours": [
