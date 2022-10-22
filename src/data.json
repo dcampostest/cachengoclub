@@ -199,22 +199,22 @@
         {
             "name": "JUGO DE NARANJA ",
             "description": "Jugo de naranja, rodaja introducida.",
-            "price": "300"
+            "price": "400"
         },
         {
             "name": "LICUADO CACHENGO",
             "description": "Ananá o Frutilla, manzana verde, jugo de limón y almibar simple.",
-            "price": "500"
+            "price": "650"
         },
         {
             "name": "MOCKTAIL ORANGE",
             "description": "Jugo de limón, jugo de naranja, granadina y agua tónica.",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "CARIBEAN FRESH",
             "description": "Pulpa de mangoi, pulpa de maracuyá, energizante speed.",
-            "price": "400"
+            "price": "500"
         }
     ],
     "bebidassinalcohol": [
