@@ -613,7 +613,7 @@
         {
             "name": "RON SOUR",
             "description": "Ron blanco, ron dorado, jugo de limón, jugo de pomelo rosa, almmibar, clara, coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "600"
+            "price": "700"
         },
         {
             "name": "VODKA SOURS(Absolut)",
@@ -633,17 +633,17 @@
         {
             "name": "WHISKY SOUR",
             "description": "Whisky, jugo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "700"
+            "price": "800"
         },
         {
             "name": "PISCO SOUR",
             "description": "Pisco, jugo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "600"
+            "price": "800"
         },
         {
             "name": "TEQUILA SOUR",
             "description": "Tequila, jugo de limón, jugo de naranja, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "700"
+            "price": "800"
         }
     ]
 }
