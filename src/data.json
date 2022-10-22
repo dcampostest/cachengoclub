@@ -374,13 +374,13 @@
             "price": "500"
         },
         {
-            "name": "Medida Absolut",
-            "description": "Vaso de vodka absolut",
+            "name": "Medida Absolut con Red Bull",
+            "description": "Vaso de vodka absolut mas Red Bull",
             "price": "1500"
         },
         {
             "name": "Medida Jagger con red bull",
-            "description": "Vaso de vodka absolut",
+            "description": "Vaso de jagger mas Red Bull",
             "price": "1800"
         },
         {
