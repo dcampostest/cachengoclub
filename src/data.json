@@ -3,47 +3,56 @@
         {
             "name": "Gin Tonic",
             "description": "Gin, Agua Tónica",
-            "price": "650"
+            "price": "650",
+            "categorie": "nacional"
         },
         {
             "name": "Gin Bulldog",
             "description": "Gin Bulldog(elaborada en Inglaterra y compuesta de ingredientes exóticos, 12 botánicos de 9 países distintos, entre ellos los exclusivos amapola y el ojo de dragón), Agua Tónica",
-            "price": "900"
+            "price": "900",
+            "categorie": "importado"
         },
         {
             "name": "Bombay Tonic",
             "description": "Gin Bombay(Por su sabor único, como a nuez y miel, las almendras han gozado de mucha popularidad en todo el mundo desde hace años y son un elemento botánico esencial en la destilación), Agua Tónica",
-            "price": "1100"
+            "price": "1100",
+            "categorie": "importado"
         },
         {
             "name": "Gin Malaria",
             "description": "Gin Malaria(infusionado con características contemporáneas muy evidentes, con un marcado carácter sin ser invasivo, es amable y muy fácil de beber), Agua Tónica",
-            "price": "1100"
+            "price": "1100",
+            "categorie": "importado"
         },
         {
             "name": "Gin Aconcagua",
             "description": "Gin Aconcagua(La esencia de este Gin es extraída a partir de 7 botánicos: Bayas de Enebro, Semillas de Coriandro, Raíz de Angelica, Raíz de Regaliz, Almendra, Cassia, Cáscara de Limon), Agua Tónica",
-            "price": "700"
+            "price": "700",
+            "categorie": "nacional"
         },
         {
             "name": "Gin Tanqueray Sevilla",
             "description": "Gin tanqueray(enebro con aroma a pino, cilantro especiado, angélica aromática y regaliz dulce), Agua Tónica",
-            "price": "1000"
+            "price": "1000",
+            "categorie": "importado"
         },
         {
             "name": "Gin Beefeater",
             "description": "Gin beefeater(Formado por 9 ingredientes aromáticos. Además de enebro, encontramos: raíz y semillas de angélica, semillas de cilantro y regaliz. También almendra y polvo de raíz de lírio. Por último dos cítricos: naranjas de Sevilla y limón. Ambos en forma de piel seca), Agua Tónica",
-            "price": "900"
+            "price": "900",
+            "categorie": "importado"
         },
         {
             "name": "Gin Principe de los Apostoles",
             "description": "Gin Principe de los Apostoles(Sus botánicos principales son las hojas frescas de yerba mate, pieles de pomelo rosado, eucalipto y menta peperina), Agua Tónica",
-            "price": "800"
+            "price": "800",
+            "categorie": "nacional"
         },
         {
             "name": "Adicional de frutos",
             "description": "Puedes agregar adicional de frutos y botánicos",
-            "price": "100"
+            "price": "100",
+            "categorie": "adicional"
         }
     ],
     "birras": [
@@ -367,7 +376,12 @@
         {
             "name": "Medida Absolut",
             "description": "Vaso de vodka absolut",
-            "price": "900"
+            "price": "1500"
+        },
+        {
+            "name": "Medida Jagger con red bull",
+            "description": "Vaso de vodka absolut",
+            "price": "1800"
         },
         {
             "name": "Medida Amarula",
@@ -562,12 +576,17 @@
         {
             "name": "MEDIDA DE JW RED",
             "description": "Medida whisky Johnnie Walker RED.",
-            "price": "700"
+            "price": "900"
+        },
+        {
+            "name": "MEDIDA DE Jim Beam",
+            "description": "Medida whisky Jim Beam, es una marca estadounidense de whisky bourbon .",
+            "price": "900"
         },
         {
             "name": "MEDIDA DE JW BLACK",
             "description": "Medida whisky Johnnie Walker BLACK.",
-            "price": "1000"
+            "price": "1200"
         },
         {
             "name": "MEDIDA DE JAMESON",
@@ -577,7 +596,7 @@
         {
             "name": "MEDIDA The Famous Grouse",
             "description": "Medida whisky The Famous Grouse, whisky escocés mezclado.",
-            "price": "700"
+            "price": "800"
         },
         {
             "name": "CORONA MARGARITA",
