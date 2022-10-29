@@ -105,8 +105,8 @@
     "burguers": [
         {
             "name": "Burguer Maldita Edición Halloween",
-            "description": "Pan de papa Negro, medallón de 110 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
-            "price": "800"
+            "description": "Pan de papa Negro, doble medallón de 110 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
+            "price": "1200"
         },
         {
             "name": "CACHENGO BBQ",
@@ -368,6 +368,11 @@
         }
     ],
     "cocktails": [
+        {
+            "name": "Blone Edición Halloween",
+            "description": "Un infusión de vodka negro, almibar, limon vermouth rosso y golpe de glitter tiki.",
+            "price": "900"
+        },
         {
             "name": "CAPRICHO",
             "description": "Un cóctel que va de lo dulce de la primavera hasta la frescura de las noches Mendocinas.",
