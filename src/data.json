@@ -104,6 +104,11 @@
     ],
     "burguers": [
         {
+            "name": "Burguer Maldita Edición Halloween",
+            "description": "Pan de papa Negro, medallón de 110 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
+            "price": "800"
+        },
+        {
             "name": "CACHENGO BBQ",
             "description": "Pan de papa, medallón de 110 g, cheddar, panceta ahumada, barbacoa y papas fritas",
             "price": "800"
