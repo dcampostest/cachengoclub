@@ -171,11 +171,26 @@
             "price": "850"
         }
     ],
-    "lomito": [
+    "promos": [
         {
-            "name": "Lomito Cachengo",
-            "description": "Lechuga, Jamon Cocido, Bola de lomo, huevo, muzza y un chimi cachengo.",
+            "name": "Aperol x2",
+            "description": "¡Hora del aperitivo!",
+            "price": "1000"
+        },
+        {
+            "name": "Mojitos x2",
+            "description": "¡Hora del aperitivo!",
+            "price": "1000"
+        },
+        {
+            "name": "Gin Tonic x2",
+            "description": "¡Hora del aperitivo!",
             "price": "1200"
+        },
+        {
+            "name": "Pineral Vermouth x2",
+            "description": "¡Hora del aperitivo!(Hasta las 2am & agotar stock)",
+            "price": "800"
         }
     ],
     "entradas": [

@@ -13,13 +13,14 @@ import champagne from '../images/champagne.png'
 import branca from '../images/branca.png'
 import daiquiri from '../images/daiquiri.png'
 import pepsi from '../images/pepsi.png'
-import lomo from '../images/lomo.png'
+import promos from '../images/promos.png'
 function Products(){
     return(
         <div id='products'>
             <h1>Elije & Disfruta</h1>
             <p></p>
             <div className='a-container'>
+                <Productbox image={promos} title="Promos"/>
                 <Productbox image={burguer} title="Burguers"/>
                 <Productbox image={pizza} title="Pizzas"/>
                 <Productbox image={papas} title="Entradas"/>

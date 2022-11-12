@@ -4,7 +4,7 @@ import {
     ModalHeader, ModalBody
 } from "reactstrap"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { gintoneria, birras, burguers, pizzas, entradas, bebidasfresh, bebidassinalcohol, champagnes, franui, vinos, combos, cocktails, sours, lomito} from ".././data.json";
+import { gintoneria, birras, burguers, pizzas, entradas, bebidasfresh, bebidassinalcohol, champagnes, franui, vinos, combos, cocktails, sours, promos} from ".././data.json";
 import Categorie from "./utils/Categorie";
 
 
@@ -29,6 +29,9 @@ function Productbox(props) {
                         <ModalHeader
                             toggle={toggle}>{props.title}</ModalHeader>
                         <ModalBody>
+                           {props.title === "Promos" && 
+                               <Categorie meals={promos} />
+                            }
                             {props.title === "Gintoneria" && 
                                 <Categorie meals={gintoneria} />
                             }
@@ -43,9 +46,6 @@ function Productbox(props) {
                             }
                             {props.title === "Entradas" && 
                                <Categorie meals={entradas} />
-                            }
-                            {props.title === "Lomito" && 
-                               <Categorie meals={lomito} />
                             }
                             {props.title === "Vinos" && 
                                <Categorie meals={vinos} />
