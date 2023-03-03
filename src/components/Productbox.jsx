@@ -26,7 +26,7 @@ function Productbox(props) {
                     <h2>{props.title}</h2>
                     <button className='productbox-button' onClick={toggle}>Ver más</button>
                     <Modal isOpen={modal} toggle={toggle} {...props}>
-                        <ModalHeader
+                        <ModalHeader className="my-modal"
                             toggle={toggle}>{props.title}</ModalHeader>
                         <ModalBody>
                            {props.title === "Promos" && 

@@ -113,7 +113,7 @@ nav .menu-btn,
 }
 .header-heading .details{
     font-size: 23px;
-    color: #181818;
+    color: #fff6f6;
 }
 .header-heading h3{
 	font-family:'Bebas Neue';
@@ -570,3 +570,7 @@ nav .menu-btn,
         height:400px;
     }
 }
+
+.my-modal .modal-content {
+    background-color: rgba(0, 0, 0, 0.528);
+  }
