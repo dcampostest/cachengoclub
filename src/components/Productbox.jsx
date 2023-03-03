@@ -16,12 +16,6 @@ function Productbox(props) {
     // Toggle for Modal
     const toggle = () => setModal(!modal);
 
-    const bg = {
-      overlay: {
-        background: "#000000"
-      }
-    };
-
     return(
         <div className='products'>
             <div className='a-box'>
@@ -31,7 +25,7 @@ function Productbox(props) {
                 <div className='a-b-text'>
                     <h2>{props.title}</h2>
                     <button className='productbox-button' onClick={toggle}>Ver más</button>
-                    <Modal isOpen={modal} toggle={toggle} {...props} style={{ background: "grey" }}>
+                    <Modal isOpen={modal} toggle={toggle} {...props} className="special_modal">
                         <ModalHeader
                             toggle={toggle}>{props.title}</ModalHeader>
                         <ModalBody>

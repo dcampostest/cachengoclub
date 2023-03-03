@@ -347,6 +347,10 @@ nav .menu-btn,
     color: #ffffff;
     text-transform: uppercase;
 }
+.special_modal .modal-content{
+    background-color: #000;
+    color: #fff;
+ }
 @media(max-width:620px){
     #contact form{
         width:90%;
@@ -570,7 +574,3 @@ nav .menu-btn,
         height:400px;
     }
 }
-
-.my-modal .modal-content {
-    background-color: rgba(0, 0, 0, 0.528);
-  }
