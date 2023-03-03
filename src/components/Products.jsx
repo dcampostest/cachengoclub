@@ -21,7 +21,6 @@ function Products(){
             <h1>Carta</h1>
             <p></p>
             <div className='a-container'>
-                generic
                 <Productbox image={generic} title="Para Picotear"/>
                 <Productbox image={generic} title="Pizzas"/>
                 <Productbox image={generic} title="Burguers"/>

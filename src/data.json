@@ -350,42 +350,42 @@
     ],
     "burguers": [
         {
-            "name": "(New)Crispy Cat",
+            "name": "(New) Crispy Cat",
             "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
             "price": "1300"
         },        
         {
-            "name": "(New)Doble Crispy Cat",
+            "name": "(New )Doble Crispy Cat",
             "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
             "price": "1600"
         },
         {
-            "name": "(New)Provolone",
+            "name": "(New) Provolone",
             "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
             "price": "1300"
         },
         {
-            "name": "(New)Doble Provolone",
+            "name": "(New) Doble Provolone",
             "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
             "price": "1600"
         },
         {
-            "name": "(New)Clásica",
+            "name": "(New) Clásica",
             "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
             "price": "1100"
         },
         {
-            "name": "(New)Doble Clásica",
+            "name": "(New) Doble Clásica",
             "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
             "price": "1300"
         },
         {
-            "name": "(New)Picat",
+            "name": "(New) Picat",
             "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
             "price": "1300"
         },
         {
-            "name": "(New)Doble Picat",
+            "name": "(New) Doble Picat",
             "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
             "price": "1600"
         },
@@ -437,28 +437,28 @@
     ],
     "pizzas": [
         {
-            "name": "(new)QUEZO AZUL",
+            "name": "(new) QUEZO AZUL",
             "description": "Pizza con salsa de tomate (receta especial), muzza, quezo azul y aceituna.",
             "price": "1500"
         },
         {
-            "name": "(new)PEPERONI",
+            "name": "(new) PEPERONI",
             "description": "Pizza con salsa de tomate (receta especial), muzza, cantinpala, cibulette y aceituna.",
             "price": "1500"
         },
         {
-            "name": "(new)Anana",
+            "name": "(new) Anana",
             "description": "Pizza con salsa de tomate (receta especial), muzza, anana y aceituna.",
             "price": "1800"
         },
         {
-            "name": "(new)Americana",
+            "name": "(new) Americana",
             "description": "Pizza con salsa de tomate (receta especial), muzza, lomito aumado, chedar y aceituna.",
             "price": "1800"
         },
         {
-            "name": "(new)Mita y mita",
-            "description": "Pizza con salsa de tomate (receta especial), muzza combinadas y aceituna.",
+            "name": "(new) Mita y Mita",
+            "description": "A elección",
             "price": "1800"
         },
         {
@@ -501,27 +501,27 @@
     ],
     "parapicotear": [
         {
-            "name": "(new)Bastones de muzza",
+            "name": "(new) Bastones de muzza",
             "description": "Bastones de muzza apanados.",
             "price": "1000"
         },
         {
-            "name": "(new)Salchipapas",
+            "name": "(new) Salchipapas",
             "description": "Papas con salchichas parrilleras.",
             "price": "1200"
         },        
         {
-            "name": "(new)Croquetas vegetarianas",
+            "name": "(new) Croquetas vegetarianas",
             "description": "cubitos de verduras apanados.",
             "price": "600"
         },
         {
-            "name": "(new)Bastones de pollo",
+            "name": "(new) Bastones de pollo",
             "description": "tiras de pollos apanadas.",
             "price": "600"
         },
         {
-            "name": "(new)a caballo",
+            "name": "(new) A caballo",
             "description": "Papas con huevos fritos.",
             "price": "1100"
         },
