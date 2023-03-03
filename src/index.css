@@ -5,7 +5,7 @@
 body{
     margin:0px;
     padding: 0px;
-    background-color: #000000;
+    background-color: #111212;
     font-family:'Bebas Neue', 'Lato', sans-serif;
 }
 *{
@@ -109,7 +109,7 @@ nav .menu-btn,
 .header-heading span{
     font-family: 'Alfa Slab One';
     color: #bf2222;
-    border-bottom: 2px solid #3d2514;
+    border-bottom: 2px solid #f6f6f6;
 }
 .header-heading .details{
     font-size: 23px;
@@ -529,7 +529,7 @@ nav .menu-btn,
         }
         nav .menu-icon .nav-icon:before,
         nav .menu-icon .nav-icon:after{
-            background:rgb(255, 255, 255);
+            background:rgba(14, 13, 13, 0.691);
             content:'';
             display:block;
             height:100%;
