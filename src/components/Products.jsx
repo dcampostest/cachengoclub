@@ -14,26 +14,33 @@ import branca from '../images/branca.png'
 import daiquiri from '../images/daiquiri.png'
 import pepsi from '../images/pepsi.png'
 import promos from '../images/promos.png'
+import generic from '../images/Cachengo_ConFondo_7.png'
 function Products(){
     return(
         <div id='products'>
             <h1>Carta</h1>
             <p></p>
             <div className='a-container'>
-                <Productbox image={promos} title="Promos"/>
-                <Productbox image={burguer} title="Burguers"/>
-                <Productbox image={pizza} title="Pizzas"/>
-                <Productbox image={papas} title="Entradas"/>
-                <Productbox image={daiquiri} title="Bebidas Fresh"/>
-                <Productbox image={pepsi} title="Bebidas Sin Alcohol"/>
-                <Productbox image={champagne} title="Champagnes"/>
-                <Productbox image={birras} title="Birras"/>
-                <Productbox image={vinos} title="Vinos"/>
-                <Productbox image={franui} title="Franui"/>
-                <Productbox image={branca} title="Cachengo Combos"/>
-                <Productbox image={cocktails} title="Cocktails"/>
-                <Productbox image={gintonic} title="Gintoneria"/>
-                <Productbox image={sour} title="Cachengo Sours"/>
+                generic
+                <Productbox image={generic} title="Para Picotear"/>
+                <Productbox image={generic} title="Pizzas"/>
+                <Productbox image={generic} title="Burguers"/>
+                <Productbox image={generic} title="Collins"/>
+                <Productbox image={generic} title="Mojitos"/>
+                <Productbox image={generic} title="Destilled Sours"/>
+                <Productbox image={generic} title="Aperitivos"/>
+                <Productbox image={generic} title="Clásicos Inter."/>
+                <Productbox image={generic} title="De la casa"/>
+                <Productbox image={generic} title="Mocktails"/>
+                <Productbox image={generic} title="Gintoneria"/>
+                <Productbox image={generic} title="De tu mente a tus manos"/>
+                <Productbox image={generic} title="Birritas Art."/>
+                <Productbox image={generic} title="Birritas Industriales"/>
+                <Productbox image={generic} title="Combos"/>
+                <Productbox image={generic} title="Bebidas sin Alc."/>
+                <Productbox image={generic} title="Franui"/>
+                <Productbox image={generic} title="Vinos"/>
+
 
             </div>
         </div>
