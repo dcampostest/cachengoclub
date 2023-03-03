@@ -6,7 +6,7 @@ function Inicio(){
             <div className='header-heading'>
                 <h4>Bienvenidos #THECLUB</h4>
                 <h2><span>CACHENGO</span> FOR<br/>EVER</h2>
-                <p className='details'>Viernes y7 sábados a partir de las 21 hs.</p>
+                <p className='details'>Viernes & Sábados a partir de las 21 hs.</p>
             </div>
         </div>
     )

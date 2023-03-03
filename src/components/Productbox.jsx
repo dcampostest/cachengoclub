@@ -16,6 +16,12 @@ function Productbox(props) {
     // Toggle for Modal
     const toggle = () => setModal(!modal);
 
+    const bg = {
+      overlay: {
+        background: "#000000"
+      }
+    };
+
     return(
         <div className='products'>
             <div className='a-box'>
@@ -24,11 +30,11 @@ function Productbox(props) {
                 </div>
                 <div className='a-b-text'>
                     <h2>{props.title}</h2>
-                    <button className='productbox-button' onClick={toggle}>Ver más</button>
-                    <Modal isOpen={modal} toggle={toggle} {...props}>
-                        <ModalHeader className="my-modal"
-                            toggle={toggle}>{props.title}</ModalHeader>
-                        <ModalBody>
+                    <button className='productbox-button' onCslick={toggle}>Ver más</button>
+                    <Modal isOpen={modal} toggle={toggle} {...props} center styles={bg}>
+                        <ModalHeader
+                            toggle={toggle} center styles={bg}>{props.title}</ModalHeader>
+                        <ModalBody center styles={bg}>
                            {props.title === "Promos" && 
                                <Categorie meals={promos} />
                             }
