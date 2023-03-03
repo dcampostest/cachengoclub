@@ -45,7 +45,7 @@
             "categorie": ""
         }
     ],
-    "destilled sours":[
+    "destilledsours":[
         {
             "name": "Pisco Sours",
             "description": "",
@@ -103,7 +103,7 @@
             "categorie": ""
         }
     ],
-    "clasicos internacionales":[
+    "clasicosinternacionales":[
         {
             "name": "Negroni",
             "description": "",
@@ -147,7 +147,7 @@
             "categorie": ""
         }
     ],
-    "clasicos de la casa":[
+    "clasicosdelacasa":[
         {
             "name": "Cachego Pink",
             "description": "-",
@@ -241,7 +241,7 @@
             "categorie": ""
         }
     ],
-    "de tu mente a tus manos":[ 
+    "detumenteatusmanos":[ 
         {
             "name": "Coctails de autoria interactivo.",
             "description": "-",
@@ -249,7 +249,7 @@
             "categorie": ""
         }
     ],
-    "birritas artesanales": [
+    "birritasartesanales": [
         {
             "name": "IPA",
             "description": "SHERLOcK",
@@ -296,7 +296,7 @@
             "price": "400"
         }
     ],
-    "birritas Industriales": [
+    "birritasindustriales": [
         {
             "name": "PATAGONIA WEISSE",
             "description": "BOTELLA 740CC",
@@ -499,7 +499,7 @@
             "price": "800"
         }
     ],
-    "para picotear": [
+    "parapicotear": [
         {
             "name": "(new)Bastones de muzza",
             "description": "Bastones de muzza apanados.",
@@ -541,7 +541,7 @@
             "price": "-"
         }
     ],
-    "bebidas sin alcohol": [
+    "bebidassinalcohol": [
         {
             "name": "Pepsi",
             "description": "Gaseosa Cola, línea común y zero de 500 ml.",
@@ -586,28 +586,6 @@
             "name": "Gaseosa Tónica PDLT 1.lts",
             "description": "Energizante Speed 250ml.",
             "price": "700"
-        }
-    ],
-    "champagnes": [
-        {
-            "name": "RENNA",
-            "description": "Champagne Renna extra brut.",
-            "price": "1000"
-        },
-        {
-            "name": "Novecento",
-            "description": "Champagne Novecento extra brut.",
-            "price": "1000"
-        },
-        {
-            "name": "LOS HAROLDOS",
-            "description": "Champagne los Haroldos extra brut.",
-            "price": "1500"
-        },
-        {
-            "name": "Las Perdices Extra Brut Champagne",
-            "description": "Acidez, elegancia y persistencia de notas de fruta. Buena frescura y complejidad.",
-            "price": "2000"
         }
     ],
     "franui": [
@@ -695,7 +673,8 @@
             "description": "Las Perdices Extra Brut Champagne + RBullx2",
             "price": "3500"
         }
-    ],"gintoneria": [
+    ],
+    "gintoneria": [
         {
             "name": "Copon de Merle",
             "description": "Gin Merle, Agua Tónica",
