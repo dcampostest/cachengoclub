@@ -5,7 +5,7 @@
 body{
     margin:0px;
     padding: 0px;
-    background-color: #ffffff;
+    background-color: #000000;
     font-family:'Bebas Neue', 'Lato', sans-serif;
 }
 *{
@@ -162,13 +162,13 @@ nav .menu-btn,
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding-top: 40px ;
-    background-color: #ffffff;
+    padding-top: 20px ;
+    background-color: #171717c6;
 }
 #products h1{
     font-family:'Alfa Slab One';
     letter-spacing: 2px;
-    color: #3d2514;
+    color: #dfdfdf;
     font-size: 3rem;
 }
 #products p{
@@ -185,9 +185,9 @@ nav .menu-btn,
 }
 .a-box{
     background-color: #ffffff;
-    width:300px;
-    height: 435px;
-    margin: 20px;
+    width:150px;
+    height: 270px;
+    margin: 10px;
     border-radius: 10px;
     overflow: hidden;
     transition: 0.4s ease-in-out;
@@ -199,8 +199,8 @@ nav .menu-btn,
 
 }
 .a-b-img img{
-    padding: 15px;
-    margin-top: 40px;
+    padding: 10px;
+    margin-top: 20px;
     width:100%;
     height: 100%;
 

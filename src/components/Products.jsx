@@ -17,7 +17,7 @@ import promos from '../images/promos.png'
 function Products(){
     return(
         <div id='products'>
-            <h1>Elije & Disfruta</h1>
+            <h1>Carta</h1>
             <p></p>
             <div className='a-container'>
                 <Productbox image={promos} title="Promos"/>

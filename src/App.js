@@ -40,10 +40,8 @@ function App() {
         <>
           <Navbar />
           <Inicio />
-          <Publicidad />
           <Products />
           <Nosotros />
-          <Contacto />
         </>
       }
     </div>
