@@ -31,7 +31,7 @@ function Productbox(props) {
                 <div className='a-b-text'>
                     <h2>{props.title}</h2>
                     <button className='productbox-button' onCslick={toggle}>Ver más</button>
-                    <Modal isOpen={modal} toggle={toggle} {...props} center styles={bg}>
+                    <Modal isOpen={modal} toggle={toggle} {...props} center styles={{ modal: {}, overlay: { background: "rgba(0,0,0,0.1)" } }}>
                         <ModalHeader
                             toggle={toggle} center styles={bg}>{props.title}</ModalHeader>
                         <ModalBody center styles={bg}>
