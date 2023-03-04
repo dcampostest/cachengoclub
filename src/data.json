@@ -438,12 +438,12 @@
     "pizzas": [
         {
             "name": "(new) QUEZO AZUL",
-            "description": "Pizza con salsa de tomate (receta especial), muzza, quezo azul y aceituna.",
+            "description": "Pizza con salsa de tomate (receta especial), muzza, quezo azul, cebolla de verdeo y aceituna.",
             "price": "1500"
         },
         {
             "name": "(new) PEPERONI",
-            "description": "Pizza con salsa de tomate (receta especial), muzza, cantinpala, cibulette y aceituna.",
+            "description": "Pizza con salsa de tomate (receta especial), muzza, peperoni, cibulette y aceituna.",
             "price": "1500"
         },
         {
@@ -453,7 +453,7 @@
         },
         {
             "name": "(new) Americana",
-            "description": "Pizza con salsa de tomate (receta especial), muzza, lomito aumado, chedar y aceituna.",
+            "description": "Pizza con salsa de tomate (receta especial), muzza, lomito aumado, crema, chedar y aceituna.",
             "price": "1800"
         },
         {
@@ -602,44 +602,29 @@
     ],    
     "vinos": [
         {
-            "name": "VINOS LOS HAROLDOS",
-            "description": "Botella de vino Los Haroldos state.",
-            "price": "1000"
-        },
-        {
-            "name": "CHACABUCO BLANCO",
-            "description": "Botella de vino Chacabuco.",
-            "price": "1000"
-        },
-        {
-            "name": "CHENIN DULCE",
-            "description": "Botella de vino.",
-            "price": "1300"
-        },
-        {
-            "name": "Santa Julia",
-            "description": "Botella de vino.",
+            "name": "chenin dulce",
+            "description": "Bodega norton.",
             "price": "1200"
         },
         {
-            "name": "Casillero del Diablo",
-            "description": "persistente, suave y aterciopelado. Su clara elegancia y notas frutales son perfectas para maridar un buen corte de res, como plus intenta con una salsa de pimienta.",
-            "price": "1500"
+            "name": "tinto dulce",
+            "description": "Bodegas norton.",
+            "price": "1200"
         },
         {
-            "name": "Bianchi Famiglia",
-            "description": "Este vino obtuvo el premio al mejor vino tinto del mundo en 2014 y nos acerca una propuesta que resalta las mejores particularidades de los viñedos que posee la Familia. La dedicación de los ingenieros agrónomos y los enólogos logra un balance perfecto entre el viejo mundo y el nuevo mundo.",
-            "price": "2500"
+            "name": "RED BLEND DULCE",
+            "description": "Bodega norton.",
+            "price": "1200"
         },
         {
-            "name": "Mándala Rose ",
-            "description": "Es el objetivo de este rosado a base de Syrah (con algo de Malbec y Cabernet Franc) y Pinot Grigio, de aspecto brillante y aromas florales. Paladar refrescante, con buen volumen y leve aguja que resalta su carácter frutal.",
-            "price": "900"
+            "name": "Cabernet",
+            "description": "Bodega norton.",
+            "price": "1200"
         },
         {
-            "name": "COPA VINOS LOS HAROLDOS",
-            "description": "Copa de vino Los Haroldos state.",
-            "price": "400"
+            "name": "malbec",
+            "description": "Bodega norton.",
+            "price": "1200"
         }
     ],
     "combos": [
