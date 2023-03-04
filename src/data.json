@@ -351,42 +351,42 @@
     "burguers": [
         {
             "name": "(New) Crispy Cat",
-            "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
+            "description": "Pan de papa, medallón de 130 g, cheddar, panceta ahumada, cebolla cryspi y ketchup",
             "price": "1300"
         },        
         {
             "name": "(New )Doble Crispy Cat",
-            "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
+            "description": "Pan de papa,doble medallón de 130 g, cheddar, panceta ahumada, cebolla cryspi y ketchup",
             "price": "1600"
         },
         {
             "name": "(New) Provolone",
-            "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
+            "description": "Pan de papa, medallón de 130 g, queso provolone, salsa criolla y ketchup",
             "price": "1300"
         },
         {
             "name": "(New) Doble Provolone",
-            "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
+            "description": "Pan de papa,doble medallón de 130 g, queso provolone, salsa criolla y ketchup",
             "price": "1600"
         },
         {
             "name": "(New) Clásica",
-            "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
+            "description": "Pan de papa, medallón de 130 g, muzza, lechuga rulito, tomate, jamon cocido y ketchup",
             "price": "1100"
         },
         {
             "name": "(New) Doble Clásica",
-            "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
+            "description": "Pan de papa, doble medallón de 130 g, muzza, lechuga rulito, tomate, jamon cocido y ketchup",
             "price": "1300"
         },
         {
             "name": "(New) Picat",
-            "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
+            "description": "Pan de papa, medallón de 130 g, cheddar, lechuga rulito, panceta ahumada, tomate, salsa de aji y ketchup",
             "price": "1300"
         },
         {
             "name": "(New) Doble Picat",
-            "description": "Pan de papa Negro, doble medallón de 130 g, cheddar, panceta ahumada, palta, tomate y aros de cebolla",
+            "description": "Pan de papa, doblr medallón de 130 g, cheddar, lechuga rulito, panceta ahumada, tomate, salsa de aji y ketchup",
             "price": "1600"
         },
         {
