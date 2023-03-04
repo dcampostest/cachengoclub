@@ -2,7 +2,7 @@
     "collins": [
         {
             "name": "Tom Collins",
-            "description": "-",
+            "description": "",
             "price": "1500",
             "categorie": ""
         },
@@ -53,7 +53,7 @@
             "categorie": ""
         },
         {
-            "name": "Wisky Sours",
+            "name": "Whisky Sours",
             "description": "",
             "price": "1500",
             "categorie": ""
@@ -516,7 +516,7 @@
             "price": "600"
         },
         {
-            "name": "(new) Bastones de pollo",
+            "name": "(new) Pollo Cryspi",
             "description": "tiras de pollos apanadas.",
             "price": "600"
         },
@@ -635,13 +635,13 @@
         },
         {
             "name": "COMBO DE GIN TANQUERAY",
-            "description": "Gin TANQUERAY + Rónica Pasos/ 1,5L.",
+            "description": "Gin TANQUERAY + Rónica Pasos/ 1,5L. + mix de cítricos",
             "price": "10000"
         },
         {
             "name": "COMBO DE GIN MERLE",
-            "description": "Gin MERLE + Rónica Pasos/ 1,5L.",
-            "price": "3600"
+            "description": "Gin MERLE, Tónica Pasos/ 1,5L. y limón",
+            "price": "3800"
         },
         {
             "name": "COMBO DE VODKA",
@@ -721,11 +721,80 @@
             "categorie": "nacional"
         },
         {
-            "name": "Adicional de frutos",
-            "description": "Puedes agregar adicional de frutos y botánicos",
+            "name": "mix tonix",
+            "description": "mix de frutas y botánicos",
             "price": "300",
             "categorie": "adicional"
         }
+    ],
+    "medidas":[
+        {
+            "name": "Medida de Amarula",
+            "description": "mix de frutas y botánicos",
+            "price": "1200",
+            "categorie": ""
+        },
+        {
+            "name": "Vaso de fernet",
+            "description": "vaso de fernet más coca",
+            "price": "700",
+            "categorie": ""
+        },
+        {
+            "name": "Jagger + redbull",
+            "description": "medida de Jagge mas lata de red bull",
+            "price": "2800",
+            "categorie": ""
+        },        
+        {
+            "name": "Medida Ron Habana 7 años",
+            "description": "Ron habana 7 años + Coca",
+            "price": "2000",
+            "categorie": ""
+        },
+        {
+            "name": "Ron Santa Teresa",
+            "description": "mix de frutas y botánicos",
+            "price": "2500",
+            "categorie": ""
+        },
+        {
+            "name": "Shot de Jose Cuervo",
+            "description": "",
+            "price": "2000",
+            "categorie": ""
+        },
+        {
+            "name": "Vodaka + speed",
+            "description": "Vodaka sky/Smirnoff + speed",
+            "price": "800",
+            "categorie": ""
+        },
+        {
+            "name": "Whisky The famous grouse",
+            "description": "The Famous Grouse se desenvuelve en la nariz con un marcado olor a turba ahumada acompañado por los aromas a roble procedente de su añejamiento en barricas",
+            "price": "1600",
+            "categorie": ""
+        },
+        {
+            "name": "Whisky Wild Turkey",
+            "description": "Wild Turkey es conocido por su alta presencia de centeno en la mezcla, incluso en los bourbon con los que comienzan la gama. Final: el acabado intenso da paso a un retrogusto ligeramente seco. Las especias, la pimienta y el roble dominan las notas más dulces del paladar.",
+            "price": "2200",
+            "categorie": ""
+        },
+        {
+            "name": "Whisky Sir Edward's",
+            "description": "Descripción. Sir Edward's es un destilado de alcohol de malta y destilado de cereales malteados, mezclados y embotellados en Escocia",
+            "price": "1600",
+            "categorie": ""
+        },
+        {
+            "name": "Whisky Tullamore Dew",
+            "description": "Tullamore Dew es un whisky de 40%vol con color acaramelado, fragancias son cítricas con notas de manzana verde y vainilla y un fino y afrutado paso por boca que evoluciona con sabor a madera y vainilla. Tiene un final largo y complejo con notas vegetales y caramelo.",
+            "price": "2000",
+            "categorie": ""
+        }
+        
     ]
 }
   
