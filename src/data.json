@@ -130,7 +130,7 @@
         },
         {
             "name": "Robroy",
-            "description": "-",
+            "description": "Angostura, Vermouth rosso y whisky Escocés",
             "price": "1500",
             "categorie": ""
         },
@@ -724,7 +724,7 @@
     "medidas":[
         {
             "name": "Medida de Amarula",
-            "description": "mix de frutas y botánicos",
+            "description": "Amarula es originalmente un licor crema que se fabricaba en Sudáfrica. Se hace con azúcar, nata y el fruto del árbol africano marula (Sclerocarya birrea)",
             "price": "1200",
             "categorie": ""
         },
@@ -748,7 +748,7 @@
         },
         {
             "name": "Ron Santa Teresa",
-            "description": "mix de frutas y botánicos",
+            "description": "Ron venezolano",
             "price": "2500",
             "categorie": ""
         },
