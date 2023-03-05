@@ -2,31 +2,31 @@
     "collins": [
         {
             "name": "Tom Collins",
-            "description": "",
+            "description": "Cóctel a base de gin, zumo limon, almíbar, fresco y ligero",
             "price": "1500",
             "categorie": ""
         },
         {
             "name": "Sandy Collins",
-            "description": "-",
+            "description": "Cóctel cítrico a base de whisky Escocés.",
             "price": "1600",
             "categorie": ""
         },
         {
             "name": "Mike Collins",
-            "description": "-",
+            "description": "whisky, el zumo de limón, almíbar y soda",
             "price": "1800",
             "categorie": ""
         },
         {
-            "name": "Rum Collins",
-            "description": "-",
+            "name": "Rom Collins",
+            "description": "Cóctel a base de Ron, zumo limon, almíbar y soda",
             "price": "1500",
             "categorie": ""
         },
         {
-            "name": "Phil (capel) Collins",
-            "description": "-",
+            "name": "Phil (chapel) Collins",
+            "description": "Cóctel a base de gin, zumo limon, Frambuesa y soda",
             "price": "1800",
             "categorie": ""
         }
@@ -34,13 +34,13 @@
     "mojitos":[
         {
             "name": "Cásico",
-            "description": "-",
+            "description": "Ron havana blanco, zumo de límon, menta y soda",
             "price": "1000",
             "categorie": ""
         },
         {
             "name": "Malibu",
-            "description": "-",
+            "description": "Ron havana blanco, malibu, zumo de límon, menta y soda",
             "price": "1200",
             "categorie": ""
         }
