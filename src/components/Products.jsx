@@ -36,6 +36,7 @@ function Products(){
                 <Productbox image={generic} title="Birritas Art."/>
                 <Productbox image={generic} title="Birritas Industriales"/>
                 <Productbox image={generic} title="Combos"/>
+                <Productbox image={generic} title="Medidas"/>
                 <Productbox image={generic} title="Bebidas sin Alc."/>
                 <Productbox image={generic} title="Franui"/>
                 <Productbox image={generic} title="Vinos"/>

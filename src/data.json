@@ -48,37 +48,37 @@
     "destilledsours":[
         {
             "name": "Pisco Sours",
-            "description": "",
+            "description": "Pisco Mistral, zumo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
             "price": "1500",
             "categorie": ""
         },
         {
             "name": "Whisky Sours",
-            "description": "",
+            "description": "Whisky, zumo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
             "price": "1500",
             "categorie": ""
         },
         {
             "name": "New York Sours",
-            "description": "",
+            "description": "Wild turkey, zumo límon, almibar simple y clara. Finalizado con un bitter aromático angostura",
             "price": "2200",
             "categorie": ""
         },
         {
             "name": "Gin Sours",
-            "description": "",
+            "description": "Gin TANQUERAY, zumo límon, almibar simple y clara. Finalizado con un bitter aromático angostura",
             "price": "1500",
             "categorie": ""
         },
         {
             "name": "Vodka Sours",
-            "description": "",
+            "description": "Vodka, jugo de pomelo rosa, jugo de naranja, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
             "price": "1300",
             "categorie": ""
         },
         {
             "name": "Ron Sours",
-            "description": "",
+            "description": "Ron blanco, ron dorado, jugo de limón, jugo de pomelo rosa, almmibar, clara, coctel finalizado con bitter aromático y piel de cítrico.",
             "price": "1500",
             "categorie": ""
         }
@@ -106,13 +106,13 @@
     "clasicosinternacionales":[
         {
             "name": "Negroni",
-            "description": "",
+            "description": "Gin tanqueray, Vermouth rosso y campari",
             "price": "1800",
             "categorie": ""
         },
         {
             "name": "boulebardier",
-            "description": "",
+            "description": "Wild Turkey, vermuth rosso y campari",
             "price": "2200",
             "categorie": ""
         },
@@ -124,7 +124,7 @@
         },
         {
             "name": "Manhattan",
-            "description": "-",
+            "description": "Coctel clásico elaborado con whisky bourbon wild turkey 101, vermu rosso y dash de bitter angostura.",
             "price": "1800",
             "categorie": ""
         },
@@ -142,81 +142,81 @@
         },
         {
             "name": "Penicilin",
-            "description": "-",
+            "description": "wisky the famous grouse/Sir Edward's,",
             "price": "1500",
             "categorie": ""
         }
     ],
     "clasicosdelacasa":[
         {
-            "name": "Cachego Pink",
-            "description": "-",
+            "name": "Cachengo Pink",
+            "description": "Coctel elaborado con base de gin, jugo de limón, frutillas, almibar simple y agua tónica.",
             "price": "1800",
             "categorie": ""
         },
         {
             "name": "Caipi Roska/rinha/risima",
-            "description": "-",
+            "description": "Elaborado con vodka clásico, almibar, jugo de limón, limón/saborizado de frutos rojos y maracuyá.",
             "price": "1200",
             "categorie": ""
         },
         {
             "name": "Aperol sprite",
-            "description": "-",
+            "description": "Aperol, agua con gas, champagne y naranja.",
             "price": "1000",
             "categorie": ""
         },
         {
             "name": "Garibaldi",
-            "description": "-",
+            "description": "Campari, jugo de naranja, naranja.",
             "price": "800",
             "categorie": ""
         },
         {
             "name": "Campari tonic",
-            "description": "-",
+            "description": "Campari, tonica y rodaja de limón",
             "price": "800",
             "categorie": ""
         },
         {
             "name": "Red Jagger",
-            "description": "-",
+            "description": "Coctel tropical cítrico elaborado con jaggermeifter, jugo de límon, zumo de frutos rojos, almibar , como garnitura menta fresca y mix de frutos rojos.",
             "price": "2200",
             "categorie": ""
         },
         {
-            "name": "hard Russian",
-            "description": "-",
+            "name": "Hard Russian",
+            "description": "vodka y licor de café, sir edward's y crema",
             "price": "1600",
             "categorie": ""
         },
         {
             "name": "Inverno",
-            "description": "-",
+            "description": "crema de frutilla, baileys, licor de cafe y mescal",
             "price": "1600",
             "categorie": ""
         },
         {
             "name": "Coctel de la casa",
-            "description": "-",
+            "description": "Toda la semana variedad nueva, consultar con bartender",
             "price": "1800",
             "categorie": ""
         },
         {
             "name": "cuba libre",
-            "description": "-",
+            "description": "Ron havana club dorado, jugo de limón y coca cola.",
             "price": "900",
             "categorie": ""
         },
         {
             "name": "daiquiri",
-            "description": "-",
+            "description": "Ron havanna 3 años, almibar, frutillas/anana frescas, jugo de limón y hielo picado(Licuado).",
             "price": "1600",
             "categorie": ""
         },
         {
-            "name": "cocktail tiki",
-            "description": "-",
+            "name": "Cocktail tiki",
+            "description": "Base de ron, un toque polinesio, con un matiz hawaiano. El característico de la coctelería tiki, decoración tropical y múltiple combinación de sabores frutales",
             "price": "2000",
             "categorie": ""
         }
@@ -224,20 +224,14 @@
     "mocktails":[
         {
             "name": "Limonada",
-            "description": "",
+            "description": "Limón(jugo fresco), almibar ysoda/agua",
             "price": "600",
             "categorie": ""
         },
         {
             "name": "Pomelada",
-            "description": "",
+            "description": "Pomelo(jugo fresco), almibar y soda/agua",
             "price": "600",
-            "categorie": ""
-        },
-        {
-            "name": "Elección a perfil",
-            "description": "-",
-            "price": "-",
             "categorie": ""
         }
     ],
