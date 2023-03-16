@@ -199,8 +199,8 @@ nav .menu-btn,
 
 }
 .a-b-img img{
-    padding: 10px;
-    margin-top: 20px;
+    padding: 1%;
+    margin-top: 2%;
     width:100%;
     height: 100%;
 
@@ -219,6 +219,9 @@ nav .menu-btn,
     flex-direction: column;
 }
 .a-b-text h2{
+    color: #ede8e5;
+}
+.a-b-text h4{
     color: #ede8e5;
 }
 .productbox-button{

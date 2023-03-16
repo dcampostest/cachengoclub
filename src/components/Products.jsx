@@ -14,7 +14,7 @@ import branca from '../images/branca.png'
 import daiquiri from '../images/daiquiri.png'
 import pepsi from '../images/pepsi.png'
 import promos from '../images/promos.png'
-import generic from '../images/Cachengo_ConFondo_7.png'
+import generic from '../images/Cachengo_SinFondo_7.png'
 function Products(){
     return(
         <div id='products'>
@@ -37,11 +37,9 @@ function Products(){
                 <Productbox image={generic} title="Birritas Industriales"/>
                 <Productbox image={generic} title="Combos"/>
                 <Productbox image={generic} title="Medidas"/>
-                <Productbox image={generic} title="Bebidas sin Alc."/>
+                <Productbox image={generic} title="Bebidas S/Alc"/>
                 <Productbox image={generic} title="Franui"/>
                 <Productbox image={generic} title="Vinos"/>
-
-
             </div>
         </div>
     )

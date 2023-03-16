@@ -24,7 +24,7 @@ function Productbox(props) {
                     <img src={props.image} alt=''/>
                 </div>
                 <div className='a-b-text'>
-                    <h2>{props.title}</h2>
+                    <h4>{props.title}</h4>
                     <button className='productbox-button' onClick={toggle}>Ver más</button>
                     <Modal isOpen={modal} toggle={toggle} {...props} className="special_modal">
                         <ModalHeader
@@ -78,7 +78,7 @@ function Productbox(props) {
                            {props.title === "Medidas" && 
                                <Categorie meals={medidas} />
                             }
-                            {props.title === "Bebidas sin Alc." && 
+                            {props.title === "Bebidas S/Alc" && 
                                <Categorie meals={bebidassinalcohol} />
                             }
                             {props.title === "Franui" && 
