@@ -473,25 +473,20 @@
     ],
     "promos": [
         {
-            "name": "Aperol x2",
-            "description": "¡Hora del aperitivo!",
-            "price": "1000"
+            "name": "Happy Budweiser",
+            "description": "¡Hora del 2x1!",
+            "price": "600"
         },
         {
-            "name": "Mojitos x2",
-            "description": "¡Hora del aperitivo!",
-            "price": "1000"
+            "name": "Jameson Sour",
+            "description": "Whisky Irlandes Jameson, zumo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
+            "price": "1500"
         },
         {
-            "name": "Gin Tonic x2",
-            "description": "¡Hora del aperitivo!",
-            "price": "1200"
-        },
-        {
-            "name": "Pineral Vermouth x2",
-            "description": "¡Hora del aperitivo!(Hasta las 2am & agotar stock)",
-            "price": "800"
-        }
+            "name": "El Irlandés",
+            "description": "Whisky Irlandes Tullamore Dew",
+            "price": "1500"
+        }        
     ],
     "parapicotear": [
         {
@@ -584,14 +579,14 @@
     ],
     "franui": [
         {
-            "name": "FRANUI CHOCO AMARGO(Sin stock)",
+            "name": "FRANUI CHOCO AMARGO",
             "description": "Franui chocolate amargo y chocolate blanco.",
-            "price": "-"
+            "price": "1200"
         },
         {
-            "name": "FRANUI CHOCO CON LECHE(Sin stock)",
+            "name": "FRANUI CHOCO CON LECHE",
             "description": "Franui chocolate con leche y chocolate blanco.",
-            "price": "-"
+            "price": "1200"
         }
     ],    
     "vinos": [

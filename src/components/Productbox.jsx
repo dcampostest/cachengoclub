@@ -4,7 +4,7 @@ import {
     ModalHeader, ModalBody
 } from "reactstrap"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { collins, mojitos, destilledsours, aperitivos, clasicosinternacionales,clasicosdelacasa,mocktails,detumenteatusmanos,birritasartesanales,birritasindustriales,burguers,pizzas,medidas,parapicotear,bebidassinalcohol,franui,vinos,combos,gintoneria
+import { promos,collins, mojitos, destilledsours, aperitivos, clasicosinternacionales,clasicosdelacasa,mocktails,detumenteatusmanos,birritasartesanales,birritasindustriales,burguers,pizzas,medidas,parapicotear,bebidassinalcohol,franui,vinos,combos,gintoneria
 } from ".././data.json";
 import Categorie from "./utils/Categorie";
 
@@ -86,6 +86,9 @@ function Productbox(props) {
                             }
                             {props.title === "Vinos" && 
                                <Categorie meals={vinos} />
+                            }
+                            {props.title === "St Patrick's Day" && 
+                               <Categorie meals={promos} />
                             }
 
                         </ModalBody>
