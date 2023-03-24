@@ -473,20 +473,20 @@
     ],
     "promos": [
         {
-            "name": "Happy Budweiser",
+            "name": "Happy Aperol Spritz",
             "description": "¡Hora del 2x1!",
-            "price": "600"
+            "price": "1000"
         },
         {
-            "name": "Jameson Sour",
-            "description": "Whisky Irlandes Jameson, zumo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "1500"
+            "name": "Happy Campari Tonic",
+            "description": "¡Hora del 2x1!",
+            "price": "1400"
         },
         {
-            "name": "El Irlandés",
-            "description": "Whisky Irlandes Tullamore Dew",
-            "price": "1500"
-        }        
+            "name": "Happy Gin Merle",
+            "description": "¡Hora del 2x1!",
+            "price": "1200"
+        }      
     ],
     "parapicotear": [
         {
