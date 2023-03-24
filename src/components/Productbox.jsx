@@ -87,7 +87,7 @@ function Productbox(props) {
                             {props.title === "Vinos" && 
                                <Categorie meals={vinos} />
                             }
-                            {props.title === "St Patrick's Day" && 
+                            {props.title === "Finde XL" && 
                                <Categorie meals={promos} />
                             }
 

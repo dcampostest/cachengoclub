@@ -21,7 +21,7 @@ function Products(){
             <h1>Carta</h1>
             <p></p>
             <div className='a-container'>
-                <Productbox image={generic} title="St Patrick's Day"/>
+                <Productbox image={generic} title="Finde XL"/>
                 <Productbox image={generic} title="Para Picotear"/>
                 <Productbox image={generic} title="Pizzas"/>
                 <Productbox image={generic} title="Burguers"/>
