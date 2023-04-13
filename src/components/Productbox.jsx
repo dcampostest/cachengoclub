@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useState, useEffect} from "react";
 import {
     Button, Modal, ModalFooter,
     ModalHeader, ModalBody
@@ -8,6 +8,8 @@ import { promos,collins, mojitos, destilledsours, aperitivos, clasicosinternacio
 } from ".././data.json";
 import Categorie from "./utils/Categorie";
 
+import {Categories, Products} from "../api"
+const categoriesCtrl = new Categories();
 
 function Productbox(props) {
 
@@ -16,6 +18,14 @@ function Productbox(props) {
 
     // Toggle for Modal
     const toggle = () => setModal(!modal);
+    const [categories, setCategories] = useState([]);
+
+    useEffect(()=>{
+        (async () =>{
+          const categories = await categoriesCtrl.obtain();
+          setCategories(categories)
+        })()
+      }, [])
 
     return(
         <div className='products'>
@@ -30,67 +40,7 @@ function Productbox(props) {
                         <ModalHeader
                             toggle={toggle}>{props.title}</ModalHeader>
                         <ModalBody>
-                           {props.title === "Para Picotear" && 
-                               <Categorie meals={parapicotear} />
-                            }
-                            {props.title === "Pizzas" && 
-                                <Categorie meals={pizzas} />
-                            }
-                            {props.title === "Burguers" && 
-                               <Categorie meals={burguers} />
-                            }
-                            {props.title === "Collins" && 
-                               <Categorie meals={collins} />
-                            }
-                            {props.title === "Mojitos" && 
-                               <Categorie meals={mojitos} />
-                            }
-                            {props.title === "Destilled Sours" && 
-                               <Categorie meals={destilledsours} />
-                            }
-                            {props.title === "Aperitivos" && 
-                               <Categorie meals={aperitivos} />
-                            }
-                            {props.title === "Clásicos Inter." && 
-                               <Categorie meals={clasicosinternacionales} />
-                            }
-                            {props.title === "De la casa" && 
-                               <Categorie meals={clasicosdelacasa} />
-                            }
-                            {props.title === "Mocktails" && 
-                               <Categorie meals={mocktails} />
-                            }
-                            {props.title === "Gintoneria" && 
-                               <Categorie meals={gintoneria} />
-                            }
-                            {props.title === "De tu mente a tus manos" && 
-                               <Categorie meals={detumenteatusmanos} />
-                            }
-                            {props.title === "Birritas Art." && 
-                               <Categorie meals={birritasartesanales} />
-                            }
-                            {props.title === "Birritas Industriales" && 
-                               <Categorie meals={birritasindustriales} />
-                            }
-                            {props.title === "Combos" && 
-                               <Categorie meals={combos} />
-                            }
-                           {props.title === "Medidas" && 
-                               <Categorie meals={medidas} />
-                            }
-                            {props.title === "Bebidas S/Alc" && 
-                               <Categorie meals={bebidassinalcohol} />
-                            }
-                            {props.title === "Franui" && 
-                               <Categorie meals={franui} />
-                            }
-                            {props.title === "Vinos" && 
-                               <Categorie meals={vinos} />
-                            }
-                            {props.title === "Finde XL" && 
-                               <Categorie meals={promos} />
-                            }
-
+                           {categories.map((category) => props.title === category.name &&  <Categorie categoryName={category.name} />)}
                         </ModalBody>
                         <ModalFooter>
                             <Button color="primary" onClick={toggle}>Cerrar</Button>
