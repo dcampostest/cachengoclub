@@ -1,0 +1,13 @@
+name: Deploy on push
+on:
+  push:
+    branches: [master]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install  SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{secret.SSH_PRIVATE_KEY}}
+          name: id_rsa
