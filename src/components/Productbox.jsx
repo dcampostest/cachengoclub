@@ -1,15 +1,11 @@
-import React, {useState, useEffect} from "react";
+import React from "react";
 import {
     Button, Modal, ModalFooter,
     ModalHeader, ModalBody
 } from "reactstrap"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { promos,collins, mojitos, destilledsours, aperitivos, clasicosinternacionales,clasicosdelacasa,mocktails,detumenteatusmanos,birritasartesanales,birritasindustriales,burguers,pizzas,medidas,parapicotear,bebidassinalcohol,franui,vinos,combos,gintoneria
-} from ".././data.json";
 import Categorie from "./utils/Categorie";
-
-import {Categories, Products} from "../api"
-const categoriesCtrl = new Categories();
+import {useCategories} from "../hooks"
 
 function Productbox(props) {
 
@@ -18,14 +14,7 @@ function Productbox(props) {
 
     // Toggle for Modal
     const toggle = () => setModal(!modal);
-    const [categories, setCategories] = useState([]);
-
-    useEffect(()=>{
-        (async () =>{
-          const categories = await categoriesCtrl.obtain();
-          setCategories(categories)
-        })()
-      }, [])
+    const {categories, loading, error, getCategories} = useCategories();
 
     return(
         <div className='products'>
@@ -40,7 +29,11 @@ function Productbox(props) {
                         <ModalHeader
                             toggle={toggle}>{props.title}</ModalHeader>
                         <ModalBody>
-                           {categories && categories.map((category) => props.title === category.name &&  <Categorie categoryName={category.name} />)}
+                           {loading ? (
+                              <p>Loading...</p>
+                           ):(
+                              categories && categories.map((category) => props.title === category.name &&  <Categorie categoryName={category.name} />)
+                           )}
                         </ModalBody>
                         <ModalFooter>
                             <Button color="primary" onClick={toggle}>Cerrar</Button>
