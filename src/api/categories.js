@@ -1,5 +1,5 @@
 export class Categories{
-    endpoint = "http://localhost:3000/categories"
+    endpoint = "http://localhost:8080/categories"
 
     async obtain(){
         try {

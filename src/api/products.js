@@ -1,5 +1,5 @@
 export class Products{
-    endpoint = "http://localhost:3000/productsbycategory"
+    endpoint = "http://localhost:8080/productsbycategory"
 
     async obtainProducts(categoryName){
         try {
