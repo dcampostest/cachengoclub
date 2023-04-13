@@ -32,7 +32,7 @@ function Products(){
             <h1>Carta</h1>
             <p></p>
             <div className='a-container'>
-                {categories.map((category) => <Productbox image={generic} title={category.name}/>)}
+                {categories && categories.map((category) => <Productbox image={generic} title={category.name}/>)}
             </div>
         </div>
     )

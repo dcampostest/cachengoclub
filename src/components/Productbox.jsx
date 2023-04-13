@@ -40,7 +40,7 @@ function Productbox(props) {
                         <ModalHeader
                             toggle={toggle}>{props.title}</ModalHeader>
                         <ModalBody>
-                           {categories.map((category) => props.title === category.name &&  <Categorie categoryName={category.name} />)}
+                           {categories && categories.map((category) => props.title === category.name &&  <Categorie categoryName={category.name} />)}
                         </ModalBody>
                         <ModalFooter>
                             <Button color="primary" onClick={toggle}>Cerrar</Button>

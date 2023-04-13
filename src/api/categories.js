@@ -1,14 +1,9 @@
 export class Categories{
-    endpoint = "167.172.233.9:8080/categories"
+    endpoint = "http://localhost:8080/categories"
 
     async obtain(){
         try {
-            const response = await fetch(this.endpoint, {
-                method: 'GET',
-                headers: {
-                accept: 'application/json',
-                },
-            });
+            const response = await fetch(this.endpoint);
             if (!response.ok) {
                 throw new Error(`Error! status: ${response.status}`);
             }

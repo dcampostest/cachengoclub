@@ -13,7 +13,7 @@ export default function Categorie({categoryName}) {
   }, [])
   return (
     <section className="mains">
-      {products.map((product, index) => (
+      {products && products.map((product, index) => (
         <article className="menu-item" key={index}>
           <h3 className="mains-name">{product.name}</h3>
           <strong className="mains-price">${product.price}</strong>
