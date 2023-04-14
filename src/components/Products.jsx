@@ -15,6 +15,8 @@ function Products(){
                 ):(
                     categories && categories.map((category) => <Productbox image={generic} title={category.name}/>)
                 )}
+
+                <span style={{color: "#f00"}}>{error}</span>
             </div>
         </div>
     )

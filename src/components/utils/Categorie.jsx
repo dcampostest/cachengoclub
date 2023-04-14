@@ -17,6 +17,7 @@ export default function Categorie({categoryName}) {
           </article>
         ))
       )}
+      <span style={{color: "#f00"}}>{error}</span>
     </section>
   );
 }

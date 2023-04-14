@@ -34,6 +34,7 @@ function Productbox(props) {
                            ):(
                               categories && categories.map((category) => props.title === category.name &&  <Categorie categoryName={category.name} />)
                            )}
+                           <span style={{color: "#f00"}}>{error}</span>
                         </ModalBody>
                         <ModalFooter>
                             <Button color="primary" onClick={toggle}>Cerrar</Button>
