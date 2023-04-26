@@ -247,64 +247,59 @@
         {
             "name": "IPA",
             "description": "SHERLOcK",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "RED IPA ",
             "description": "SHERLOcK",
-            "price": "400"
-        },
-        {
-            "name": "Minino Red IPA",
-            "description": "SHERLOcK",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "Galaxi",
             "description": "SHERLOcK",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "Irish",
             "description": "SHERLOcK",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "Pilsen",
             "description": "SHERLOcK",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "Jengibre",
             "description": "SHERLOcK",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "Maracuya",
             "description": "SHERLOcK",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "Black IPA",
             "description": "SHERLOcK",
-            "price": "400"
+            "price": "500"
         }
     ],
     "birritasindustriales": [
         {
             "name": "PATAGONIA WEISSE",
             "description": "BOTELLA 740CC",
-            "price": "1100"
+            "price": "1300"
         },
         {
             "name": "CORONA",
             "description": "BOTELLA 710CC",
-            "price": "1200"
+            "price": "1300"
         },
         {
             "name": "PATAGONIA BOHEMIAN",
             "description": "BOTELLA 740CC",
-            "price": "1100"
+            "price": "1300"
         },
         {
             "name": "ANDES ORIGEN IPA",
@@ -324,12 +319,12 @@
         {
             "name": "PATAGONIA 24.7",
             "description": "BOTELLA 710CC",
-            "price": "1100"
+            "price": "1300"
         },
         {
             "name": "BUDWEISER",
             "description": "BOTELLA 710CC",
-            "price": "800"
+            "price": "1000"
         },
         {
             "name": "ANDES ORIGEN",
