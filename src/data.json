@@ -91,8 +91,8 @@
             "categorie": ""
         },
         {
-            "name": "Cynar julep",
-            "description": "",
+            "name": "Cynar 70 julep",
+            "description": "Coctel fresco, mentolado y con un ligero toque amargo. Compuesto por Cynar 70, pomelo, almibar, menta freca y jugo de pomelo.",
             "price": "800",
             "categorie": ""
         },
@@ -620,7 +620,7 @@
         {
             "name": "COMBO DE FERNET",
             "description": "Fernet Branca + Coca cola 2,5L.",
-            "price": "4500"
+            "price": "4900"
         },
         {
             "name": "COMBO DE GIN TANQUERAY",
@@ -630,7 +630,7 @@
         {
             "name": "COMBO DE GIN MERLE",
             "description": "Gin MERLE, Tónica Pasos/ 1,5L. y limón",
-            "price": "3800"
+            "price": "4000"
         },
         {
             "name": "COMBO DE VODKA",
