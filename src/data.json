@@ -86,7 +86,7 @@
     "aperitivos": [
         {
             "name": "Tonico 9",
-            "description": "",
+            "description": "Tinto dulce, sour mix, agua tonica",
             "price": "1000",
             "categorie": ""
         },
@@ -168,13 +168,13 @@
         },
         {
             "name": "Garibaldi",
-            "description": "Campari, jugo de naranja, naranja.",
+            "description": "Campari, jugo de naranja, rodaja de naranja.",
             "price": "800",
             "categorie": ""
         },
         {
             "name": "Campari tonic",
-            "description": "Campari, tonica y rodaja de limón",
+            "description": "Campari, tónica y rodaja de naranja",
             "price": "800",
             "categorie": ""
         },
@@ -192,7 +192,7 @@
         },
         {
             "name": "Cachengo Baileys",
-            "description": "crema de frutilla, baileys, licor de cafe y mescal",
+            "description": "Crema de frutilla, baileys, licor de cafe y mescal",
             "price": "1600",
             "categorie": ""
         },
@@ -502,7 +502,7 @@
         {
             "name": "(new) Pollo Cryspi",
             "description": "tiras de pollos apanadas.",
-            "price": "600"
+            "price": "1000"
         },
         {
             "name": "(new) A caballo",
@@ -768,7 +768,7 @@
         },
         {
             "name": "Whisky Sir Edward's",
-            "description": "Descripción. Sir Edward's es un destilado de alcohol de malta y destilado de cereales malteados, mezclados y embotellados en Escocia",
+            "description": "Sir Edward's es un destilado de alcohol de malta y destilado de cereales malteados, mezclados y embotellados en Escocia",
             "price": "1600",
             "categorie": ""
         },
