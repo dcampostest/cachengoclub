@@ -7,11 +7,7 @@ export default function Categorie({ meals }) {
         <article className="menu-item" key={index}>
           <h3 className="mains-name">{meal.name}</h3>
           <strong className="mains-price">${meal.price}</strong>
-          <table>
-            <tr><Image source={{uri: 'https://reactjs.org/logo-og.png'}}
-       style={{width: 400, height: 400}} /></tr>
-            <tr><p className="mains-description">{meal.description}</p></tr>
-          </table>    
+          <p className="mains-description">{meal.description}</p>
         </article>
       ))}
     </section>
