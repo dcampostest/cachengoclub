@@ -47,6 +47,12 @@
     ],
     "destilledsours":[
         {
+            "name": "Narciso Negro Vodka(new)",
+            "description": "El extravagante mundo de Narciso Negro, Notas a malta dulce, con dejos a vainilla, algo meloso y de alcohol suave.",
+            "price": "1600",
+            "categorie": ""
+        },
+        {
             "name": "Pisco Sours",
             "description": "Pisco Mistral, zumo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
             "price": "1500",
@@ -469,17 +475,12 @@
     "promos": [
         {
             "name": "Happy Aperol Spritz",
-            "description": "¡Hora del 2x1!",
+            "description": "¡Hora del 2x1! stop 1hs",
             "price": "1000"
         },
         {
-            "name": "Happy Campari Tonic",
-            "description": "¡Hora del 2x1!",
-            "price": "1400"
-        },
-        {
             "name": "Happy Gin Merle",
-            "description": "¡Hora del 2x1!",
+            "description": "¡Hora del 2x1! stop 1hs",
             "price": "1200"
         }      
     ],
@@ -520,9 +521,9 @@
             "price": "1400"
         },
         {
-            "name": "Mani(sin stock)",
+            "name": "Mani",
             "description": "Un Maní para calentar con la Birrita?",
-            "price": "-"
+            "price": "300"
         }
     ],
     "bebidassinalcohol": [
@@ -648,6 +649,12 @@
             "name": "Copon de Merle",
             "description": "Gin Merle, Agua Tónica",
             "price": "700",
+            "categorie": "nacional"
+        },
+        {
+            "name": "Gin Belladonna(new)",
+            "description": "La mística y la belleza de Belladonna, gin formulado con 37 bótanicos., Agua Tónica",
+            "price": "1600",
             "categorie": "nacional"
         },
         {
