@@ -72,8 +72,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Run Production files
 
-npm install
-npm run build
+1 - git add .
+2 - git commmit -m "con alguna descripcion de que hiciste"
+3 - git push
 
-sudo cp -r /root/cachengoclub/build/. /var/www/html
-sudo service nginx restart
+4 - entrar a digital ocean https://cloud.digitalocean.com/droplets/301449304/access?i=8497a1
+5 - access
+6 - Launch dropplet console
+7 - cd cachengoclub
+8 - git fetch origin
+9 - git pull
+
+10 - npm run build
+
+11 - sudo cp -r /root/cachengoclub/build/. /var/www/html
+12 - sudo service nginx restart

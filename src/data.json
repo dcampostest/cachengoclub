@@ -528,14 +528,9 @@
     ],
     "bebidassinalcohol": [
         {
-            "name": "lorita",
-            "description": "Gaseosa Cola, línea común y zero de 500 ml.",
-            "price": "invaluable"
-        },
-        {
             "name": "Pepsi",
             "description": "Gaseosa Cola, línea común y zero de 500 ml.",
-            "price": "500"
+            "price": "400"
         },
         {
             "name": "Mirinda",
