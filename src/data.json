@@ -283,17 +283,17 @@
         {
             "name": "PATAGONIA WEISSE",
             "description": "BOTELLA 740CC",
-            "price": "1300"
+            "price": "1500"
         },
         {
             "name": "CORONA",
             "description": "BOTELLA 710CC",
-            "price": "1300"
+            "price": "1500"
         },
         {
             "name": "PATAGONIA BOHEMIAN",
             "description": "BOTELLA 740CC",
-            "price": "1300"
+            "price": "1500"
         },
         {
             "name": "ANDES ORIGEN IPA",
@@ -313,7 +313,7 @@
         {
             "name": "PATAGONIA 24.7",
             "description": "BOTELLA 710CC",
-            "price": "1300"
+            "price": "1500"
         },
         {
             "name": "BUDWEISER",
@@ -328,94 +328,79 @@
         {
             "name": "CORONA",
             "description": "BOTELLA 330CC",
-            "price": "700"
+            "price": "900"
         }
     ],
     "burguers": [
         {
             "name": "(New) Crispy Cat",
             "description": "Pan de papa, medallón de 130 g, cheddar, panceta ahumada, cebolla cryspi y ketchup",
-            "price": "1300"
+            "price": "1500"
         },        
         {
             "name": "(New )Doble Crispy Cat",
             "description": "Pan de papa,doble medallón de 130 g, cheddar, panceta ahumada, cebolla cryspi y ketchup",
-            "price": "1600"
+            "price": "1800"
         },
         {
             "name": "(New) Provolone",
             "description": "Pan de papa, medallón de 130 g, queso provolone, salsa criolla y ketchup",
-            "price": "1300"
+            "price": "1500"
         },
         {
             "name": "(New) Doble Provolone",
             "description": "Pan de papa,doble medallón de 130 g, queso provolone, salsa criolla y ketchup",
-            "price": "1600"
+            "price": "1800"
         },
         {
             "name": "(New) Clásica",
             "description": "Pan de papa, medallón de 130 g, muzza, lechuga rulito, tomate, jamon cocido y ketchup",
-            "price": "1100"
+            "price": "1300"
         },
         {
             "name": "(New) Doble Clásica",
             "description": "Pan de papa, doble medallón de 130 g, muzza, lechuga rulito, tomate, jamon cocido y ketchup",
-            "price": "1300"
+            "price": "1500"
         },
         {
             "name": "(New) Picat",
             "description": "Pan de papa, medallón de 130 g, cheddar, lechuga rulito, panceta ahumada, tomate, salsa de aji y ketchup",
-            "price": "1300"
+            "price": "1500"
         },
         {
             "name": "(New) Doble Picat",
             "description": "Pan de papa, doblr medallón de 130 g, cheddar, lechuga rulito, panceta ahumada, tomate, salsa de aji y ketchup",
-            "price": "1600"
+            "price": "1800"
         },
         {
             "name": "CACHENGO BBQ",
             "description": "Pan de papa, medallón de 130 g, cheddar, panceta ahumada, barbacoa y papas fritas",
-            "price": "1300"
+            "price": "1500"
         },
         {
             "name": "BIG CAT",
             "description": "Pan de papa, medallón de 130 g, lechuga, cebolla, cheddar, salsa big cat, pepinillos y papas fritas.",
-            "price": "1300"
+            "price": "1500"
         },
         {
             "name": "AMERICANA",
             "description": "Pan de papa, medallón de 130 g, lechuga, cebolla, cheddar, tomate, ketchup y papas fritas.",
-            "price": "1200"
+            "price": "1500"
         },
         {
             "name": "DOBLE CACHENGO BBQ",
             "description": "Pan de papa, medallón de 130 g x2, cheddar x2, panceta ahumada x2, barbacoa y papas fritas",
-            "price": "1600"
+            "price": "1800"
         },
         {
             "name": "DOBLE BIG CAT",
             "description": "Pan de papa, medallón de 130 g x2, lechuga, cebolla, cheddar x2, salsa big cat, pepinillos y papas fritas.",
-            "price": "1600"
+            "price": "1800"
         },
         {
             "name": "DOBLE AMERICANA",
             "description": "Pan de papa, medallón de 130 g x2, lechuga, cebolla, cheddar x2, tomate, ketchup y papas fritas.",
-            "price": "1500"
-        },
-        {
-            "name": "NOT CACHENGO BBQ(veg.)",
-            "description": "Pan de papa, medallón vegetariano not burguer, cheddar, barbacoa y papas fritas",
-            "price": "-"
-        },
-        {
-            "name": "NOT BIG CAT(veg.)",
-            "description": "Pan de papa, medallón vegetariano not burguer, lechuga, cebolla, cheddar, salsa big cat, pepinillos y papas fritas.",
-            "price": "-"
-        },
-        {
-            "name": "NOT AMERICANA(veg.)",
-            "description": "Pan de papa, medallón vegetariano not burguer, lechuga, cebolla, cheddar, tomate, ketchup y papas fritas.",
-            "price": "-"
+            "price": "1700"
         }
     ],
     "pizzas": [
@@ -454,7 +439,7 @@
         {
             "name": "Happy Gin Paff",
             "description": "¡Hora del 2x1! stop 00hs",
-            "price": "-"
+            "price": "1400"
         },
         {
             "name": "Happy Hours Pintitasssss",
@@ -613,6 +598,12 @@
         }
     ],
     "gintoneria": [
+        {
+            "name": "Copon Le tribute",
+            "description": "Se trata de una ginebra de corte cítrico elaborada con cítricos naturales. Además está embotellada a una graduación del 43% de alcohol.",
+            "price": "3000",
+            "categorie": "nacional"
+        },
         {
             "name": "Copon de Merle",
             "description": "Gin Merle, Agua Tónica",
