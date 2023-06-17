@@ -437,11 +437,6 @@
     ],
     "promos": [
         {
-            "name": "Happy Gin Paff",
-            "description": "¡Hora del 2x1! stop 00hs",
-            "price": "1400"
-        },
-        {
             "name": "Happy Hours Pintitasssss",
             "description": "¡Hora del 2x1! stop 23hs",
             "price": "1000"
@@ -450,7 +445,7 @@
     "parapicotear": [
         {
             "name": "(new) Bastones de muzza",
-            "description": "Bastones de muzza apanados.(sin stock)",
+            "description": "Bastones de muzza apanados.",
             "price": "1000"
         },
         {
@@ -582,6 +577,11 @@
             "price": "4500"
         },
         {
+            "name": "COMBO DE GIN FLIPA",
+            "description": "FLIPA, Tónica Pasos 4 latas limón",
+            "price": "5500"
+        },
+        {
             "name": "COMBO DE VODKA",
             "description": "Vodka smirnoff/sky + Gaseosa 2,5L.",
             "price": "5000"
@@ -608,6 +608,12 @@
             "name": "Copon de Merle",
             "description": "Gin Merle, Agua Tónica",
             "price": "900",
+            "categorie": "nacional"
+        },
+        {
+            "name": "Copon de Flipa",
+            "description": "Gin flipa, Agua Tónica",
+            "price": "1200",
             "categorie": "nacional"
         },
         {
@@ -658,6 +664,12 @@
             "name": "Whisky Johnnie Walker Double Black",
             "description": "Johnnie Walker Double Black está inspirado en los sabores icónicos de Johnnie Walker Black Label, acentuándolos para crear una mezcla con una intensidad sin precedentes. medida de 70ml",
             "price": "3000",
+            "categorie": ""
+        },
+        {
+            "name": "Medida de SHERIDAN'S",
+            "description": "Sheridan's Licor de Café Litro es un exquisito y delicioso licor doble, totalmente natural compuesto de crema de vainilla y licor de café y chocolate con base de whisky irlandés envejecido",
+            "price": "2500",
             "categorie": ""
         },
         {
