@@ -1,4 +1,18 @@
 {
+    "novedades": [
+        {
+            "name": "Japi Beer",
+            "description": "La que chupa el bananero, en su 4 vesiones IPA/Lager/Porter/Amber",
+            "price": "800",
+            "categorie": ""
+        },
+        {
+            "name": "Elixir",
+            "description": "Cóctel fuerte cremoso con un toque ahumado con base de whisky Escocés, Mezcal y garnitura bombon  cabsha.",
+            "price": "3000",
+            "categorie": ""
+        }
+    ],
     "collins": [
         {
             "name": "Tom Collins",
