@@ -1,9 +1,9 @@
 export class Products{
     endpoint = "http://localhost:8080/productsbycategory"
 
-    async obtainProducts(categoryName){
+    async obtainProducts(){
         try {
-            const response = await fetch(this.endpoint+'?category='+categoryName);
+            const response = await fetch(this.endpoint);
             if (!response.ok) {
                 throw new Error(`Error! status: ${response.status}`);
             }

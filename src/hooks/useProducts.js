@@ -14,8 +14,16 @@ export function useProducts(categoryName){
     const getProducts = async () => {
         try {
             setLoading(true);
-            const response = await productsCtrl.obtainProducts(categoryName);
-            setProducts(response)
+            const response = await productsCtrl.obtainProducts();
+            var listProdcutsByCategory = []
+            for(let i = 0; i < response.length; i++) {
+                if (response[i]['references:ID'].name == categoryName) {
+                    console.log("entro en el if")
+                    listProdcutsByCategory.push(response[i])
+                }     
+            }
+            setProducts(listProdcutsByCategory)
+
         } catch (error) {
             setError(error);
         } finally{
