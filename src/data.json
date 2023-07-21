@@ -107,7 +107,7 @@
         {
             "name": "Tonico 9",
             "description": "Tinto dulce, sour mix, agua tonica",
-            "price": "1000",
+            "price": "1300",
             "categorie": ""
         },
         {
@@ -119,7 +119,7 @@
         {
             "name": "Vermouth a Elección",
             "description": "",
-            "price": "1000",
+            "price": "1500",
             "categorie": ""
         }
     ],
@@ -297,42 +297,42 @@
         {
             "name": "PATAGONIA WEISSE",
             "description": "BOTELLA 740CC",
-            "price": "1500"
+            "price": "1600"
         },
         {
             "name": "CORONA",
             "description": "BOTELLA 710CC",
-            "price": "1500"
+            "price": "1800"
         },
         {
             "name": "PATAGONIA BOHEMIAN",
             "description": "BOTELLA 740CC",
-            "price": "1500"
+            "price": "1600"
         },
         {
             "name": "ANDES ORIGEN IPA",
             "description": "LATA 473CC",
-            "price": "600"
+            "price": "700"
         },
         {
             "name": "ANDES ORIGEN FRESQUITA",
             "description": "CLATA 473CC",
-            "price": "600"
+            "price": "700"
         },
         {
             "name": "ANDES ORIGEN NEGRA",
             "description": "LATA 473CC",
-            "price": "600"
+            "price": "700"
         },
         {
             "name": "PATAGONIA 24.7",
             "description": "BOTELLA 710CC",
-            "price": "1500"
+            "price": "1600"
         },
         {
             "name": "BUDWEISER",
             "description": "BOTELLA 710CC",
-            "price": "1000"
+            "price": "1100"
         },
         {
             "name": "ANDES ORIGEN",
@@ -342,111 +342,111 @@
         {
             "name": "CORONA",
             "description": "BOTELLA 330CC",
-            "price": "900"
+            "price": "1000"
         }
     ],
     "burguers": [
         {
             "name": "(New) Crispy Cat",
             "description": "Pan de papa, medallón de 130 g, cheddar, panceta ahumada, cebolla cryspi y ketchup",
-            "price": "1500"
+            "price": "1800"
         },        
         {
             "name": "(New )Doble Crispy Cat",
             "description": "Pan de papa,doble medallón de 130 g, cheddar, panceta ahumada, cebolla cryspi y ketchup",
-            "price": "1800"
+            "price": "2200"
         },
         {
             "name": "(New) Provolone",
             "description": "Pan de papa, medallón de 130 g, queso provolone, salsa criolla y ketchup",
-            "price": "1500"
+            "price": "1800"
         },
         {
             "name": "(New) Doble Provolone",
             "description": "Pan de papa,doble medallón de 130 g, queso provolone, salsa criolla y ketchup",
-            "price": "1800"
+            "price": "2300"
         },
         {
             "name": "(New) Clásica",
             "description": "Pan de papa, medallón de 130 g, muzza, lechuga rulito, tomate, jamon cocido y ketchup",
-            "price": "1300"
+            "price": "1700"
         },
         {
             "name": "(New) Doble Clásica",
             "description": "Pan de papa, doble medallón de 130 g, muzza, lechuga rulito, tomate, jamon cocido y ketchup",
-            "price": "1500"
+            "price": "2100"
         },
         {
             "name": "(New) Picat",
             "description": "Pan de papa, medallón de 130 g, cheddar, lechuga rulito, panceta ahumada, tomate, salsa de aji y ketchup",
-            "price": "1500"
+            "price": "1800"
         },
         {
             "name": "(New) Doble Picat",
             "description": "Pan de papa, doblr medallón de 130 g, cheddar, lechuga rulito, panceta ahumada, tomate, salsa de aji y ketchup",
-            "price": "1800"
+            "price": "2200"
         },
         {
             "name": "CACHENGO BBQ",
             "description": "Pan de papa, medallón de 130 g, cheddar, panceta ahumada, barbacoa y papas fritas",
-            "price": "1500"
+            "price": "1800"
         },
         {
             "name": "BIG CAT",
             "description": "Pan de papa, medallón de 130 g, lechuga, cebolla, cheddar, salsa big cat, pepinillos y papas fritas.",
-            "price": "1500"
+            "price": "1800"
         },
         {
             "name": "AMERICANA",
             "description": "Pan de papa, medallón de 130 g, lechuga, cebolla, cheddar, tomate, ketchup y papas fritas.",
-            "price": "1500"
+            "price": "1800"
         },
         {
             "name": "DOBLE CACHENGO BBQ",
             "description": "Pan de papa, medallón de 130 g x2, cheddar x2, panceta ahumada x2, barbacoa y papas fritas",
-            "price": "1800"
+            "price": "2400"
         },
         {
             "name": "DOBLE BIG CAT",
             "description": "Pan de papa, medallón de 130 g x2, lechuga, cebolla, cheddar x2, salsa big cat, pepinillos y papas fritas.",
-            "price": "1800"
+            "price": "2200"
         },
         {
             "name": "DOBLE AMERICANA",
             "description": "Pan de papa, medallón de 130 g x2, lechuga, cebolla, cheddar x2, tomate, ketchup y papas fritas.",
-            "price": "1700"
+            "price": "2200"
         }
     ],
     "pizzas": [
         {
             "name": "(new) QUEZO AZUL",
             "description": "Pizza con salsa de tomate (receta especial), muzza, quezo azul, cebolla de verdeo y aceituna.",
-            "price": "1500"
+            "price": "2000"
         },
         {
             "name": "(new) Anana",
             "description": "Pizza con salsa de tomate (receta especial), muzza, anana y aceituna.",
-            "price": "1800"
+            "price": "2300"
         },
         {
             "name": "(new) Mita y Mita",
             "description": "A elección",
-            "price": "1800"
+            "price": "2500"
         },
         {
             "name": "MUZZA",
             "description": "Pizza con salsa de tomate (receta especial), muzza, chimi y aceituna.",
-            "price": "1200"
+            "price": "1800"
         },
         {
             "name": "SÚPER ESPECIAL",
             "description": "Pizza con salsa de tomate (receta especial), muzza, jamón cocido, chimi, morrón y aceituna.",
-            "price": "1500"
+            "price": "2000"
         },
         {
             "name": "JAMÓN Y RÚCULA",
             "description": "Pizza con salsa de tomate (receta especial), muzza, jamón crudo, rúcula, chimi y aceituna.",
-            "price": "1600"
+            "price": "2500"
         }
     ],
     "promos": [
@@ -460,32 +460,32 @@
         {
             "name": "(new) Bastones de muzza",
             "description": "Bastones de muzza apanados.",
-            "price": "1000"
+            "price": "1500"
         },
         {
             "name": "(new) Salchipapas",
             "description": "Papas con salchichas parrilleras.",
-            "price": "1200"
+            "price": "1500"
         },
         {
             "name": "(new) Pollo Cryspi",
             "description": "tiras de pollos apanadas.",
-            "price": "1000"
+            "price": "1900"
         },
         {
             "name": "(new) A caballo",
             "description": "Papas con huevos fritos.",
-            "price": "1100"
+            "price": "1500"
         },
         {
             "name": "CLÁSICA",
             "description": "Papas clásicas.",
-            "price": "1000"
+            "price": "1300"
         },
         {
             "name": "PAPACHENGO",
             "description": "Papas, cheddar, panceta ahumada y verdeo.",
-            "price": "1400"
+            "price": "1700"
         },
         {
             "name": "Mani",
@@ -497,42 +497,42 @@
         {
             "name": "Pepsi",
             "description": "Gaseosa Cola, línea común y zero lata.",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "Mirinda",
             "description": "Gaseosa Naranja línea, común lata.",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "7up",
             "description": "Gaseosa Lima limón, línea común lata.",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "Pasos de los toros",
             "description": "Gaseosa pomelo, línea común lata.",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "Agua Saborizada",
             "description": "Pomelo/Naranja/Manzana",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "Agua sin Gas",
             "description": "Agua mineral de 500 ml.",
-            "price": "400"
+            "price": "500"
         },
         {
             "name": "RedBull",
             "description": "Energizante RED BULL 250ml.",
-            "price": "800"
+            "price": "1300"
         },
         {
             "name": "Speed",
             "description": "Energizante Speed 250ml.",
-            "price": "500"
+            "price": "800"
         }
     ],
     "franui": [
