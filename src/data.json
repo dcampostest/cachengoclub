@@ -49,13 +49,13 @@
         {
             "name": "Cásico",
             "description": "Ron havana blanco, zumo de límon, menta y soda",
-            "price": "1200",
+            "price": "1400",
             "categorie": ""
         },
         {
             "name": "Malibu",
             "description": "Ron havana blanco, malibu, zumo de límon, menta y soda",
-            "price": "1400",
+            "price": "1600",
             "categorie": ""
         }
     ],
@@ -153,7 +153,7 @@
         {
             "name": "Cachengo Pink",
             "description": "Coctel elaborado con base de gin, jugo de limón, frutillas, almibar simple y agua tónica.",
-            "price": "1800",
+            "price": "2200",
             "categorie": ""
         },
         {
@@ -195,7 +195,7 @@
         {
             "name": "Cachengo Baileys",
             "description": "Crema de frutilla, baileys, licor de cafe y mescal",
-            "price": "2000",
+            "price": "2400",
             "categorie": ""
         },
         {
@@ -551,39 +551,39 @@
         {
             "name": "chenin dulce",
             "description": "Bodega norton.",
-            "price": "1500"
+            "price": "2000"
         },
         {
             "name": "tinto dulce",
             "description": "Bodegas norton.",
-            "price": "1500"
+            "price": "2000"
         },
         {
             "name": "RED BLEND DULCE",
             "description": "Bodega norton.",
-            "price": "1500"
+            "price": "2000"
         },
         {
             "name": "Cabernet",
             "description": "Bodega norton.",
-            "price": "1500"
+            "price": "2000"
         },
         {
             "name": "Malbec",
             "description": "Bodega norton.",
-            "price": "1500"
+            "price": "2000"
         }
     ],
     "combos": [
         {
             "name": "COMBO DE FERNET",
             "description": "Fernet Branca + Coca cola 2,5L.",
-            "price": "5200"
+            "price": "5500"
         },
         {
             "name": "COMBO DE GIN TANQUERAY",
             "description": "Gin TANQUERAY + 4 latas Paso de los toros tónica + hielo",
-            "price": "10000"
+            "price": "15000"
         },
         {
             "name": "COMBO DE GIN MERLE",
@@ -603,7 +603,7 @@
         {
             "name": "COMBO DE CHAMPAGNE",
             "description": "Champange Novecento + 2 speed.",
-            "price": "2500"
+            "price": "2900"
         },
         {
             "name": "COMBO DE CHAMPAGNE Premium",
@@ -621,13 +621,13 @@
         {
             "name": "Copon de Merle",
             "description": "Gin Merle, Agua Tónica",
-            "price": "900",
+            "price": "1000",
             "categorie": "nacional"
         },
         {
             "name": "Copon de Flipa",
             "description": "Gin flipa, Agua Tónica",
-            "price": "1200",
+            "price": "1500",
             "categorie": "nacional"
         },
         {
@@ -639,13 +639,13 @@
         {
             "name": "Gin Tanqueray Sevilla",
             "description": "Gin tanqueray(enebro con aroma a pino, cilantro especiado, angélica aromática y regaliz dulce), Agua Tónica",
-            "price": "2000",
+            "price": "2300",
             "categorie": "importado"
         },
         {
             "name": "Gin Tanqueray Royal",
             "description": "Gin tanqueray(enebro con aroma a pino, cilantro especiado, angélica aromática y regaliz dulce), Agua Tónica",
-            "price": "2000",
+            "price": "2300",
             "categorie": "importado"
         },
         {
@@ -657,7 +657,19 @@
         {
             "name": "Gin Beefeater",
             "description": "Gin beefeater(Formado por 9 ingredientes aromáticos. Además de enebro, encontramos: raíz y semillas de angélica, semillas de cilantro y regaliz. También almendra y polvo de raíz de lírio. Por último dos cítricos: naranjas de Sevilla y limón. Ambos en forma de piel seca), Agua Tónica",
-            "price": "2000",
+            "price": "2300",
+            "categorie": "importado"
+        },
+        {
+            "name": "Gin Bombay",
+            "description": "",
+            "price": "2600",
+            "categorie": "importado"
+        },
+        {
+            "name": "Gin BullDog",
+            "description": "",
+            "price": "2300",
             "categorie": "importado"
         },
         {
@@ -681,6 +693,12 @@
             "categorie": ""
         },
         {
+            "name": "Whisky Johnnie Walker Black label",
+            "description": "Johnnie Walker  Black Label",
+            "price": "2000",
+            "categorie": ""
+        },
+        {
             "name": "Medida de SHERIDAN'S",
             "description": "Sheridan's Licor de Café Litro es un exquisito y delicioso licor doble, totalmente natural compuesto de crema de vainilla y licor de café y chocolate con base de whisky irlandés envejecido",
             "price": "2500",
@@ -688,20 +706,26 @@
         },
         {
             "name": "Medida de Amarula",
-            "description": "(SIN STOCK)Amarula es originalmente un licor crema que se fabricaba en Sudáfrica. Se hace con azúcar, nata y el fruto del árbol africano marula (Sclerocarya birrea)",
-            "price": "-",
+            "description": "Amarula es originalmente un licor crema que se fabricaba en Sudáfrica. Se hace con azúcar, nata y el fruto del árbol africano marula (Sclerocarya birrea)",
+            "price": "2000",
             "categorie": ""
         },
         {
             "name": "Medida de fernet",
             "description": "medida de fernet más lata de coca",
-            "price": "1500",
+            "price": "1800",
+            "categorie": ""
+        },
+        {
+            "name": "Medida de Absolute",
+            "description": "medida de absolute más lata de redbull",
+            "price": "3400",
             "categorie": ""
         },
         {
             "name": "Jagger + redbull",
             "description": "medida de Jagge mas lata de red bull",
-            "price": "3000",
+            "price": "4000",
             "categorie": ""
         }, 
         {
