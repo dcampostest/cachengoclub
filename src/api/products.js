@@ -1,5 +1,5 @@
 export class Products{
-    endpoint = "http://127.0.0.1:3006/productsbycategory"
+    endpoint = "http://167.172.233.9:3006/productsbycategory"
 
     async obtainProducts(){
         try {
