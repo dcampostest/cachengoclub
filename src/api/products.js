@@ -1,5 +1,5 @@
 export class Products{
-    endpoint = "http://167.172.233.9:3006/productsbycategory"
+    endpoint = "https://api.cachengoclub.com/productsbycategory"
 
     async obtainProducts(){
         try {
