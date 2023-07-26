@@ -1,5 +1,5 @@
 export class Categories{
-    endpoint = "https://127.0.0.1:3006/categories"
+    endpoint = "https://167.172.233.9:3006/categories"
 
     async obtain(){
         try {
