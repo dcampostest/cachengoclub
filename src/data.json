@@ -337,7 +337,7 @@
         {
             "name": "ANDES ORIGEN",
             "description": "LATA 473CC",
-            "price": "600"
+            "price": "700"
         },    
         {
             "name": "CORONA",
@@ -549,6 +549,16 @@
     ],    
     "vinos": [
         {
+            "name": "(New)DV Catena Cabernet-Malbec",
+            "description": "Bodega norton.",
+            "price": "6000"
+        },
+        {
+            "name": "(New)DV Catena Malbec-Malbec",
+            "description": "Bodega norton.",
+            "price": "9000"
+        },
+        {
             "name": "chenin dulce",
             "description": "Bodega norton.",
             "price": "2000"
@@ -689,13 +699,13 @@
         {
             "name": "Whisky Johnnie Walker Double Black",
             "description": "Johnnie Walker Double Black está inspirado en los sabores icónicos de Johnnie Walker Black Label, acentuándolos para crear una mezcla con una intensidad sin precedentes. medida de 70ml",
-            "price": "3000",
+            "price": "4000",
             "categorie": ""
         },
         {
             "name": "Whisky Johnnie Walker Black label",
             "description": "Johnnie Walker  Black Label",
-            "price": "2000",
+            "price": "3000",
             "categorie": ""
         },
         {
@@ -719,7 +729,7 @@
         {
             "name": "Medida de Absolute",
             "description": "medida de absolute más lata de redbull",
-            "price": "3400",
+            "price": "3800",
             "categorie": ""
         },
         {
@@ -743,7 +753,7 @@
         {
             "name": "Whisky The famous grouse",
             "description": "The Famous Grouse se desenvuelve en la nariz con un marcado olor a turba ahumada acompañado por los aromas a roble procedente de su añejamiento en barricas. Medida 70ml",
-            "price": "2000",
+            "price": "3000",
             "categorie": ""
         },
         {
