@@ -3,13 +3,13 @@
         {
             "name": "Japi Beer",
             "description": "La que chupa el bananero, en su 4 vesiones IPA/Lager/Porter/Amber",
-            "price": "800",
+            "price": "1000",
             "categorie": ""
         },
         {
             "name": "Elixir",
             "description": "Cóctel fuerte cremoso con un toque ahumado con base de whisky Escocés, Mezcal y garnitura bombon  cabsha.",
-            "price": "3000",
+            "price": "3750",
             "categorie": ""
         }
     ],
@@ -17,31 +17,31 @@
         {
             "name": "Tom Collins",
             "description": "Cóctel a base de gin, zumo limon, almíbar, fresco y ligero",
-            "price": "1800",
+            "price": "2250",
             "categorie": ""
         },
         {
             "name": "Sandy Collins",
             "description": "Cóctel cítrico a base de whisky Escocés.",
-            "price": "1800",
+            "price": "2250",
             "categorie": ""
         },
         {
             "name": "Mike Collins",
             "description": "whisky, el zumo de limón, almíbar y soda",
-            "price": "1800",
+            "price": "2250",
             "categorie": ""
         },
         {
             "name": "Rom Collins",
             "description": "Cóctel a base de Ron, zumo limon, almíbar y soda",
-            "price": "1800",
+            "price": "2250",
             "categorie": ""
         },
         {
             "name": "Phil (chapel) Collins",
             "description": "Cóctel a base de gin, zumo limon, Frambuesa y soda",
-            "price": "1800",
+            "price": "2250",
             "categorie": ""
         }
     ],
@@ -49,13 +49,13 @@
         {
             "name": "Cásico",
             "description": "Ron havana blanco, zumo de límon, menta y soda",
-            "price": "1400",
+            "price": "1750",
             "categorie": ""
         },
         {
             "name": "Malibu",
             "description": "Ron havana blanco, malibu, zumo de límon, menta y soda",
-            "price": "1600",
+            "price": "2000",
             "categorie": ""
         }
     ],
@@ -63,43 +63,43 @@
         {
             "name": "Narciso Negro Vodka(new)",
             "description": "El extravagante mundo de Narciso Negro, Notas a malta dulce, con dejos a vainilla, algo meloso y de alcohol suave.",
-            "price": "1600",
+            "price": "2000",
             "categorie": ""
         },
         {
             "name": "Pisco Sours",
             "description": "Pisco Mistral, zumo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "1500",
+            "price": "1875",
             "categorie": ""
         },
         {
             "name": "Whisky Sours",
             "description": "Whisky, zumo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "1800",
+            "price": "2250",
             "categorie": ""
         },
         {
             "name": "New York Sours",
             "description": "Wild turkey, zumo límon, almibar simple y clara. Finalizado con un bitter aromático angostura",
-            "price": "2500",
+            "price": "3125",
             "categorie": ""
         },
         {
             "name": "Gin Sours",
             "description": "Gin TANQUERAY, zumo límon, almibar simple y clara. Finalizado con un bitter aromático angostura",
-            "price": "1800",
+            "price": "2250",
             "categorie": ""
         },
         {
             "name": "Vodka Sours",
             "description": "Vodka, jugo de pomelo rosa, jugo de naranja, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "1500",
+            "price": "1875",
             "categorie": ""
         },
         {
             "name": "Ron Sours",
             "description": "Ron blanco, ron dorado, jugo de limón, jugo de pomelo rosa, almmibar, clara, coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "2000",
+            "price": "2500",
             "categorie": ""
         }
     ],
@@ -107,19 +107,19 @@
         {
             "name": "Tonico 9",
             "description": "Tinto dulce, sour mix, agua tonica",
-            "price": "1300",
+            "price": "1625",
             "categorie": ""
         },
         {
             "name": "Cynar 70 julep",
             "description": "Coctel fresco, mentolado y con un ligero toque amargo. Compuesto por Cynar 70, pomelo, almibar, menta freca y jugo de pomelo.",
-            "price": "1200",
+            "price": "1500",
             "categorie": ""
         },
         {
             "name": "Vermouth a Elección",
             "description": "",
-            "price": "1500",
+            "price": "1875",
             "categorie": ""
         }
     ],
@@ -127,7 +127,7 @@
         {
             "name": "Negroni",
             "description": "Gin tanqueray, Vermouth rosso y campari",
-            "price": "1500",
+            "price": "1875",
             "categorie": ""
         },
         {
