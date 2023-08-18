@@ -133,19 +133,19 @@
         {
             "name": "boulebardier",
             "description": "Wild Turkey, vermuth rosso y campari",
-            "price": "2200",
+            "price": "2750",
             "categorie": ""
         },
         {
             "name": "Manhattan",
             "description": "Coctel clásico elaborado con whisky bourbon wild turkey 101, vermu rosso y dash de bitter angostura.",
-            "price": "2500",
+            "price": "2750",
             "categorie": ""
         },
         {
             "name": "Penicilin",
             "description": "wisky the famous grouse/Sir Edward's,",
-            "price": "2000",
+            "price": "2500",
             "categorie": ""
         }
     ],
@@ -153,73 +153,73 @@
         {
             "name": "Cachengo Pink",
             "description": "Coctel elaborado con base de gin, jugo de limón, frutillas, almibar simple y agua tónica.",
-            "price": "2200",
+            "price": "2750",
             "categorie": ""
         },
         {
             "name": "Caipi Roska/rinha/risima",
             "description": "Elaborado con vodka clásico, almibar, jugo de limón, limón/saborizado de frutos rojos y maracuyá.",
-            "price": "1500",
+            "price": "1875",
             "categorie": ""
         },
         {
             "name": "Aperol Spritz",
             "description": "Aperol, agua con gas, cinzano to spritz y rodaja de naranja.",
-            "price": "1200",
+            "price": "1500",
             "categorie": ""
         },
         {
             "name": "Garibaldi",
             "description": "Campari, jugo de naranja, rodaja de naranja.",
-            "price": "1000",
+            "price": "1250",
             "categorie": ""
         },
         {
             "name": "Campari tonic",
             "description": "Campari, tónica y rodaja de naranja",
-            "price": "1000",
+            "price": "1250",
             "categorie": ""
         },
         {
             "name": "Red Jagger(en vaso tiki)",
             "description": "Coctel tropical cítrico elaborado con jaggermeifter, jugo de límon, zumo de frutos rojos, almibar , como garnitura menta fresca y mix de frutos rojos.",
-            "price": "3000",
+            "price": "3750",
             "categorie": ""
         },
         {
             "name": "White Russian",
             "description": "vodka y licor de café, sir edward's y crema",
-            "price": "1600",
+            "price": "2000",
             "categorie": ""
         },
         {
             "name": "Cachengo Baileys",
             "description": "Crema de frutilla, baileys, licor de cafe y mescal",
-            "price": "2400",
+            "price": "3000",
             "categorie": ""
         },
         {
             "name": "Coctel de la casa",
             "description": "Toda la semana variedad nueva, consultar con bartender",
-            "price": "2000",
+            "price": "2500",
             "categorie": ""
         },
         {
             "name": "Cuba libre",
             "description": "Ron havana club dorado, jugo de limón y coca cola.",
-            "price": "1500",
+            "price": "1875",
             "categorie": ""
         },
         {
             "name": "daiquiri",
             "description": "Ron havanna 3 años, almibar, frutillas/anana frescas, jugo de limón y hielo picado(Licuado).",
-            "price": "1800",
+            "price": "2250",
             "categorie": ""
         },
         {
             "name": "Cocktail tiki",
             "description": "Base de ron, un toque polinesio, con un matiz hawaiano. El característico de la coctelería tiki, decoración tropical y múltiple combinación de sabores frutales",
-            "price": "2500",
+            "price": "3125",
             "categorie": ""
         }
     ],
@@ -227,19 +227,19 @@
         {
             "name": "Limonada",
             "description": "Limón(jugo fresco), almibar ysoda/agua",
-            "price": "800",
+            "price": "1000",
             "categorie": ""
         },
         {
             "name": "Pomelada",
             "description": "Pomelo(jugo fresco), almibar y soda/agua",
-            "price": "800",
+            "price": "1000",
             "categorie": ""
         },
         {
             "name": "Licuado de frutilla",
             "description": "",
-            "price": "1000",
+            "price": "1250",
             "categorie": ""
         }
     ],
@@ -247,7 +247,7 @@
         {
             "name": "Coctails de autoria interactivo.",
             "description": "-",
-            "price": "3000",
+            "price": "3750",
             "categorie": ""
         }
     ],
@@ -255,443 +255,443 @@
         {
             "name": "IPA",
             "description": "una cerveza de alta graduación alcohólica (entre 5º y 7º) y color ámbar, caracterizada por su amargor (contiene a partir de 40 IBU), sus aromas intensos y una alta concentración de lúpulos.",
-            "price": "700"
+            "price": "875"
         },
         {
             "name": "RED IPA ",
             "description": "Un estilo moderno derivado de una IPA Americana, pero con mayor sabor a malta caramelo similar a una Amber Ale.",
-            "price": "700"
+            "price": "875"
         },
         {
             "name": "Galaxi APA",
             "description": "Las American Pale Ale o APA son propiamente un estilo de cerveza, caracterizado por ser cervezas de alta fermentación (Ale), rubias (Pale) y elaboradas al estilo americano con lúpulos cultivados allí.",
-            "price": "700"
+            "price": "875"
         },
         {
             "name": "Irish",
             "description": "Red ale - Wikipedia, la enciclopedia libre La red ale, conocida también como Irish red ale, es un tipo de cerveza ale original de Irlanda. Su ligero color rojo es debido al tostado de la cebada además de la malta. Las cervezas normalmente son bajas en alcohol (3,5 % es lo típico)",
-            "price": "700"
+            "price": "875"
         },
         {
             "name": "Pilsen",
             "description": "Pilsener es el tipo de cerveza lager elaborada originalmente en el siglo XIX en la ciudad de Pilsen, al oeste de la región histórica de Bohemia, en el entonces Imperio austrohúngaro",
-            "price": "700"
+            "price": "875"
         },
         {
             "name": "Jengibre",
             "description": "La cerveza de jengibre es una bebida carbonatada, saborizada principalmente con jengibre y endulzada con azúcar o edulcorantes artificiales",
-            "price": "700"
+            "price": "875"
         },
         {
             "name": "Maracuya",
             "description": "Junto a Beyla Cerveza Artesanal y Väns Öl hicimos esta Brut IPA Maracuyá que compartimos en nuestros bares y ahora embotellamos en esta Edición Limitada",
-            "price": "700"
+            "price": "875"
         },
         {
             "name": "Black IPA",
             "description": "La cerveza oscura, fuerte y lupulada no es nada nuevo. La elaboración de cervezas con características",
-            "price": "700"
+            "price": "875"
         }
     ],
     "birritasindustriales": [
         {
             "name": "PATAGONIA WEISSE",
             "description": "BOTELLA 740CC",
-            "price": "1600"
+            "price": "2000"
         },
         {
             "name": "CORONA",
             "description": "BOTELLA 710CC",
-            "price": "1800"
+            "price": "2250"
         },
         {
             "name": "PATAGONIA BOHEMIAN",
             "description": "BOTELLA 740CC",
-            "price": "1600"
+            "price": "2000"
         },
         {
             "name": "ANDES ORIGEN IPA",
             "description": "LATA 473CC",
-            "price": "700"
+            "price": "875"
         },
         {
             "name": "ANDES ORIGEN FRESQUITA",
             "description": "CLATA 473CC",
-            "price": "700"
+            "price": "875"
         },
         {
             "name": "ANDES ORIGEN NEGRA",
             "description": "LATA 473CC",
-            "price": "700"
+            "price": "875"
         },
         {
             "name": "PATAGONIA 24.7",
             "description": "BOTELLA 710CC",
-            "price": "1600"
+            "price": "2000"
         },
         {
             "name": "BUDWEISER",
             "description": "BOTELLA 710CC",
-            "price": "1100"
+            "price": "1375"
         },
         {
             "name": "ANDES ORIGEN",
             "description": "LATA 473CC",
-            "price": "700"
+            "price": "875"
         },    
         {
             "name": "CORONA",
             "description": "BOTELLA 330CC",
-            "price": "1000"
+            "price": "1250"
         }
     ],
     "burguers": [
         {
             "name": "(New) Crispy Cat",
             "description": "Pan de papa, medallón de 130 g, cheddar, panceta ahumada, cebolla cryspi y ketchup",
-            "price": "1800"
+            "price": "2250"
         },        
         {
             "name": "(New )Doble Crispy Cat",
             "description": "Pan de papa,doble medallón de 130 g, cheddar, panceta ahumada, cebolla cryspi y ketchup",
-            "price": "2200"
+            "price": "2750"
         },
         {
             "name": "(New) Provolone",
             "description": "Pan de papa, medallón de 130 g, queso provolone, salsa criolla y ketchup",
-            "price": "1800"
+            "price": "2250"
         },
         {
             "name": "(New) Doble Provolone",
             "description": "Pan de papa,doble medallón de 130 g, queso provolone, salsa criolla y ketchup",
-            "price": "2300"
+            "price": "2875"
         },
         {
             "name": "(New) Clásica",
             "description": "Pan de papa, medallón de 130 g, muzza, lechuga rulito, tomate, jamon cocido y ketchup",
-            "price": "1700"
+            "price": "2125"
         },
         {
             "name": "(New) Doble Clásica",
             "description": "Pan de papa, doble medallón de 130 g, muzza, lechuga rulito, tomate, jamon cocido y ketchup",
-            "price": "2100"
+            "price": "2625"
         },
         {
             "name": "(New) Picat",
             "description": "Pan de papa, medallón de 130 g, cheddar, lechuga rulito, panceta ahumada, tomate, salsa de aji y ketchup",
-            "price": "1800"
+            "price": "2250"
         },
         {
             "name": "(New) Doble Picat",
             "description": "Pan de papa, doblr medallón de 130 g, cheddar, lechuga rulito, panceta ahumada, tomate, salsa de aji y ketchup",
-            "price": "2200"
+            "price": "2750"
         },
         {
             "name": "CACHENGO BBQ",
             "description": "Pan de papa, medallón de 130 g, cheddar, panceta ahumada, barbacoa y papas fritas",
-            "price": "1800"
+            "price": "2250"
         },
         {
             "name": "BIG CAT",
             "description": "Pan de papa, medallón de 130 g, lechuga, cebolla, cheddar, salsa big cat, pepinillos y papas fritas.",
-            "price": "1800"
+            "price": "2250"
         },
         {
             "name": "AMERICANA",
             "description": "Pan de papa, medallón de 130 g, lechuga, cebolla, cheddar, tomate, ketchup y papas fritas.",
-            "price": "1800"
+            "price": "2250"
         },
         {
             "name": "DOBLE CACHENGO BBQ",
             "description": "Pan de papa, medallón de 130 g x2, cheddar x2, panceta ahumada x2, barbacoa y papas fritas",
-            "price": "2400"
+            "price": "3000"
         },
         {
             "name": "DOBLE BIG CAT",
             "description": "Pan de papa, medallón de 130 g x2, lechuga, cebolla, cheddar x2, salsa big cat, pepinillos y papas fritas.",
-            "price": "2200"
+            "price": "2750"
         },
         {
             "name": "DOBLE AMERICANA",
             "description": "Pan de papa, medallón de 130 g x2, lechuga, cebolla, cheddar x2, tomate, ketchup y papas fritas.",
-            "price": "2200"
+            "price": "2750"
         }
     ],
     "pizzas": [
         {
             "name": "(new) QUEZO AZUL",
             "description": "Pizza con salsa de tomate (receta especial), muzza, quezo azul, cebolla de verdeo y aceituna.",
-            "price": "2000"
+            "price": "2500"
         },
         {
             "name": "(new) Anana",
             "description": "Pizza con salsa de tomate (receta especial), muzza, anana y aceituna.",
-            "price": "2300"
+            "price": "2875"
         },
         {
             "name": "(new) Mita y Mita",
             "description": "A elección",
-            "price": "2500"
+            "price": "3125"
         },
         {
             "name": "MUZZA",
             "description": "Pizza con salsa de tomate (receta especial), muzza, chimi y aceituna.",
-            "price": "1800"
+            "price": "2250"
         },
         {
             "name": "SÚPER ESPECIAL",
             "description": "Pizza con salsa de tomate (receta especial), muzza, jamón cocido, chimi, morrón y aceituna.",
-            "price": "2000"
+            "price": "2500"
         },
         {
             "name": "JAMÓN Y RÚCULA",
             "description": "Pizza con salsa de tomate (receta especial), muzza, jamón crudo, rúcula, chimi y aceituna.",
-            "price": "2500"
+            "price": "3125"
         }
     ],
     "promos": [
         {
             "name": "Happy Hours Pintitasssss",
             "description": "¡Hora del 2x1! stop 23hs",
-            "price": "1000"
+            "price": "1250"
         }      
     ],
     "parapicotear": [
         {
             "name": "(new) Bastones de muzza",
             "description": "Bastones de muzza apanados.",
-            "price": "1500"
+            "price": "1875"
         },
         {
             "name": "(new) Salchipapas",
             "description": "Papas con salchichas parrilleras.",
-            "price": "1500"
+            "price": "1875"
         },
         {
             "name": "(new) Pollo Cryspi",
             "description": "tiras de pollos apanadas.",
-            "price": "1900"
+            "price": "2375"
         },
         {
             "name": "(new) A caballo",
             "description": "Papas con huevos fritos.",
-            "price": "1500"
+            "price": "1875"
         },
         {
             "name": "CLÁSICA",
             "description": "Papas clásicas.",
-            "price": "1300"
+            "price": "1625"
         },
         {
             "name": "PAPACHENGO",
             "description": "Papas, cheddar, panceta ahumada y verdeo.",
-            "price": "1700"
+            "price": "2125"
         },
         {
             "name": "Mani",
             "description": "Un Maní para calentar con la Birrita?",
-            "price": "300"
+            "price": "375"
         }
     ],
     "bebidassinalcohol": [
         {
             "name": "Pepsi",
             "description": "Gaseosa Cola, línea común y zero lata.",
-            "price": "500"
+            "price": "625"
         },
         {
             "name": "Mirinda",
             "description": "Gaseosa Naranja línea, común lata.",
-            "price": "500"
+            "price": "625"
         },
         {
             "name": "7up",
             "description": "Gaseosa Lima limón, línea común lata.",
-            "price": "500"
+            "price": "625"
         },
         {
             "name": "Pasos de los toros",
             "description": "Gaseosa pomelo, línea común lata.",
-            "price": "500"
+            "price": "625"
         },
         {
             "name": "Agua Saborizada",
             "description": "Pomelo/Naranja/Manzana",
-            "price": "500"
+            "price": "625"
         },
         {
             "name": "Agua sin Gas",
             "description": "Agua mineral de 500 ml.",
-            "price": "500"
+            "price": "625"
         },
         {
             "name": "RedBull",
             "description": "Energizante RED BULL 250ml.",
-            "price": "1300"
+            "price": "1625"
         },
         {
             "name": "Speed",
             "description": "Energizante Speed 250ml.",
-            "price": "800"
+            "price": "1000"
         }
     ],
     "franui": [
         {
             "name": "FRANUI CHOCO AMARGO",
             "description": "Franui chocolate amargo y chocolate blanco.",
-            "price": "1800"
+            "price": "2250"
         },
         {
             "name": "FRANUI CHOCO CON LECHE",
             "description": "Franui chocolate con leche y chocolate blanco.",
-            "price": "1800"
+            "price": "2250"
         }
     ],    
     "vinos": [
         {
             "name": "(New)DV Catena Cabernet-Malbec",
             "description": "DV Catena Cabernet Sauvignon-Malbec es un vino elegante y complejo, de color rojo rubi con reflejos violetas. A la nariz, intenso y concentrado, presenta notas de especias aportadas por el Cabernet Sauvignon del viñedo La Pirámide, y notas de moras maduras y ciruelas, características del Malbec del viñedo Angélica, acompañadas por vainilla, tabaco y licor aportadas por la crianza en roble",
-            "price": "6000"
+            "price": "7500"
         },
         {
             "name": "(New)DV Catena Malbec-Malbec",
             "description": "Domingo Vicente Catena Malbec es un blend proveniente de uvas Malbec de dos diferentes viñedos. El viñedo Angelica aporta aromas de mermeladas de ciruelas maduras y moras negras, suavidad y volumen al paladar. La Pirámide entrega aromas de frutos negros de carozo y notas de especias como pimienta negra y clavo de olor Se conjugan de manera excepcional para dar origen a este vino, intenso y concentrado, de final largo y muy persistente",
-            "price": "9000"
+            "price": "11250"
         },
         {
             "name": "chenin dulce",
             "description": "Bodega norton.",
-            "price": "2000"
+            "price": "2500"
         },
         {
             "name": "tinto dulce",
             "description": "Bodegas norton.",
-            "price": "2000"
+            "price": "2500"
         },
         {
             "name": "RED BLEND DULCE",
             "description": "Bodega norton.",
-            "price": "2000"
+            "price": "2500"
         },
         {
             "name": "Cabernet",
             "description": "Bodega norton.",
-            "price": "2000"
+            "price": "2500"
         },
         {
             "name": "Malbec",
             "description": "Bodega norton.",
-            "price": "2000"
+            "price": "2500"
         }
     ],
     "combos": [
         {
             "name": "COMBO DE FERNET",
             "description": "Fernet Branca + Coca cola 2,5L.",
-            "price": "5500"
+            "price": "6875"
         },
         {
             "name": "COMBO DE GIN TANQUERAY",
             "description": "Gin TANQUERAY + 4 latas Paso de los toros tónica + hielo",
-            "price": "15000"
+            "price": "18750"
         },
         {
             "name": "COMBO DE GIN MERLE",
             "description": "Gin MERLE, Tónica Pasos 4 latas limón",
-            "price": "4500"
+            "price": "5625"
         },
         {
             "name": "COMBO DE GIN FLIPA",
             "description": "FLIPA, Tónica Pasos 4 latas limón",
-            "price": "5500"
+            "price": "6875"
         },
         {
             "name": "COMBO DE VODKA",
             "description": "Vodka smirnoff/sky + Gaseosa 2,5L.",
-            "price": "5000"
+            "price": "6250"
         },
         {
             "name": "COMBO DE CHAMPAGNE",
             "description": "Champange Novecento + 2 speed.",
-            "price": "2900"
+            "price": "3625"
         },
         {
             "name": "COMBO DE CHAMPAGNE Premium",
             "description": "Las Perdices Extra Brut Champagne + RBullx2",
-            "price": "4500"
+            "price": "5625"
         }
     ],
     "gintoneria": [
         {
             "name": "Copon Le tribute",
             "description": "Se trata de una ginebra de corte cítrico elaborada con cítricos naturales. Además está embotellada a una graduación del 43% de alcohol.",
-            "price": "3000",
+            "price": "3750",
             "categorie": "nacional"
         },
         {
             "name": "Copon de Merle",
             "description": "Gin Merle, Agua Tónica",
-            "price": "1000",
+            "price": "1250",
             "categorie": "nacional"
         },
         {
             "name": "Copon de Flipa",
             "description": "Gin flipa, Agua Tónica",
-            "price": "1500",
+            "price": "1875",
             "categorie": "nacional"
         },
         {
             "name": "Gin Belladonna(new)",
             "description": "La mística y la belleza de Belladonna, gin formulado con 37 bótanicos., Agua Tónica",
-            "price": "1600",
+            "price": "2500",
             "categorie": "nacional"
         },
         {
             "name": "Gin Tanqueray Sevilla",
             "description": "Gin tanqueray(enebro con aroma a pino, cilantro especiado, angélica aromática y regaliz dulce), Agua Tónica",
-            "price": "2300",
+            "price": "2875",
             "categorie": "importado"
         },
         {
             "name": "Gin Tanqueray Royal",
             "description": "Gin tanqueray(enebro con aroma a pino, cilantro especiado, angélica aromática y regaliz dulce), Agua Tónica",
-            "price": "2300",
+            "price": "2875",
             "categorie": "importado"
         },
         {
             "name": "Gin Tanqueray LondonDry",
             "description": "Gin tanqueray(enebro con aroma a pino, cilantro especiado, angélica aromática y regaliz dulce), Agua Tónica",
-            "price": "2000",
+            "price": "2500",
             "categorie": "importado"
         },
         {
             "name": "Gin Beefeater",
             "description": "Gin beefeater(Formado por 9 ingredientes aromáticos. Además de enebro, encontramos: raíz y semillas de angélica, semillas de cilantro y regaliz. También almendra y polvo de raíz de lírio. Por último dos cítricos: naranjas de Sevilla y limón. Ambos en forma de piel seca), Agua Tónica",
-            "price": "2300",
+            "price": "2875",
             "categorie": "importado"
         },
         {
             "name": "Gin Bombay",
             "description": "",
-            "price": "2600",
+            "price": "3250",
             "categorie": "importado"
         },
         {
             "name": "Gin BullDog",
             "description": "",
-            "price": "2300",
+            "price": "2875",
             "categorie": "importado"
         },
         {
             "name": "Gin Principe de los Apostoles",
             "description": "Gin Principe de los Apostoles(Sus botánicos principales son las hojas frescas de yerba mate, pieles de pomelo rosado, eucalipto y menta peperina), Agua Tónica",
-            "price": "1500",
+            "price": "1875",
             "categorie": "nacional"
         },
         {
             "name": "mix tonix",
             "description": "mix de frutas y botánicos",
-            "price": "300",
+            "price": "375",
             "categorie": "adicional"
         }
     ],
@@ -699,79 +699,79 @@
         {
             "name": "Whisky Johnnie Walker Double Black",
             "description": "Johnnie Walker Double Black está inspirado en los sabores icónicos de Johnnie Walker Black Label, acentuándolos para crear una mezcla con una intensidad sin precedentes. medida de 70ml",
-            "price": "4000",
+            "price": "5000",
             "categorie": ""
         },
         {
             "name": "Whisky Johnnie Walker Black label",
             "description": "Johnnie Walker  Black Label",
-            "price": "3000",
+            "price": "3750",
             "categorie": ""
         },
         {
             "name": "Medida de SHERIDAN'S",
             "description": "Sheridan's Licor de Café Litro es un exquisito y delicioso licor doble, totalmente natural compuesto de crema de vainilla y licor de café y chocolate con base de whisky irlandés envejecido",
-            "price": "2500",
+            "price": "3125",
             "categorie": ""
         },
         {
             "name": "Medida de Amarula",
             "description": "Amarula es originalmente un licor crema que se fabricaba en Sudáfrica. Se hace con azúcar, nata y el fruto del árbol africano marula (Sclerocarya birrea)",
-            "price": "2000",
+            "price": "2500",
             "categorie": ""
         },
         {
             "name": "Medida de fernet",
             "description": "medida de fernet más lata de coca",
-            "price": "1800",
+            "price": "2250",
             "categorie": ""
         },
         {
             "name": "Medida de Absolute",
             "description": "medida de absolute más lata de redbull",
-            "price": "3800",
+            "price": "4750",
             "categorie": ""
         },
         {
             "name": "Jagger + redbull",
             "description": "medida de Jagge mas lata de red bull",
-            "price": "4000",
+            "price": "5000",
             "categorie": ""
         }, 
         {
             "name": "Shot de Jose Cuervo",
             "description": "",
-            "price": "2000",
+            "price": "2500",
             "categorie": ""
         },
         {
             "name": "Vodka + gaseosa",
             "description": "Vodaka sky/Smirnoff ",
-            "price": "1000",
+            "price": "1250",
             "categorie": ""
         },
         {
             "name": "Whisky The famous grouse",
             "description": "The Famous Grouse se desenvuelve en la nariz con un marcado olor a turba ahumada acompañado por los aromas a roble procedente de su añejamiento en barricas. Medida 70ml",
-            "price": "3000",
+            "price": "3750",
             "categorie": ""
         },
         {
             "name": "Whisky Wild Turkey",
             "description": "Wild Turkey es conocido por su alta presencia de centeno en la mezcla, incluso en los bourbon con los que comienzan la gama. Final: el acabado intenso da paso a un retrogusto ligeramente seco. Las especias, la pimienta y el roble dominan las notas más dulces del paladar. medida de 70ml",
-            "price": "2800",
+            "price": "3500",
             "categorie": ""
         },
         {
             "name": "Whisky Sir Edward's",
             "description": "Sir Edward's es un destilado de alcohol de malta y destilado de cereales malteados, mezclados y embotellados en Escocia. medida de 70ml",
-            "price": "2000",
+            "price": "2500",
             "categorie": ""
         },
         {
             "name": "Whisky Tullamore Dew",
             "description": "Tullamore Dew es un whisky de 40%vol con color acaramelado, fragancias son cítricas con notas de manzana verde y vainilla y un fino y afrutado paso por boca que evoluciona con sabor a madera y vainilla. Tiene un final largo y complejo con notas vegetales y caramelo. medida de 70ml",
-            "price": "2800",
+            "price": "3500",
             "categorie": ""
         }
         
