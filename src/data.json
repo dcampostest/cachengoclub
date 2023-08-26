@@ -213,7 +213,7 @@
         {
             "name": "daiquiri",
             "description": "Ron havanna 3 años, almibar, frutillas/anana frescas, jugo de limón y hielo picado(Licuado).",
-            "price": "2200",
+            "price": "2600",
             "categorie": ""
         },
         {
@@ -239,7 +239,7 @@
         {
             "name": "Licuado de frutilla",
             "description": "",
-            "price": "1200",
+            "price": "2000",
             "categorie": ""
         }
     ],
