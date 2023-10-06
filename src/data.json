@@ -49,13 +49,18 @@
         {
             "name": "Cásico",
             "description": "Ron havana blanco, zumo de límon, menta y soda",
-            "price": "1700",
+            "price": "2000",
             "categorie": ""
         },
         {
             "name": "Malibu",
             "description": "Ron havana blanco, malibu, zumo de límon, menta y soda",
-            "price": "2000",
+            "price": "2300",
+            "categorie": ""
+        },        {
+            "name": "Tom Collins",
+            "description": "Cóctel a base de gin, zumo limon, almíbar, fresco y ligero",
+            "price": "2400",
             "categorie": ""
         }
     ],
@@ -63,37 +68,25 @@
         {
             "name": "Narciso Negro Vodka(new)",
             "description": "El extravagante mundo de Narciso Negro, Notas a malta dulce, con dejos a vainilla, algo meloso y de alcohol suave.",
-            "price": "2000",
+            "price": "2300",
             "categorie": ""
         },
         {
             "name": "Pisco Sours",
             "description": "Pisco Mistral, zumo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "1900",
+            "price": "2500",
             "categorie": ""
         },
         {
             "name": "Whisky Sours",
             "description": "Whisky, zumo de limón, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "2200",
-            "categorie": ""
-        },
-        {
-            "name": "New York Sours",
-            "description": "Wild turkey, zumo límon, almibar simple y clara. Finalizado con un bitter aromático angostura",
-            "price": "3100",
+            "price": "3000",
             "categorie": ""
         },
         {
             "name": "Gin Sours",
             "description": "Gin TANQUERAY, zumo límon, almibar simple y clara. Finalizado con un bitter aromático angostura",
-            "price": "2200",
-            "categorie": ""
-        },
-        {
-            "name": "Vodka Sours",
-            "description": "Vodka, jugo de pomelo rosa, jugo de naranja, almibar, clara. Coctel finalizado con bitter aromático y piel de cítrico.",
-            "price": "1900",
+            "price": "2500",
             "categorie": ""
         },
         {
@@ -113,13 +106,13 @@
         {
             "name": "Cynar 70 julep",
             "description": "Coctel fresco, mentolado y con un ligero toque amargo. Compuesto por Cynar 70, pomelo, almibar, menta freca y jugo de pomelo.",
-            "price": "1500",
+            "price": "2200",
             "categorie": ""
         },
         {
             "name": "Vermouth a Elección",
             "description": "",
-            "price": "1800",
+            "price": "2200",
             "categorie": ""
         }
     ],
@@ -127,25 +120,25 @@
         {
             "name": "Negroni",
             "description": "Gin tanqueray, Vermouth rosso y campari",
-            "price": "1900",
+            "price": "2400",
             "categorie": ""
         },
         {
             "name": "boulebardier",
             "description": "Wild Turkey, vermuth rosso y campari",
-            "price": "2700",
+            "price": "2900",
             "categorie": ""
         },
         {
             "name": "Manhattan",
             "description": "Coctel clásico elaborado con whisky bourbon wild turkey 101, vermu rosso y dash de bitter angostura.",
-            "price": "2700",
+            "price": "3000",
             "categorie": ""
         },
         {
             "name": "Penicilin",
             "description": "wisky the famous grouse/Sir Edward's,",
-            "price": "2500",
+            "price": "2800",
             "categorie": ""
         }
     ],
@@ -153,37 +146,37 @@
         {
             "name": "Cachengo Pink",
             "description": "Coctel elaborado con base de gin, jugo de limón, frutillas, almibar simple y agua tónica.",
-            "price": "2700",
+            "price": "3000",
             "categorie": ""
         },
         {
             "name": "Caipi Roska/rinha/risima",
             "description": "Elaborado con vodka clásico, almibar, jugo de limón, limón/saborizado de frutos rojos y maracuyá.",
-            "price": "1900",
+            "price": "2400",
             "categorie": ""
         },
         {
             "name": "Aperol Spritz",
             "description": "Aperol, agua con gas, cinzano to spritz y rodaja de naranja.",
-            "price": "1500",
+            "price": "2200",
             "categorie": ""
         },
         {
             "name": "Garibaldi",
             "description": "Campari, jugo de naranja, rodaja de naranja.",
-            "price": "1200",
+            "price": "1800",
             "categorie": ""
         },
         {
             "name": "Campari tonic",
             "description": "Campari, tónica y rodaja de naranja",
-            "price": "1200",
+            "price": "2000",
             "categorie": ""
         },
         {
             "name": "Red Jagger(en vaso tiki)",
             "description": "Coctel tropical cítrico elaborado con jaggermeifter, jugo de límon, zumo de frutos rojos, almibar , como garnitura menta fresca y mix de frutos rojos.",
-            "price": "3700",
+            "price": "4000",
             "categorie": ""
         },
         {
@@ -199,19 +192,13 @@
             "categorie": ""
         },
         {
-            "name": "Coctel de la casa",
-            "description": "Toda la semana variedad nueva, consultar con bartender",
-            "price": "2500",
-            "categorie": ""
-        },
-        {
             "name": "Cuba libre",
             "description": "Ron havana club dorado, jugo de limón y coca cola.",
-            "price": "1900",
+            "price": "2400",
             "categorie": ""
         },
         {
-            "name": "daiquiri",
+            "name": "Daiquiri",
             "description": "Ron havanna 3 años, almibar, frutillas/anana frescas, jugo de limón y hielo picado(Licuado).",
             "price": "2600",
             "categorie": ""
@@ -219,7 +206,7 @@
         {
             "name": "Cocktail tiki",
             "description": "Base de ron, un toque polinesio, con un matiz hawaiano. El característico de la coctelería tiki, decoración tropical y múltiple combinación de sabores frutales",
-            "price": "3100",
+            "price": "4000",
             "categorie": ""
         }
     ],
@@ -239,7 +226,7 @@
         {
             "name": "Licuado de frutilla",
             "description": "",
-            "price": "2000",
+            "price": "1200",
             "categorie": ""
         }
     ],
@@ -255,42 +242,42 @@
         {
             "name": "IPA",
             "description": "una cerveza de alta graduación alcohólica (entre 5º y 7º) y color ámbar, caracterizada por su amargor (contiene a partir de 40 IBU), sus aromas intensos y una alta concentración de lúpulos.",
-            "price": "800"
+            "price": "1000"
         },
         {
             "name": "RED IPA ",
             "description": "Un estilo moderno derivado de una IPA Americana, pero con mayor sabor a malta caramelo similar a una Amber Ale.",
-            "price": "800"
+            "price": "1000"
         },
         {
             "name": "Galaxi APA",
             "description": "Las American Pale Ale o APA son propiamente un estilo de cerveza, caracterizado por ser cervezas de alta fermentación (Ale), rubias (Pale) y elaboradas al estilo americano con lúpulos cultivados allí.",
-            "price": "800"
+            "price": "1000"
         },
         {
             "name": "Irish",
             "description": "Red ale - Wikipedia, la enciclopedia libre La red ale, conocida también como Irish red ale, es un tipo de cerveza ale original de Irlanda. Su ligero color rojo es debido al tostado de la cebada además de la malta. Las cervezas normalmente son bajas en alcohol (3,5 % es lo típico)",
-            "price": "800"
+            "price": "1000"
         },
         {
             "name": "Pilsen",
             "description": "Pilsener es el tipo de cerveza lager elaborada originalmente en el siglo XIX en la ciudad de Pilsen, al oeste de la región histórica de Bohemia, en el entonces Imperio austrohúngaro",
-            "price": "800"
+            "price": "1000"
         },
         {
             "name": "Jengibre",
             "description": "La cerveza de jengibre es una bebida carbonatada, saborizada principalmente con jengibre y endulzada con azúcar o edulcorantes artificiales",
-            "price": "800"
+            "price": "1000"
         },
         {
             "name": "Maracuya",
             "description": "Junto a Beyla Cerveza Artesanal y Väns Öl hicimos esta Brut IPA Maracuyá que compartimos en nuestros bares y ahora embotellamos en esta Edición Limitada",
-            "price": "800"
+            "price": "1000"
         },
         {
             "name": "Black IPA",
             "description": "La cerveza oscura, fuerte y lupulada no es nada nuevo. La elaboración de cervezas con características",
-            "price": "800"
+            "price": "1000"
         }
     ],
     "birritasindustriales": [
@@ -453,7 +440,7 @@
         {
             "name": "Happy Hours Pintitasssss",
             "description": "¡Hora del 2x1! stop 23hs",
-            "price": "1300"
+            "price": "1800"
         }      
     ],
     "parapicotear": [
@@ -549,95 +536,79 @@
     ],    
     "vinos": [
         {
-            "name": "(New)DV Catena Cabernet-Malbec",
+            "name": "DV Catena Cabernet-Malbec",
             "description": "DV Catena Cabernet Sauvignon-Malbec es un vino elegante y complejo, de color rojo rubi con reflejos violetas. A la nariz, intenso y concentrado, presenta notas de especias aportadas por el Cabernet Sauvignon del viñedo La Pirámide, y notas de moras maduras y ciruelas, características del Malbec del viñedo Angélica, acompañadas por vainilla, tabaco y licor aportadas por la crianza en roble",
-            "price": "7500"
-        },
-        {
-            "name": "(New)DV Catena Malbec-Malbec",
-            "description": "Domingo Vicente Catena Malbec es un blend proveniente de uvas Malbec de dos diferentes viñedos. El viñedo Angelica aporta aromas de mermeladas de ciruelas maduras y moras negras, suavidad y volumen al paladar. La Pirámide entrega aromas de frutos negros de carozo y notas de especias como pimienta negra y clavo de olor Se conjugan de manera excepcional para dar origen a este vino, intenso y concentrado, de final largo y muy persistente",
-            "price": "11200"
+            "price": "8000"
         },
         {
             "name": "chenin dulce",
             "description": "Bodega norton.",
-            "price": "2500"
+            "price": "3000"
         },
         {
-            "name": "tinto dulce",
+            "name": "Tinto Dulce",
             "description": "Bodegas norton.",
-            "price": "2500"
+            "price": "2800"
         },
         {
-            "name": "RED BLEND DULCE",
+            "name": "Norton Select cabernet",
             "description": "Bodega norton.",
-            "price": "2500"
+            "price": "3200"
         },
         {
-            "name": "Cabernet",
+            "name": "Norton Select Malbec",
             "description": "Bodega norton.",
-            "price": "2500"
+            "price": "3200"
         },
         {
-            "name": "Malbec",
+            "name": "Norton Reserva",
             "description": "Bodega norton.",
-            "price": "2500"
+            "price": "5000"
         }
     ],
     "combos": [
         {
             "name": "COMBO DE FERNET",
             "description": "Fernet Branca + Coca cola 2,5L.",
-            "price": "6900"
+            "price": "8500"
         },
         {
             "name": "COMBO DE GIN TANQUERAY",
-            "description": "Gin TANQUERAY + 4 latas Paso de los toros tónica + hielo",
-            "price": "18700"
+            "description": "Gin TANQUERAY + 6 latas Paso de los toros tónica + Mix Tonic",
+            "price": "20000"
         },
         {
             "name": "COMBO DE GIN MERLE",
             "description": "Gin MERLE, Tónica Pasos 4 latas limón",
-            "price": "5600"
-        },
-        {
-            "name": "COMBO DE GIN FLIPA",
-            "description": "FLIPA, Tónica Pasos 4 latas limón",
-            "price": "6800"
+            "price": "8000"
         },
         {
             "name": "COMBO DE VODKA",
             "description": "Vodka smirnoff/sky + Gaseosa 2,5L.",
-            "price": "6200"
+            "price": "8500"
         },
         {
             "name": "COMBO DE CHAMPAGNE",
             "description": "Champange Novecento + 2 speed.",
-            "price": "3600"
+            "price": "4200"
         },
         {
             "name": "COMBO DE CHAMPAGNE Premium",
             "description": "Las Perdices Extra Brut Champagne + RBullx2",
-            "price": "5600"
+            "price": "6500"
         }
     ],
     "gintoneria": [
         {
             "name": "Copon Le tribute",
             "description": "Se trata de una ginebra de corte cítrico elaborada con cítricos naturales. Además está embotellada a una graduación del 43% de alcohol.",
-            "price": "3700",
+            "price": "4500",
             "categorie": "nacional"
         },
         {
             "name": "Copon de Merle",
             "description": "Gin Merle, Agua Tónica",
-            "price": "1200",
-            "categorie": "nacional"
-        },
-        {
-            "name": "Copon de Flipa",
-            "description": "Gin flipa, Agua Tónica",
-            "price": "1900",
+            "price": "1400",
             "categorie": "nacional"
         },
         {
@@ -661,19 +632,25 @@
         {
             "name": "Gin Tanqueray LondonDry",
             "description": "Gin tanqueray(enebro con aroma a pino, cilantro especiado, angélica aromática y regaliz dulce), Agua Tónica",
-            "price": "2500",
+            "price": "2900",
             "categorie": "importado"
         },
         {
             "name": "Gin Beefeater",
             "description": "Gin beefeater(Formado por 9 ingredientes aromáticos. Además de enebro, encontramos: raíz y semillas de angélica, semillas de cilantro y regaliz. También almendra y polvo de raíz de lírio. Por último dos cítricos: naranjas de Sevilla y limón. Ambos en forma de piel seca), Agua Tónica",
-            "price": "2900",
+            "price": "3000",
+            "categorie": "importado"
+        },
+        {
+            "name": "Gin Beefeater Pink",
+            "description": "Gin beefeater(Formado por 9 ingredientes aromáticos. Además de enebro, encontramos: raíz y semillas de angélica, semillas de cilantro y regaliz. También almendra y polvo de raíz de lírio. Por último dos cítricos: naranjas de Sevilla y limón. Ambos en forma de piel seca), Agua Tónica",
+            "price": "3200",
             "categorie": "importado"
         },
         {
             "name": "Gin Bombay",
             "description": "",
-            "price": "3200",
+            "price": "3500",
             "categorie": "importado"
         },
         {
@@ -685,11 +662,17 @@
         {
             "name": "Gin Principe de los Apostoles",
             "description": "Gin Principe de los Apostoles(Sus botánicos principales son las hojas frescas de yerba mate, pieles de pomelo rosado, eucalipto y menta peperina), Agua Tónica",
-            "price": "1900",
+            "price": "2200",
             "categorie": "nacional"
         },
         {
-            "name": "mix tonix",
+            "name": "Gin Hilbing Pink",
+            "description": "Gin Hilbing Pink",
+            "price": "2400",
+            "categorie": "nacional"
+        },
+        {
+            "name": "Mix Tonix",
             "description": "mix de frutas y botánicos",
             "price": "400",
             "categorie": "adicional"
@@ -705,37 +688,37 @@
         {
             "name": "Whisky Johnnie Walker Black label",
             "description": "Johnnie Walker  Black Label",
-            "price": "3700",
+            "price": "4000",
             "categorie": ""
         },
         {
             "name": "Medida de SHERIDAN'S",
             "description": "Sheridan's Licor de Café Litro es un exquisito y delicioso licor doble, totalmente natural compuesto de crema de vainilla y licor de café y chocolate con base de whisky irlandés envejecido",
-            "price": "3100",
+            "price": "3500",
             "categorie": ""
         },
         {
             "name": "Medida de Amarula",
             "description": "Amarula es originalmente un licor crema que se fabricaba en Sudáfrica. Se hace con azúcar, nata y el fruto del árbol africano marula (Sclerocarya birrea)",
-            "price": "2500",
+            "price": "3000",
             "categorie": ""
         },
         {
             "name": "Medida de fernet",
             "description": "medida de fernet más lata de coca",
-            "price": "2200",
+            "price": "2800",
             "categorie": ""
         },
         {
             "name": "Medida de Absolute",
             "description": "medida de absolute más lata de redbull",
-            "price": "4700",
+            "price": "5000",
             "categorie": ""
         },
         {
             "name": "Jagger + redbull",
             "description": "medida de Jagge mas lata de red bull",
-            "price": "5000",
+            "price": "5200",
             "categorie": ""
         }, 
         {
@@ -747,7 +730,7 @@
         {
             "name": "Vodka + gaseosa",
             "description": "Vodaka sky/Smirnoff ",
-            "price": "1200",
+            "price": "2500",
             "categorie": ""
         },
         {
@@ -759,7 +742,7 @@
         {
             "name": "Whisky Wild Turkey",
             "description": "Wild Turkey es conocido por su alta presencia de centeno en la mezcla, incluso en los bourbon con los que comienzan la gama. Final: el acabado intenso da paso a un retrogusto ligeramente seco. Las especias, la pimienta y el roble dominan las notas más dulces del paladar. medida de 70ml",
-            "price": "3500",
+            "price": "3800",
             "categorie": ""
         },
         {
@@ -771,7 +754,7 @@
         {
             "name": "Whisky Tullamore Dew",
             "description": "Tullamore Dew es un whisky de 40%vol con color acaramelado, fragancias son cítricas con notas de manzana verde y vainilla y un fino y afrutado paso por boca que evoluciona con sabor a madera y vainilla. Tiene un final largo y complejo con notas vegetales y caramelo. medida de 70ml",
-            "price": "3500",
+            "price": "3800",
             "categorie": ""
         }
         

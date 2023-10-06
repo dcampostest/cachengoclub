@@ -25,7 +25,6 @@ function Products(){
                 <Productbox image={generic} title="Para Picotear"/>
                 <Productbox image={generic} title="Pizzas"/>
                 <Productbox image={generic} title="Burguers"/>
-                <Productbox image={generic} title="Collins"/>
                 <Productbox image={generic} title="Mojitos"/>
                 <Productbox image={generic} title="Destilled Sours"/>
                 <Productbox image={generic} title="Aperitivos"/>
