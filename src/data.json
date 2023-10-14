@@ -242,42 +242,42 @@
         {
             "name": "IPA",
             "description": "una cerveza de alta graduación alcohólica (entre 5º y 7º) y color ámbar, caracterizada por su amargor (contiene a partir de 40 IBU), sus aromas intensos y una alta concentración de lúpulos.",
-            "price": "1000"
+            "price": "800"
         },
         {
             "name": "RED IPA ",
             "description": "Un estilo moderno derivado de una IPA Americana, pero con mayor sabor a malta caramelo similar a una Amber Ale.",
-            "price": "1000"
+            "price": "800"
         },
         {
             "name": "Galaxi APA",
             "description": "Las American Pale Ale o APA son propiamente un estilo de cerveza, caracterizado por ser cervezas de alta fermentación (Ale), rubias (Pale) y elaboradas al estilo americano con lúpulos cultivados allí.",
-            "price": "1000"
+            "price": "800"
         },
         {
             "name": "Irish",
             "description": "Red ale - Wikipedia, la enciclopedia libre La red ale, conocida también como Irish red ale, es un tipo de cerveza ale original de Irlanda. Su ligero color rojo es debido al tostado de la cebada además de la malta. Las cervezas normalmente son bajas en alcohol (3,5 % es lo típico)",
-            "price": "1000"
+            "price": "800"
         },
         {
             "name": "Pilsen",
             "description": "Pilsener es el tipo de cerveza lager elaborada originalmente en el siglo XIX en la ciudad de Pilsen, al oeste de la región histórica de Bohemia, en el entonces Imperio austrohúngaro",
-            "price": "1000"
+            "price": "800"
         },
         {
             "name": "Jengibre",
             "description": "La cerveza de jengibre es una bebida carbonatada, saborizada principalmente con jengibre y endulzada con azúcar o edulcorantes artificiales",
-            "price": "1000"
+            "price": "800"
         },
         {
             "name": "Maracuya",
             "description": "Junto a Beyla Cerveza Artesanal y Väns Öl hicimos esta Brut IPA Maracuyá que compartimos en nuestros bares y ahora embotellamos en esta Edición Limitada",
-            "price": "1000"
+            "price": "800"
         },
         {
             "name": "Black IPA",
             "description": "La cerveza oscura, fuerte y lupulada no es nada nuevo. La elaboración de cervezas con características",
-            "price": "1000"
+            "price": "800"
         }
     ],
     "birritasindustriales": [
@@ -440,7 +440,7 @@
         {
             "name": "Happy Hours Pintitasssss",
             "description": "¡Hora del 2x1! stop 23hs",
-            "price": "1800"
+            "price": "-"
         }      
     ],
     "parapicotear": [
@@ -567,6 +567,11 @@
         }
     ],
     "combos": [
+        {
+            "name": "(New)COMBO DE GIN MERLE PINK",
+            "description": "Gin MERLE, Tónica Pasos 4 latas limón",
+            "price": "8500"
+        },
         {
             "name": "COMBO DE FERNET",
             "description": "Fernet Branca + Coca cola 2,5L.",
