@@ -193,7 +193,7 @@
         },
         {
             "name": "Cuba libre",
-            "description": "Ron havana club dorado, jugo de limón y coca cola.",
+            "description": "cóctel tradicional cubano que contiene Havana club añejo especial, lima, bitter angostura, Coca-Cola, limón deshidratado y piel de limón.",
             "price": "2400",
             "categorie": ""
         },
@@ -334,106 +334,71 @@
     ],
     "burguers": [
         {
-            "name": "(New) Crispy Cat",
+            "name": "Crispy Cat",
             "description": "Pan de papa, medallón de 130 g, cheddar, panceta ahumada, cebolla cryspi y ketchup",
-            "price": "2200"
+            "price": "5300"
         },        
         {
-            "name": "(New )Doble Crispy Cat",
+            "name": "Doble Crispy Cat",
             "description": "Pan de papa,doble medallón de 130 g, cheddar, panceta ahumada, cebolla cryspi y ketchup",
-            "price": "2700"
+            "price": "6600"
         },
         {
-            "name": "(New) Provolone",
+            "name": "Provolone",
             "description": "Pan de papa, medallón de 130 g, queso provolone, salsa criolla y ketchup",
-            "price": "2200"
+            "price": "5300"
         },
         {
-            "name": "(New) Doble Provolone",
+            "name": "Doble Provolone",
             "description": "Pan de papa,doble medallón de 130 g, queso provolone, salsa criolla y ketchup",
-            "price": "2900"
-        },
-        {
-            "name": "(New) Clásica",
-            "description": "Pan de papa, medallón de 130 g, muzza, lechuga rulito, tomate, jamon cocido y ketchup",
-            "price": "2100"
-        },
-        {
-            "name": "(New) Doble Clásica",
-            "description": "Pan de papa, doble medallón de 130 g, muzza, lechuga rulito, tomate, jamon cocido y ketchup",
-            "price": "2600"
-        },
-        {
-            "name": "(New) Picat",
-            "description": "Pan de papa, medallón de 130 g, cheddar, lechuga rulito, panceta ahumada, tomate, salsa de aji y ketchup",
-            "price": "2200"
-        },
-        {
-            "name": "(New) Doble Picat",
-            "description": "Pan de papa, doblr medallón de 130 g, cheddar, lechuga rulito, panceta ahumada, tomate, salsa de aji y ketchup",
-            "price": "2700"
+            "price": "6600"
         },
         {
             "name": "CACHENGO BBQ",
             "description": "Pan de papa, medallón de 130 g, cheddar, panceta ahumada, barbacoa y papas fritas",
-            "price": "2200"
+            "price": "5499"
         },
         {
             "name": "BIG CAT",
             "description": "Pan de papa, medallón de 130 g, lechuga, cebolla, cheddar, salsa big cat, pepinillos y papas fritas.",
-            "price": "2200"
-        },
-        {
-            "name": "AMERICANA",
-            "description": "Pan de papa, medallón de 130 g, lechuga, cebolla, cheddar, tomate, ketchup y papas fritas.",
-            "price": "2200"
+            "price": "5399"
         },
         {
             "name": "DOBLE CACHENGO BBQ",
             "description": "Pan de papa, medallón de 130 g x2, cheddar x2, panceta ahumada x2, barbacoa y papas fritas",
-            "price": "3000"
+            "price": "6799"
         },
         {
             "name": "DOBLE BIG CAT",
             "description": "Pan de papa, medallón de 130 g x2, lechuga, cebolla, cheddar x2, salsa big cat, pepinillos y papas fritas.",
-            "price": "2700"
-        },
-        {
-            "name": "DOBLE AMERICANA",
-            "description": "Pan de papa, medallón de 130 g x2, lechuga, cebolla, cheddar x2, tomate, ketchup y papas fritas.",
-            "price": "2700"
+            "price": "6699"
         }
     ],
     "pizzas": [
         {
-            "name": "(new) QUEZO AZUL",
-            "description": "Pizza con salsa de tomate (receta especial), muzza, quezo azul, cebolla de verdeo y aceituna.",
-            "price": "2500"
-        },
-        {
-            "name": "(new) Anana",
-            "description": "Pizza con salsa de tomate (receta especial), muzza, anana y aceituna.",
-            "price": "2900"
-        },
-        {
-            "name": "(new) Mita y Mita",
+            "name": "Mita y Mita",
             "description": "A elección",
-            "price": "3100"
+            "price": "5999"
         },
         {
             "name": "MUZZA",
             "description": "Pizza con salsa de tomate (receta especial), muzza, chimi y aceituna.",
-            "price": "2200"
+            "price": "4999"
         },
         {
             "name": "SÚPER ESPECIAL",
             "description": "Pizza con salsa de tomate (receta especial), muzza, jamón cocido, chimi, morrón y aceituna.",
-            "price": "2500"
+            "price": "5299"
         },
         {
             "name": "JAMÓN Y RÚCULA",
             "description": "Pizza con salsa de tomate (receta especial), muzza, jamón crudo, rúcula, chimi y aceituna.",
-            "price": "3100"
+            "price": "5899"
+        },
+        {
+            "name": "NAPOLITANA",
+            "description": "Pizza con salsa de tomate, muzza, rodajas de tomate y aceituna.",
+            "price": "5299"
         }
     ],
     "promos": [
@@ -445,39 +410,24 @@
     ],
     "parapicotear": [
         {
-            "name": "(new) Bastones de muzza",
+            "name": "Bastones de muzza",
             "description": "Bastones de muzza apanados.",
-            "price": "1900"
-        },
-        {
-            "name": "(new) Salchipapas",
-            "description": "Papas con salchichas parrilleras.",
-            "price": "1900"
-        },
-        {
-            "name": "(new) Pollo Cryspi",
-            "description": "tiras de pollos apanadas.",
-            "price": "2400"
-        },
-        {
-            "name": "(new) A caballo",
-            "description": "Papas con huevos fritos.",
-            "price": "1800"
+            "price": "3999"
         },
         {
             "name": "CLÁSICA",
             "description": "Papas clásicas.",
-            "price": "1600"
+            "price": "3499"
         },
         {
             "name": "PAPACHENGO",
             "description": "Papas, cheddar, panceta ahumada y verdeo.",
-            "price": "2100"
+            "price": "4099"
         },
         {
-            "name": "Mani",
-            "description": "Un Maní para calentar con la Birrita?",
-            "price": "400"
+            "name": "CHEDDAR",
+            "description": "Papas peladas con cheddar.",
+            "price": "3899"
         }
     ],
     "bebidassinalcohol": [
