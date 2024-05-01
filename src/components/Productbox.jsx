@@ -48,7 +48,7 @@ function Productbox(props) {
                             {props.title === "Autoría" && 
                                <Categorie meals={autoria} />
                             }
-                            {props.title === "cocktails" && 
+                            {props.title === "Cocktails" && 
                                <Categorie meals={cocteles} />
                             }
                             {props.title === "Pintas" && 
