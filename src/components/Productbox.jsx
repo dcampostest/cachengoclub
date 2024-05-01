@@ -4,7 +4,7 @@ import {
     ModalHeader, ModalBody
 } from "reactstrap"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { novedades,promos,collins, mojitos, destilledsours, aperitivos, clasicosinternacionales,clasicosdelacasa,mocktails,detumenteatusmanos,birritasartesanales,birritasindustriales,burguers,pizzas,medidas,parapicotear,bebidassinalcohol,franui,vinos,combos,gintoneria
+import { novedades,promos,autoria, cocteles, pintas, individuales, cervezaindustrial,mocktails,burguers,pizzas,medidas,parapicotear,vinos,combos,gintoneria
 } from ".././data.json";
 import Categorie from "./utils/Categorie";
 
@@ -30,6 +30,12 @@ function Productbox(props) {
                         <ModalHeader
                             toggle={toggle}>{props.title}</ModalHeader>
                         <ModalBody>
+                           {props.title === "Promos" && 
+                               <Categorie meals={promos} />
+                            }
+                           {props.title === "Novedades" && 
+                               <Categorie meals={novedades} />
+                            }
                            {props.title === "Para Picotear" && 
                                <Categorie meals={parapicotear} />
                             }
@@ -39,23 +45,17 @@ function Productbox(props) {
                             {props.title === "Burguers" && 
                                <Categorie meals={burguers} />
                             }
-                            {props.title === "Collins" && 
-                               <Categorie meals={collins} />
+                            {props.title === "Autoría" && 
+                               <Categorie meals={autoria} />
                             }
-                            {props.title === "Mojitos" && 
-                               <Categorie meals={mojitos} />
+                            {props.title === "cocktails" && 
+                               <Categorie meals={cocteles} />
                             }
-                            {props.title === "Destilled Sours" && 
-                               <Categorie meals={destilledsours} />
+                            {props.title === "Pintas" && 
+                               <Categorie meals={pintas} />
                             }
-                            {props.title === "Aperitivos" && 
-                               <Categorie meals={aperitivos} />
-                            }
-                            {props.title === "Clásicos Inter." && 
-                               <Categorie meals={clasicosinternacionales} />
-                            }
-                            {props.title === "De la casa" && 
-                               <Categorie meals={clasicosdelacasa} />
+                            {props.title === "Individuales" && 
+                               <Categorie meals={individuales} />
                             }
                             {props.title === "Mocktails" && 
                                <Categorie meals={mocktails} />
@@ -63,14 +63,8 @@ function Productbox(props) {
                             {props.title === "Gintoneria" && 
                                <Categorie meals={gintoneria} />
                             }
-                            {props.title === "De tu mente a tus manos" && 
-                               <Categorie meals={detumenteatusmanos} />
-                            }
-                            {props.title === "Birritas Art." && 
-                               <Categorie meals={birritasartesanales} />
-                            }
                             {props.title === "Birritas Industriales" && 
-                               <Categorie meals={birritasindustriales} />
+                               <Categorie meals={cervezaindustrial} />
                             }
                             {props.title === "Combos" && 
                                <Categorie meals={combos} />
@@ -78,20 +72,8 @@ function Productbox(props) {
                            {props.title === "Medidas" && 
                                <Categorie meals={medidas} />
                             }
-                            {props.title === "Bebidas S/Alc" && 
-                               <Categorie meals={bebidassinalcohol} />
-                            }
-                            {props.title === "Franui" && 
-                               <Categorie meals={franui} />
-                            }
                             {props.title === "Vinos" && 
                                <Categorie meals={vinos} />
-                            }
-                            {props.title === "Promos Viernes" && 
-                               <Categorie meals={promos} />
-                            }
-                           {props.title === "Novedades" && 
-                               <Categorie meals={novedades} />
                             }
 
                         </ModalBody>
