@@ -21,24 +21,20 @@ function Products(){
             <h1>Carta</h1>
             <p></p>
             <div className='a-container'>
+                <Productbox image={generic} title="Promos"/>
                 <Productbox image={generic} title="Novedades"/>
                 <Productbox image={generic} title="Para Picotear"/>
                 <Productbox image={generic} title="Pizzas"/>
                 <Productbox image={generic} title="Burguers"/>
-                <Productbox image={generic} title="Mojitos"/>
-                <Productbox image={generic} title="Destilled Sours"/>
-                <Productbox image={generic} title="Aperitivos"/>
-                <Productbox image={generic} title="Clásicos Inter."/>
-                <Productbox image={generic} title="De la casa"/>
+                <Productbox image={generic} title="Autoría"/>
+                <Productbox image={generic} title="Cocktails"/>
+                <Productbox image={generic} title="Pintas"/>
+                <Productbox image={generic} title="Individuales"/>
                 <Productbox image={generic} title="Mocktails"/>
                 <Productbox image={generic} title="Gintoneria"/>
-                <Productbox image={generic} title="De tu mente a tus manos"/>
-                <Productbox image={generic} title="Birritas Art."/>
                 <Productbox image={generic} title="Birritas Industriales"/>
                 <Productbox image={generic} title="Combos"/>
                 <Productbox image={generic} title="Medidas"/>
-                <Productbox image={generic} title="Bebidas S/Alc"/>
-                <Productbox image={generic} title="Franui"/>
                 <Productbox image={generic} title="Vinos"/>
             </div>
         </div>
