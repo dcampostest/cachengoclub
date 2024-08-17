@@ -30,9 +30,6 @@ function Productbox(props) {
                         <ModalHeader
                             toggle={toggle}>{props.title}</ModalHeader>
                         <ModalBody>
-                           {props.title === "Promos" && 
-                               <Categorie meals={promos} />
-                            }
                            {props.title === "Novedades" && 
                                <Categorie meals={novedades} />
                             }

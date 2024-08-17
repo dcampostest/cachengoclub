@@ -88,12 +88,6 @@
             "categorie": ""
         },
         {
-            "name": "Shot Miaw",
-            "description": "Preparete para descubrir la magia de la alquimia. Vodka, granadina, licor, baileys",
-            "price": "2000",
-            "categorie": ""
-        },
-        {
             "name": "Tonic & Algo mas",
             "description": "Gin Profeta, tónica, eleccion tubo de ensayo: sauco, parfait armour o cherry brandy",
             "price": "4500",
@@ -240,14 +234,19 @@
     ],
     "cervezaindustrial": [
         {
+            "name": "Lata Bud Chica",
+            "description": "",
+            "price": "3000"
+        },
+        {
+            "name": "Laton Bud",
+            "description": "",
+            "price": "4000"
+        },
+        {
             "name": "PATAGONIA WEISSE",
             "description": "BOTELLA 740CC",
             "price": "6500"
-        },
-        {
-            "name": "CORONA",
-            "description": "BOTELLA 710CC",
-            "price": "-"
         },
         {
             "name": "PATAGONIA BOHEMIAN",
@@ -273,11 +272,6 @@
             "name": "PATAGONIA 24.7",
             "description": "BOTELLA 710CC",
             "price": "6500"
-        },
-        {
-            "name": "BUDWEISER",
-            "description": "BOTELLA 710CC",
-            "price": "-"
         },
         {
             "name": "ANDES ORIGEN",
@@ -415,7 +409,7 @@
         {
             "name": "RedBull",
             "description": "Energizante RED BULL 250ml.",
-            "price": "3000"
+            "price": "5000"
         },
         {
             "name": "Speed",
@@ -427,7 +421,7 @@
         {
             "name": "DV Catena Malbec-Malbec",
             "description": "DV Catena Malbec-Malbec es un vino elegante y complejo, de color rojo rubi con reflejos violetas. A la nariz, intenso y concentrado, presenta notas de especias aportadas por el Cabernet Sauvignon del viñedo La Pirámide, y notas de moras maduras y ciruelas, características del Malbec del viñedo Angélica, acompañadas por vainilla, tabaco y licor aportadas por la crianza en roble",
-            "price": "16000"
+            "price": "24000"
         },
         {
             "name": "Norton cosecha tardía blanco dulce",
@@ -441,16 +435,6 @@
         },
         {
             "name": "Norton select Malbec",
-            "description": "Bodega norton.",
-            "price": "7000"
-        },
-        {
-            "name": "Norton select reserva",
-            "description": "Bodega norton.",
-            "price": "10000"
-        },
-        {
-            "name": "Norton select cab franc",
             "description": "Bodega norton.",
             "price": "7000"
         }
@@ -472,21 +456,26 @@
             "price": "20000"
         },
         {
+            "name": "COMBO DE Absolute",
+            "description": "Vodka Absolute + 4latas redbull (condultar por disponibilidad en la barra)",
+            "price": "55000"
+        },
+        {
             "name": "COMBO DE CHAMPAGNE",
             "description": "Champange Novecento + 2 speed.",
             "price": "14000"
         },
         {
-            "name": "COMBO DE CHAMPAGNE Premium",
-            "description": "Las Perdices Extra Brut Champagne + RBullx2",
-            "price": "-"
+            "name": "COMBO DE Habana Club",
+            "description": "Havana club especial + coca cola",
+            "price": "40000"
         }
     ],
     "gintoneria": [
         {
             "name": "Copon de Merle",
             "description": "Gin Merle, Agua Tónica",
-            "price": "3000",
+            "price": "3500",
             "categorie": "nacional"
         },
         {
@@ -546,15 +535,15 @@
     ],
     "medidas":[
         {
-            "name": "Whisky Johnnie Walker Double Black",
-            "description": "Johnnie Walker Double Black está inspirado en los sabores icónicos de Johnnie Walker Black Label, acentuándolos para crear una mezcla con una intensidad sin precedentes. medida de 70ml",
-            "price": "8000",
+            "name": "Whisky Johnnie Walker Black label",
+            "description": "Johnnie Walker  Black Label",
+            "price": "14000",
             "categorie": ""
         },
         {
-            "name": "Whisky Johnnie Walker Black label",
-            "description": "Johnnie Walker  Black Label",
-            "price": "6500",
+            "name": "Chivas Regal 12",
+            "description": "",
+            "price": "14000",
             "categorie": ""
         },
         {
@@ -570,33 +559,27 @@
             "categorie": ""
         },
         {
-            "name": "Medida de fernet",
-            "description": "medida de fernet más lata de coca",
-            "price": "6000",
+            "name": "Vaso fernet",
+            "description": "Vaso preparado",
+            "price": "3600",
             "categorie": ""
         },
         {
             "name": "Medida de Absolute",
             "description": "medida de absolute más lata de redbull",
-            "price": "11000",
+            "price": "14000",
             "categorie": ""
         },
         {
             "name": "Jagger + redbull",
             "description": "medida de Jagge mas lata de red bull",
-            "price": "14000",
+            "price": "15000",
             "categorie": ""
         }, 
         {
-            "name": "Shot de Jose Cuervo",
-            "description": "",
-            "price": "-",
-            "categorie": ""
-        },
-        {
             "name": "Vodka + gaseosa",
             "description": "Vodaka sky/Smirnoff ",
-            "price": "2500",
+            "price": "3500",
             "categorie": ""
         },
         {
@@ -614,12 +597,6 @@
         {
             "name": "Whisky Sir Edward's",
             "description": "Sir Edward's es un destilado de alcohol de malta y destilado de cereales malteados, mezclados y embotellados en Escocia. medida de 70ml",
-            "price": "-",
-            "categorie": ""
-        },
-        {
-            "name": "Whisky Tullamore Dew",
-            "description": "Tullamore Dew es un whisky de 40%vol con color acaramelado, fragancias son cítricas con notas de manzana verde y vainilla y un fino y afrutado paso por boca que evoluciona con sabor a madera y vainilla. Tiene un final largo y complejo con notas vegetales y caramelo. medida de 70ml",
             "price": "-",
             "categorie": ""
         }
