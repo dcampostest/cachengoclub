@@ -4,7 +4,7 @@ import {
     ModalHeader, ModalBody
 } from "reactstrap"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { promos,novedades,autoria, cocteles, pintas, individuales, cervezaindustrial,mocktails,burguers,pizzas,medidas,parapicotear,vinos,combos,gintoneria
+import { novedades,autoria, cocteles, pintas, individuales, cervezaindustrial,mocktails,burguers,pizzas,medidas,parapicotear,vinos,combos,gintoneria
 } from ".././data.json";
 import Categorie from "./utils/Categorie";
 
