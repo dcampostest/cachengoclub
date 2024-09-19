@@ -84,6 +84,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 9 - git pull
 
 10 - npm run build
+por las dudas export NODE_OPTIONS=--openssl-legacy-provider
 
 11 - sudo cp -r /root/cachengoclub/build/. /var/www/html
 12 - sudo service nginx restart
