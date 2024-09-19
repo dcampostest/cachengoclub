@@ -41,7 +41,6 @@ function App() {
           <Navbar />
           <Inicio />
           <Products />
-          <Nosotros />
         </>
       }
     </div>
