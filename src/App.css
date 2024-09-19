@@ -61,3 +61,10 @@ div img {
   height: auto;
   width: 100%;
 }
+
+.gradient-text {
+  background: linear-gradient(to right, #ff7e5f, #feb47b); /* Degradado de izquierda a derecha */
+  -webkit-background-clip: text; /* Clip para que el fondo se aplique solo al texto */
+  -webkit-text-fill-color: transparent; /* Hace que el texto sea transparente */
+  padding: 10px; /* Espaciado alrededor del texto */
+}
