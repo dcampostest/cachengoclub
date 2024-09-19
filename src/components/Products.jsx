@@ -12,13 +12,15 @@ import mocktails from '../images/mocktails.png'
 import combos from '../images/combos.png'
 import pintas from '../images/pintas.jpg'
 import individuales from '../images/individuales.png'
-import medidas from '../images/medidas.png'
+import medidas from '../images/medidas.jpg'
+import gintonic from '../images/gintonic.jpeg'
 
 function Products(){
     return(
         <div id='products'>
-            <h3 class="gradient-text">BIENVENIDA PRIMAVERA</h3>
-            <p></p>
+            <div class="dark-background">
+                <h3>BIENVENIDA PRIMAVERA</h3>
+            </div>
             <div className='a-container'>
                 <Productbox image={papas} title="Para Picotear"/>
                 <Productbox image={pizzas} title="Pizzas"/>
@@ -28,7 +30,7 @@ function Products(){
                 <Productbox image={pintas} title="Pintas"/>
                 <Productbox image={individuales} title="Individuales"/>
                 <Productbox image={mocktails} title="Mocktails"/>
-                <Productbox image={generic} title="Gintoneria"/>
+                <Productbox image={gintonic} title="Gintoneria"/>
                 <Productbox image={birras} title="Birritas Industriales"/>
                 <Productbox image={combos} title="Combos"/>
                 <Productbox image={medidas} title="Medidas"/>
