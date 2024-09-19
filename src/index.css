@@ -163,7 +163,7 @@ nav .menu-btn,
     align-items: center;
     justify-content: center;
     padding-top: 20px ;
-    background: linear-gradient(rgba(0, 0, 0, 0.185), rgba(0, 0, 0, 0.03)), url('./images/primavera2024.jpg');
+    background: url('./images/prima1.jpeg');
     background-color: #1717170f;
 }
 #products h1{
