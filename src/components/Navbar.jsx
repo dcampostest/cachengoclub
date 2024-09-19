@@ -26,7 +26,6 @@ function Navbar(){
             <ul className='menu'>
                 <li><Link to="main" smooth={true} duration={1000}>Inicio</Link></li>
                 <li><Link to="products" smooth={true} duration={1000}>Menú</Link></li>
-                <li><Link to="about" smooth={true} duration={1000}>Nosotros</Link></li>
             </ul>
         </nav>
     )
