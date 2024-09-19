@@ -11,16 +11,13 @@ import vinos from '../images/vinos.png'
 import mocktails from '../images/mocktails.png'
 import combos from '../images/combos.png'
 import pintas from '../images/pintas.jpg'
-import individuales from '../images/individuales.png'
+import individuales from '../images/individuales.jpeg'
 import medidas from '../images/medidas.jpg'
 import gintonic from '../images/gintonic.jpeg'
 
 function Products(){
     return(
         <div id='products'>
-            <div class="dark-background">
-                <h3>BIENVENIDA PRIMAVERA</h3>
-            </div>
             <div className='a-container'>
                 <Productbox image={papas} title="Para Picotear"/>
                 <Productbox image={pizzas} title="Pizzas"/>
