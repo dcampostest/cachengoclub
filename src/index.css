@@ -163,8 +163,8 @@ nav .menu-btn,
     align-items: center;
     justify-content: center;
     padding-top: 20px ;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./images/pizarra.jpg');
-    background-color: #171717c6;
+    background: linear-gradient(rgba(0, 0, 0, 0.185), rgba(0, 0, 0, 0.03)), url('./images/primavera2024.jpg');
+    background-color: #1717170f;
 }
 #products h1{
     font-family:'Alfa Slab One';
@@ -183,6 +183,7 @@ nav .menu-btn,
 .a-container{
     display: flex;
     align-content: center;
+    margin: 17%;
 }
 .a-box{
     background-color: #000000;
